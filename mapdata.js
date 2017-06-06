@@ -3,7 +3,7 @@ var simplemaps_countymap_mapdata={
     //General settings
 		width: "700", //or 'responsive'
     background_color: "#FFFFFF",
-    background_transparent: "no",
+    background_transparent: "yes",
     border_color: "#ffffff",
     popups: "detect",
     
@@ -62,6 +62,7 @@ var simplemaps_countymap_mapdata={
 		//Advanced settings
 		div: "map",
     auto_load: "yes",
+    rotate: "0",
     url_new_tab: "no",
     images_directory: "default",
     fade_time: 0.1,
