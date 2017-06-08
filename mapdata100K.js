@@ -73,7 +73,7 @@ var simplemaps_countymap_mapdata={
     "10001": {
       hide: "default",
       name: "Kent",
-      color: "#f4e313",
+      color: "#136af4",
       url: "default",
       inactive: "default",
       zoomable: "default",
@@ -81,22 +81,22 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "10003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "New Castle",
       description: "3rd quintile in nation"
     },
     "10005": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Sussex",
       description: "2nd quintile in nation"
     },
     "11001": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "District of Columbia",
       description: "1st quintile in nation"
     },
     "12001": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Alachua",
       description: "2nd quintile in nation"
     },
@@ -105,7 +105,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12005": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Bay",
       description: "3rd quintile in nation"
     },
@@ -114,12 +114,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12009": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Brevard",
       description: "4th quintile in nation"
     },
     "12011": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Broward",
       description: "5th quintile in nation"
     },
@@ -128,22 +128,22 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12015": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Charlotte",
       description: "3rd quintile in nation"
     },
     "12017": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Citrus",
       description: "5th quintile in nation"
     },
     "12019": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Clay",
       description: "3rd quintile in nation"
     },
     "12021": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Collier",
       description: "2nd quintile in nation"
     },
@@ -160,17 +160,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12031": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Duval",
       description: "3rd quintile in nation"
     },
     "12033": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Escambia",
       description: "2nd quintile in nation"
     },
     "12035": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Flagler",
       description: "1st quintile in nation"
     },
@@ -207,7 +207,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12053": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Hernando",
       description: "3rd quintile in nation"
     },
@@ -216,7 +216,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12057": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Hillsborough",
       description: "1st quintile in nation"
     },
@@ -225,7 +225,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12061": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Indian River",
       description: "1st quintile in nation"
     },
@@ -242,17 +242,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12069": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Lake",
       description: "1st quintile in nation"
     },
     "12071": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Lee",
       description: "2nd quintile in nation"
     },
     "12073": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Leon",
       description: "3rd quintile in nation"
     },
@@ -269,22 +269,22 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12081": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Manatee",
       description: "3rd quintile in nation"
     },
     "12083": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Marion",
       description: "4th quintile in nation"
     },
     "12085": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Martin",
       description: "3rd quintile in nation"
     },
     "12086": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Miami-Dade",
       description: "5th quintile in nation"
     },
@@ -297,7 +297,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12091": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Okaloosa",
       description: "2nd quintile in nation"
     },
@@ -306,32 +306,32 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12095": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Orange",
       description: "1st quintile in nation"
     },
     "12097": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Osceola",
       description: "2nd quintile in nation"
     },
     "12099": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Palm Beach",
       description: "4th quintile in nation"
     },
     "12101": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Pasco",
       description: "2nd quintile in nation"
     },
     "12103": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Pinellas",
       description: "4th quintile in nation"
     },
     "12105": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Polk",
       description: "2nd quintile in nation"
     },
@@ -340,32 +340,32 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12109": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "St Johns",
       description: "1st quintile in nation"
     },
     "12111": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "St Lucie",
       description: "2nd quintile in nation"
     },
     "12113": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Santa Rosa",
       description: "1st quintile in nation"
     },
     "12115": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Sarasota",
       description: "2nd quintile in nation"
     },
     "12117": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Seminole",
       description: "4th quintile in nation"
     },
     "12119": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Sumter",
       description: "1st quintile in nation"
     },
@@ -382,7 +382,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "12127": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Volusia",
       description: "4th quintile in nation"
     },
@@ -427,7 +427,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13015": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Bartow",
       description: "2nd quintile in nation"
     },
@@ -440,7 +440,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13021": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Bibb",
       description: "5th quintile in nation"
     },
@@ -485,7 +485,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13045": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Carroll",
       description: "4th quintile in nation"
     },
@@ -498,7 +498,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13051": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Chatham",
       description: "3rd quintile in nation"
     },
@@ -511,12 +511,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13057": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Cherokee",
       description: "1st quintile in nation"
     },
     "13059": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Clarke",
       description: "3rd quintile in nation"
     },
@@ -525,7 +525,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13063": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Clayton",
       description: "3rd quintile in nation"
     },
@@ -534,7 +534,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13067": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Cobb",
       description: "1st quintile in nation"
     },
@@ -547,7 +547,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13073": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Columbia",
       description: "1st quintile in nation"
     },
@@ -556,7 +556,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13077": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Coweta",
       description: "1st quintile in nation"
     },
@@ -581,7 +581,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13089": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "De Kalb",
       description: "2nd quintile in nation"
     },
@@ -598,7 +598,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13097": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Douglas",
       description: "2nd quintile in nation"
     },
@@ -631,7 +631,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13113": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Fayette",
       description: "4th quintile in nation"
     },
@@ -640,7 +640,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13117": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Forsyth",
       description: "1st quintile in nation"
     },
@@ -649,7 +649,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13121": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Fulton",
       description: "1st quintile in nation"
     },
@@ -678,7 +678,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13135": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Gwinnett",
       description: "2nd quintile in nation"
     },
@@ -687,7 +687,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13139": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Hall",
       description: "2nd quintile in nation"
     },
@@ -712,12 +712,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13151": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Henry",
       description: "2nd quintile in nation"
     },
     "13153": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Houston",
       description: "3rd quintile in nation"
     },
@@ -782,7 +782,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13185": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Lowndes",
       description: "5th quintile in nation"
     },
@@ -839,12 +839,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13215": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Muscogee",
       description: "4th quintile in nation"
     },
     "13217": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Newton",
       description: "3rd quintile in nation"
     },
@@ -857,7 +857,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13223": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Paulding",
       description: "2nd quintile in nation"
     },
@@ -902,7 +902,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13245": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Richmond",
       description: "5th quintile in nation"
     },
@@ -1039,7 +1039,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "13313": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Whitfield",
       description: "3rd quintile in nation"
     },
@@ -1060,12 +1060,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "15001": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Hawaii",
       description: "4th quintile in nation"
     },
     "15003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Honolulu",
       description: "3rd quintile in nation"
     },
@@ -1078,12 +1078,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "15009": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Maui",
       description: "1st quintile in nation"
     },
     "16001": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Ada",
       description: "1st quintile in nation"
     },
@@ -1120,7 +1120,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "16019": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Bonneville",
       description: "3rd quintile in nation"
     },
@@ -1137,7 +1137,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "16027": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Canyon",
       description: "1st quintile in nation"
     },
@@ -1194,7 +1194,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "16055": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Kootenai",
       description: "2nd quintile in nation"
     },
@@ -1299,7 +1299,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17019": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Champaign",
       description: "3rd quintile in nation"
     },
@@ -1324,7 +1324,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17031": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Cook",
       description: "5th quintile in nation"
     },
@@ -1337,7 +1337,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17037": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "De Kalb",
       description: "5th quintile in nation"
     },
@@ -1350,7 +1350,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17043": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Du Page",
       description: "4th quintile in nation"
     },
@@ -1443,17 +1443,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17089": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Kane",
       description: "3rd quintile in nation"
     },
     "17091": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Kankakee",
       description: "5th quintile in nation"
     },
     "17093": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Kendall",
       description: "2nd quintile in nation"
     },
@@ -1462,12 +1462,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17097": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Lake",
       description: "5th quintile in nation"
     },
     "17099": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "La Salle",
       description: "4th quintile in nation"
     },
@@ -1492,17 +1492,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17111": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "McHenry",
       description: "5th quintile in nation"
     },
     "17113": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Mclean",
       description: "2nd quintile in nation"
     },
     "17115": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Macon",
       description: "5th quintile in nation"
     },
@@ -1511,7 +1511,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17119": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Madison",
       description: "4th quintile in nation"
     },
@@ -1560,7 +1560,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17143": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Peoria",
       description: "4th quintile in nation"
     },
@@ -1597,12 +1597,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17161": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Rock Island",
       description: "4th quintile in nation"
     },
     "17163": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "St Clair",
       description: "5th quintile in nation"
     },
@@ -1611,7 +1611,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17167": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Sangamon",
       description: "5th quintile in nation"
     },
@@ -1636,7 +1636,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17179": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Tazewell",
       description: "2nd quintile in nation"
     },
@@ -1673,7 +1673,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17197": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Will",
       description: "4th quintile in nation"
     },
@@ -1682,7 +1682,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "17201": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Winnebago",
       description: "4th quintile in nation"
     },
@@ -1695,7 +1695,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18003": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Allen",
       description: "2nd quintile in nation"
     },
@@ -1728,7 +1728,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18019": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Clark",
       description: "1st quintile in nation"
     },
@@ -1761,7 +1761,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18035": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Delaware",
       description: "3rd quintile in nation"
     },
@@ -1770,7 +1770,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18039": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Elkhart",
       description: "2nd quintile in nation"
     },
@@ -1807,7 +1807,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18057": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Hamilton",
       description: "1st quintile in nation"
     },
@@ -1820,7 +1820,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18063": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Hendricks",
       description: "1st quintile in nation"
     },
@@ -1857,7 +1857,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18081": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Johnson",
       description: "1st quintile in nation"
     },
@@ -1874,12 +1874,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18089": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Lake",
       description: "3rd quintile in nation"
     },
     "18091": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "La Porte",
       description: "3rd quintile in nation"
     },
@@ -1888,12 +1888,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18095": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Madison",
       description: "3rd quintile in nation"
     },
     "18097": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Marion",
       description: "3rd quintile in nation"
     },
@@ -1910,7 +1910,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18105": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Monroe",
       description: "1st quintile in nation"
     },
@@ -1955,7 +1955,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18127": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Porter",
       description: "3rd quintile in nation"
     },
@@ -1984,7 +1984,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18141": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "St Joseph",
       description: "3rd quintile in nation"
     },
@@ -2017,7 +2017,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18157": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Tippecanoe",
       description: "1st quintile in nation"
     },
@@ -2030,7 +2030,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18163": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Vanderburgh",
       description: "4th quintile in nation"
     },
@@ -2039,7 +2039,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "18167": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Vigo",
       description: "4th quintile in nation"
     },
@@ -2100,7 +2100,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "19013": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Black Hawk",
       description: "2nd quintile in nation"
     },
@@ -2281,7 +2281,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "19103": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Johnson",
       description: "2nd quintile in nation"
     },
@@ -2302,7 +2302,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "19113": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Linn",
       description: "4th quintile in nation"
     },
@@ -2383,7 +2383,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "19153": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Polk",
       description: "4th quintile in nation"
     },
@@ -2404,7 +2404,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "19163": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Scott",
       description: "1st quintile in nation"
     },
@@ -2465,7 +2465,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "19193": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Woodbury",
       description: "3rd quintile in nation"
     },
@@ -2566,7 +2566,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "20045": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Douglas",
       description: "5th quintile in nation"
     },
@@ -2659,7 +2659,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "20091": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Johnson",
       description: "1st quintile in nation"
     },
@@ -2824,7 +2824,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "20173": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Sedgwick",
       description: "4th quintile in nation"
     },
@@ -2833,7 +2833,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "20177": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Shawnee",
       description: "4th quintile in nation"
     },
@@ -2898,7 +2898,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "20209": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Wyandotte",
       description: "2nd quintile in nation"
     },
@@ -2931,7 +2931,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "21015": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Boone",
       description: "1st quintile in nation"
     },
@@ -3036,7 +3036,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "21067": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Fayette",
       description: "1st quintile in nation"
     },
@@ -3089,7 +3089,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "21093": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Hardin",
       description: "2nd quintile in nation"
     },
@@ -3126,7 +3126,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "21111": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Jefferson",
       description: "2nd quintile in nation"
     },
@@ -3139,7 +3139,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "21117": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Kenton",
       description: "4th quintile in nation"
     },
@@ -3360,7 +3360,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "21227": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Warren",
       description: "2nd quintile in nation"
     },
@@ -3397,7 +3397,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22005": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Ascension",
       description: "1st quintile in nation"
     },
@@ -3418,17 +3418,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22015": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Bossier",
       description: "3rd quintile in nation"
     },
     "22017": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Caddo",
       description: "5th quintile in nation"
     },
     "22019": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Calcasieu",
       description: "4th quintile in nation"
     },
@@ -3457,7 +3457,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22033": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "East Baton Rouge",
       description: "4th quintile in nation"
     },
@@ -3494,7 +3494,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22051": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Jefferson",
       description: "5th quintile in nation"
     },
@@ -3503,7 +3503,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22055": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Lafayette",
       description: "2nd quintile in nation"
     },
@@ -3520,7 +3520,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22063": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Livingston",
       description: "3rd quintile in nation"
     },
@@ -3537,12 +3537,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22071": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Orleans",
       description: "5th quintile in nation"
     },
     "22073": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Ouachita",
       description: "5th quintile in nation"
     },
@@ -3555,7 +3555,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22079": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Rapides",
       description: "5th quintile in nation"
     },
@@ -3604,12 +3604,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22103": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "St Tammany",
       description: "5th quintile in nation"
     },
     "22105": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Tangipahoa",
       description: "3rd quintile in nation"
     },
@@ -3618,7 +3618,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "22109": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Terrebonne",
       description: "5th quintile in nation"
     },
@@ -3659,7 +3659,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "23001": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Androscoggin",
       description: "2nd quintile in nation"
     },
@@ -3668,7 +3668,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "23005": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Cumberland",
       description: "3rd quintile in nation"
     },
@@ -3681,7 +3681,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "23011": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Kennebec",
       description: "5th quintile in nation"
     },
@@ -3698,7 +3698,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "23019": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Penobscot",
       description: "4th quintile in nation"
     },
@@ -3723,7 +3723,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "23031": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "York",
       description: "2nd quintile in nation"
     },
@@ -3732,12 +3732,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "24003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Anne Arundel",
       description: "3rd quintile in nation"
     },
     "24005": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Baltimore",
       description: "5th quintile in nation"
     },
@@ -3750,17 +3750,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "24013": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Carroll",
       description: "5th quintile in nation"
     },
     "24015": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Cecil",
       description: "3rd quintile in nation"
     },
     "24017": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Charles",
       description: "5th quintile in nation"
     },
@@ -3769,7 +3769,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "24021": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Frederick",
       description: "4th quintile in nation"
     },
@@ -3778,12 +3778,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "24025": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Harford",
       description: "5th quintile in nation"
     },
     "24027": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Howard",
       description: "4th quintile in nation"
     },
@@ -3792,12 +3792,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "24031": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Montgomery",
       description: "2nd quintile in nation"
     },
     "24033": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Prince Georges",
       description: "4th quintile in nation"
     },
@@ -3806,7 +3806,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "24037": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "St Marys",
       description: "5th quintile in nation"
     },
@@ -3819,12 +3819,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "24043": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Washington",
       description: "4th quintile in nation"
     },
     "24045": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Wicomico",
       description: "2nd quintile in nation"
     },
@@ -3833,22 +3833,22 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "24510": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Baltimore City",
       description: "5th quintile in nation"
     },
     "25001": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Barnstable",
       description: "4th quintile in nation"
     },
     "25003": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Berkshire",
       description: "5th quintile in nation"
     },
     "25005": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Bristol",
       description: "3rd quintile in nation"
     },
@@ -3857,7 +3857,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "25009": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Essex",
       description: "4th quintile in nation"
     },
@@ -3866,17 +3866,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "25013": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Hampden",
       description: "4th quintile in nation"
     },
     "25015": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Hampshire",
       description: "5th quintile in nation"
     },
     "25017": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Middlesex",
       description: "2nd quintile in nation"
     },
@@ -3885,22 +3885,22 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "25021": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Norfolk",
       description: "3rd quintile in nation"
     },
     "25023": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Plymouth",
       description: "5th quintile in nation"
     },
     "25025": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Suffolk",
       description: "1st quintile in nation"
     },
     "25027": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Worcester",
       description: "5th quintile in nation"
     },
@@ -3913,7 +3913,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26005": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Allegan",
       description: "2nd quintile in nation"
     },
@@ -3938,7 +3938,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26017": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Bay",
       description: "4th quintile in nation"
     },
@@ -3947,7 +3947,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26021": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Berrien",
       description: "3rd quintile in nation"
     },
@@ -3956,7 +3956,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26025": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Calhoun",
       description: "5th quintile in nation"
     },
@@ -3997,7 +3997,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26045": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Eaton",
       description: "4th quintile in nation"
     },
@@ -4006,7 +4006,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26049": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Genesee",
       description: "5th quintile in nation"
     },
@@ -4039,7 +4039,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26065": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Ingham",
       description: "3rd quintile in nation"
     },
@@ -4060,12 +4060,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26075": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Jackson",
       description: "3rd quintile in nation"
     },
     "26077": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Kalamazoo",
       description: "2nd quintile in nation"
     },
@@ -4074,7 +4074,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26081": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Kent",
       description: "1st quintile in nation"
     },
@@ -4099,7 +4099,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26093": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Livingston",
       description: "2nd quintile in nation"
     },
@@ -4112,7 +4112,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26099": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Macomb",
       description: "2nd quintile in nation"
     },
@@ -4145,7 +4145,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26115": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Monroe",
       description: "3rd quintile in nation"
     },
@@ -4158,7 +4158,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26121": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Muskegon",
       description: "3rd quintile in nation"
     },
@@ -4167,7 +4167,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26125": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Oakland",
       description: "1st quintile in nation"
     },
@@ -4196,7 +4196,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26139": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Ottawa",
       description: "1st quintile in nation"
     },
@@ -4209,12 +4209,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26145": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Saginaw",
       description: "4th quintile in nation"
     },
     "26147": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "St Clair",
       description: "4th quintile in nation"
     },
@@ -4243,12 +4243,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "26161": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Washtenaw",
       description: "2nd quintile in nation"
     },
     "26163": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Wayne",
       description: "5th quintile in nation"
     },
@@ -4261,7 +4261,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27003": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Anoka",
       description: "2nd quintile in nation"
     },
@@ -4330,7 +4330,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27037": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Dakota",
       description: "2nd quintile in nation"
     },
@@ -4363,7 +4363,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27053": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Hennepin",
       description: "1st quintile in nation"
     },
@@ -4476,7 +4476,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27109": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Olmsted",
       description: "4th quintile in nation"
     },
@@ -4505,7 +4505,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27123": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Ramsey",
       description: "2nd quintile in nation"
     },
@@ -4534,12 +4534,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27137": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "St Louis",
       description: "3rd quintile in nation"
     },
     "27139": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Scott",
       description: "2nd quintile in nation"
     },
@@ -4552,7 +4552,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27145": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Stearns",
       description: "2nd quintile in nation"
     },
@@ -4589,7 +4589,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27163": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Washington",
       description: "1st quintile in nation"
     },
@@ -4606,7 +4606,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "27171": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Wright",
       description: "3rd quintile in nation"
     },
@@ -4679,7 +4679,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "28033": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "De Soto",
       description: "1st quintile in nation"
     },
@@ -4708,12 +4708,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "28047": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Harrison",
       description: "4th quintile in nation"
     },
     "28049": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Hinds",
       description: "5th quintile in nation"
     },
@@ -4734,7 +4734,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "28059": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Jackson",
       description: "4th quintile in nation"
     },
@@ -4795,7 +4795,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "28089": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Madison",
       description: "2nd quintile in nation"
     },
@@ -4860,7 +4860,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "28121": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Rankin",
       description: "1st quintile in nation"
     },
@@ -4985,7 +4985,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29019": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Boone",
       description: "2nd quintile in nation"
     },
@@ -5022,7 +5022,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29037": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Cass",
       description: "3rd quintile in nation"
     },
@@ -5043,7 +5043,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29047": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Clay",
       description: "2nd quintile in nation"
     },
@@ -5092,7 +5092,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29071": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Franklin",
       description: "2nd quintile in nation"
     },
@@ -5105,7 +5105,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29077": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Greene",
       description: "3rd quintile in nation"
     },
@@ -5142,17 +5142,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29095": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Jackson",
       description: "4th quintile in nation"
     },
     "29097": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Jasper",
       description: "2nd quintile in nation"
     },
     "29099": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Jefferson",
       description: "3rd quintile in nation"
     },
@@ -5321,7 +5321,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29183": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "St Charles",
       description: "3rd quintile in nation"
     },
@@ -5338,7 +5338,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29189": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "St Louis",
       description: "5th quintile in nation"
     },
@@ -5415,7 +5415,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "29510": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "St Louis City",
       description: "4th quintile in nation"
     },
@@ -5544,7 +5544,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "30063": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Missoula",
       description: "2nd quintile in nation"
     },
@@ -5641,7 +5641,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "30111": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Yellowstone",
       description: "2nd quintile in nation"
     },
@@ -5754,7 +5754,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "31055": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Douglas",
       description: "2nd quintile in nation"
     },
@@ -5863,7 +5863,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "31109": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Lancaster",
       description: "1st quintile in nation"
     },
@@ -5952,7 +5952,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "31153": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Sarpy",
       description: "1st quintile in nation"
     },
@@ -6025,7 +6025,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "32003": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Clark",
       description: "4th quintile in nation"
     },
@@ -6078,7 +6078,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "32031": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Washoe",
       description: "2nd quintile in nation"
     },
@@ -6111,22 +6111,22 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "33011": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Hillsborough",
       description: "4th quintile in nation"
     },
     "33013": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Merrimack",
       description: "4th quintile in nation"
     },
     "33015": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Rockingham",
       description: "2nd quintile in nation"
     },
     "33017": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Strafford",
       description: "3rd quintile in nation"
     },
@@ -6135,22 +6135,22 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "34001": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Atlantic",
       description: "5th quintile in nation"
     },
     "34003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Bergen",
       description: "3rd quintile in nation"
     },
     "34005": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Burlington",
       description: "5th quintile in nation"
     },
     "34007": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Camden",
       description: "5th quintile in nation"
     },
@@ -6159,57 +6159,57 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "34011": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Cumberland",
       description: "5th quintile in nation"
     },
     "34013": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Essex",
       description: "5th quintile in nation"
     },
     "34015": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Gloucester",
       description: "5th quintile in nation"
     },
     "34017": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Hudson",
       description: "3rd quintile in nation"
     },
     "34019": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Hunterdon",
       description: "5th quintile in nation"
     },
     "34021": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Mercer",
       description: "5th quintile in nation"
     },
     "34023": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Middlesex",
       description: "5th quintile in nation"
     },
     "34025": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Monmouth",
       description: "5th quintile in nation"
     },
     "34027": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Morris",
       description: "4th quintile in nation"
     },
     "34029": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Ocean",
       description: "5th quintile in nation"
     },
     "34031": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Passaic",
       description: "5th quintile in nation"
     },
@@ -6218,27 +6218,27 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "34035": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Somerset",
       description: "4th quintile in nation"
     },
     "34037": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Sussex",
       description: "5th quintile in nation"
     },
     "34039": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Union",
       description: "4th quintile in nation"
     },
     "34041": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Warren",
       description: "5th quintile in nation"
     },
     "35001": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Bernalillo",
       description: "5th quintile in nation"
     },
@@ -6267,7 +6267,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "35013": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Dona Ana",
       description: "5th quintile in nation"
     },
@@ -6332,12 +6332,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "35043": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Sandoval",
       description: "1st quintile in nation"
     },
     "35045": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "San Juan",
       description: "5th quintile in nation"
     },
@@ -6346,7 +6346,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "35049": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Santa Fe",
       description: "1st quintile in nation"
     },
@@ -6375,7 +6375,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36001": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Albany",
       description: "1st quintile in nation"
     },
@@ -6384,12 +6384,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36005": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Bronx",
       description: "3rd quintile in nation"
     },
     "36007": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Broome",
       description: "4th quintile in nation"
     },
@@ -6402,7 +6402,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36013": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Chautauqua",
       description: "5th quintile in nation"
     },
@@ -6431,12 +6431,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36027": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Dutchess",
       description: "4th quintile in nation"
     },
     "36029": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Erie",
       description: "1st quintile in nation"
     },
@@ -6469,12 +6469,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36045": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Jefferson",
       description: "4th quintile in nation"
     },
     "36047": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Kings",
       description: "3rd quintile in nation"
     },
@@ -6491,7 +6491,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36055": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Monroe",
       description: "3rd quintile in nation"
     },
@@ -6500,37 +6500,37 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36059": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Nassau",
       description: "5th quintile in nation"
     },
     "36061": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "New York",
       description: "4th quintile in nation"
     },
     "36063": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Niagara",
       description: "4th quintile in nation"
     },
     "36065": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Oneida",
       description: "5th quintile in nation"
     },
     "36067": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Onondaga",
       description: "4th quintile in nation"
     },
     "36069": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Ontario",
       description: "4th quintile in nation"
     },
     "36071": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Orange",
       description: "5th quintile in nation"
     },
@@ -6539,7 +6539,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36075": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Oswego",
       description: "4th quintile in nation"
     },
@@ -6552,37 +6552,37 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36081": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Queens",
       description: "5th quintile in nation"
     },
     "36083": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Rensselaer",
       description: "4th quintile in nation"
     },
     "36085": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Richmond",
       description: "5th quintile in nation"
     },
     "36087": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Rockland",
       description: "5th quintile in nation"
     },
     "36089": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "St Lawrence",
       description: "3rd quintile in nation"
     },
     "36091": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Saratoga",
       description: "3rd quintile in nation"
     },
     "36093": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Schenectady",
       description: "5th quintile in nation"
     },
@@ -6603,7 +6603,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36103": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Suffolk",
       description: "5th quintile in nation"
     },
@@ -6616,12 +6616,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36109": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Tompkins",
       description: "4th quintile in nation"
     },
     "36111": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Ulster",
       description: "5th quintile in nation"
     },
@@ -6638,7 +6638,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "36119": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Westchester",
       description: "5th quintile in nation"
     },
@@ -6651,7 +6651,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37001": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Alamance",
       description: "3rd quintile in nation"
     },
@@ -6688,12 +6688,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37019": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Brunswick",
       description: "2nd quintile in nation"
     },
     "37021": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Buncombe",
       description: "2nd quintile in nation"
     },
@@ -6702,7 +6702,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37025": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Cabarrus",
       description: "1st quintile in nation"
     },
@@ -6723,7 +6723,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37035": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Catawba",
       description: "4th quintile in nation"
     },
@@ -6752,12 +6752,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37049": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Craven",
       description: "4th quintile in nation"
     },
     "37051": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Cumberland",
       description: "4th quintile in nation"
     },
@@ -6770,7 +6770,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37057": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Davidson",
       description: "3rd quintile in nation"
     },
@@ -6783,7 +6783,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37063": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Durham",
       description: "1st quintile in nation"
     },
@@ -6792,7 +6792,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37067": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Forsyth",
       description: "3rd quintile in nation"
     },
@@ -6801,7 +6801,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37071": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Gaston",
       description: "2nd quintile in nation"
     },
@@ -6822,7 +6822,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37081": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Guilford",
       description: "2nd quintile in nation"
     },
@@ -6831,7 +6831,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37085": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Harnett",
       description: "1st quintile in nation"
     },
@@ -6840,7 +6840,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37089": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Henderson",
       description: "1st quintile in nation"
     },
@@ -6857,7 +6857,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37097": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Iredell",
       description: "2nd quintile in nation"
     },
@@ -6866,7 +6866,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37101": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Johnston",
       description: "1st quintile in nation"
     },
@@ -6903,7 +6903,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37119": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Mecklenburg",
       description: "1st quintile in nation"
     },
@@ -6924,7 +6924,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37129": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "New Hanover",
       description: "2nd quintile in nation"
     },
@@ -6933,12 +6933,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37133": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Onslow",
       description: "4th quintile in nation"
     },
     "37135": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Orange",
       description: "1st quintile in nation"
     },
@@ -6963,7 +6963,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37147": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Pitt",
       description: "3rd quintile in nation"
     },
@@ -6972,7 +6972,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37151": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Randolph",
       description: "3rd quintile in nation"
     },
@@ -6981,7 +6981,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37155": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Robeson",
       description: "2nd quintile in nation"
     },
@@ -6990,7 +6990,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37159": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Rowan",
       description: "3rd quintile in nation"
     },
@@ -7031,7 +7031,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37179": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Union",
       description: "2nd quintile in nation"
     },
@@ -7040,7 +7040,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37183": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Wake",
       description: "1st quintile in nation"
     },
@@ -7057,7 +7057,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "37191": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Wayne",
       description: "3rd quintile in nation"
     },
@@ -7110,7 +7110,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "38017": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Cass",
       description: "1st quintile in nation"
     },
@@ -7295,7 +7295,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Allen",
       description: "3rd quintile in nation"
     },
@@ -7324,7 +7324,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39017": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Butler",
       description: "4th quintile in nation"
     },
@@ -7337,12 +7337,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39023": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Clark",
       description: "3rd quintile in nation"
     },
     "39025": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Clermont",
       description: "3rd quintile in nation"
     },
@@ -7351,7 +7351,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39029": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Columbiana",
       description: "2nd quintile in nation"
     },
@@ -7364,7 +7364,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39035": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Cuyahoga",
       description: "5th quintile in nation"
     },
@@ -7377,7 +7377,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39041": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Delaware",
       description: "1st quintile in nation"
     },
@@ -7386,7 +7386,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39045": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Fairfield",
       description: "2nd quintile in nation"
     },
@@ -7395,7 +7395,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39049": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Franklin",
       description: "1st quintile in nation"
     },
@@ -7412,7 +7412,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39057": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Greene",
       description: "1st quintile in nation"
     },
@@ -7421,7 +7421,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39061": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Hamilton",
       description: "3rd quintile in nation"
     },
@@ -7470,7 +7470,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39085": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Lake",
       description: "2nd quintile in nation"
     },
@@ -7479,7 +7479,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39089": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Licking",
       description: "3rd quintile in nation"
     },
@@ -7488,12 +7488,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39093": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Lorain",
       description: "4th quintile in nation"
     },
     "39095": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Lucas",
       description: "5th quintile in nation"
     },
@@ -7502,7 +7502,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39099": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Mahoning",
       description: "4th quintile in nation"
     },
@@ -7511,7 +7511,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39103": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Medina",
       description: "3rd quintile in nation"
     },
@@ -7524,7 +7524,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39109": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Miami",
       description: "4th quintile in nation"
     },
@@ -7533,7 +7533,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39113": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Montgomery",
       description: "4th quintile in nation"
     },
@@ -7574,7 +7574,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39133": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Portage",
       description: "3rd quintile in nation"
     },
@@ -7587,7 +7587,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39139": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Richland",
       description: "5th quintile in nation"
     },
@@ -7612,17 +7612,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39151": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Stark",
       description: "3rd quintile in nation"
     },
     "39153": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Summit",
       description: "4th quintile in nation"
     },
     "39155": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Trumbull",
       description: "4th quintile in nation"
     },
@@ -7643,7 +7643,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39165": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Warren",
       description: "1st quintile in nation"
     },
@@ -7652,7 +7652,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39169": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Wayne",
       description: "2nd quintile in nation"
     },
@@ -7661,7 +7661,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "39173": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Wood",
       description: "1st quintile in nation"
     },
@@ -7702,7 +7702,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "40017": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Canadian",
       description: "1st quintile in nation"
     },
@@ -7723,7 +7723,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "40027": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Cleveland",
       description: "5th quintile in nation"
     },
@@ -7732,7 +7732,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "40031": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Comanche",
       description: "5th quintile in nation"
     },
@@ -7889,7 +7889,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "40109": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Oklahoma",
       description: "2nd quintile in nation"
     },
@@ -7958,7 +7958,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "40143": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Tulsa",
       description: "2nd quintile in nation"
     },
@@ -7991,7 +7991,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41005": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Clackamas",
       description: "1st quintile in nation"
     },
@@ -8016,12 +8016,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41017": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Deschutes",
       description: "1st quintile in nation"
     },
     "41019": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Douglas",
       description: "4th quintile in nation"
     },
@@ -8042,7 +8042,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41029": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Jackson",
       description: "5th quintile in nation"
     },
@@ -8063,7 +8063,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41039": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Lane",
       description: "3rd quintile in nation"
     },
@@ -8072,7 +8072,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41043": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Linn",
       description: "3rd quintile in nation"
     },
@@ -8081,7 +8081,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41047": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Marion",
       description: "3rd quintile in nation"
     },
@@ -8090,7 +8090,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41051": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Multnomah",
       description: "2nd quintile in nation"
     },
@@ -8123,7 +8123,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41067": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Washington",
       description: "1st quintile in nation"
     },
@@ -8132,17 +8132,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "41071": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Yamhill",
       description: "4th quintile in nation"
     },
     "42001": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Adams",
       description: "2nd quintile in nation"
     },
     "42003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Allegheny",
       description: "3rd quintile in nation"
     },
@@ -8151,7 +8151,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42007": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Beaver",
       description: "5th quintile in nation"
     },
@@ -8160,12 +8160,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42011": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Berks",
       description: "5th quintile in nation"
     },
     "42013": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Blair",
       description: "4th quintile in nation"
     },
@@ -8174,17 +8174,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42017": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Bucks",
       description: "5th quintile in nation"
     },
     "42019": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Butler",
       description: "3rd quintile in nation"
     },
     "42021": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Cambria",
       description: "5th quintile in nation"
     },
@@ -8197,12 +8197,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42027": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Centre",
       description: "2nd quintile in nation"
     },
     "42029": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Chester",
       description: "5th quintile in nation"
     },
@@ -8227,17 +8227,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42041": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Cumberland",
       description: "5th quintile in nation"
     },
     "42043": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Dauphin",
       description: "4th quintile in nation"
     },
     "42045": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Delaware",
       description: "5th quintile in nation"
     },
@@ -8246,12 +8246,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42049": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Erie",
       description: "4th quintile in nation"
     },
     "42051": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Fayette",
       description: "4th quintile in nation"
     },
@@ -8260,7 +8260,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42055": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Franklin",
       description: "5th quintile in nation"
     },
@@ -8289,12 +8289,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42069": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Lackawanna",
       description: "5th quintile in nation"
     },
     "42071": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Lancaster",
       description: "4th quintile in nation"
     },
@@ -8303,22 +8303,22 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42075": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Lebanon",
       description: "5th quintile in nation"
     },
     "42077": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Lehigh",
       description: "3rd quintile in nation"
     },
     "42079": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Luzerne",
       description: "4th quintile in nation"
     },
     "42081": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Lycoming",
       description: "2nd quintile in nation"
     },
@@ -8327,7 +8327,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42085": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Mercer",
       description: "4th quintile in nation"
     },
@@ -8336,12 +8336,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42089": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Monroe",
       description: "5th quintile in nation"
     },
     "42091": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Montgomery",
       description: "5th quintile in nation"
     },
@@ -8350,7 +8350,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42095": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Northampton",
       description: "4th quintile in nation"
     },
@@ -8363,7 +8363,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42101": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Philadelphia",
       description: "3rd quintile in nation"
     },
@@ -8376,7 +8376,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42107": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Schuylkill",
       description: "5th quintile in nation"
     },
@@ -8413,7 +8413,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42125": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Washington",
       description: "3rd quintile in nation"
     },
@@ -8422,7 +8422,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42129": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Westmoreland",
       description: "5th quintile in nation"
     },
@@ -8431,7 +8431,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "42133": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "York",
       description: "5th quintile in nation"
     },
@@ -8440,7 +8440,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "44003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Kent",
       description: "3rd quintile in nation"
     },
@@ -8449,12 +8449,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "44007": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Providence",
       description: "4th quintile in nation"
     },
     "44009": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Washington",
       description: "5th quintile in nation"
     },
@@ -8463,7 +8463,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Aiken",
       description: "3rd quintile in nation"
     },
@@ -8472,7 +8472,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45007": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Anderson",
       description: "2nd quintile in nation"
     },
@@ -8485,12 +8485,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45013": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Beaufort",
       description: "4th quintile in nation"
     },
     "45015": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Berkeley",
       description: "1st quintile in nation"
     },
@@ -8499,7 +8499,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45019": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Charleston",
       description: "2nd quintile in nation"
     },
@@ -8532,7 +8532,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45035": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Dorchester",
       description: "4th quintile in nation"
     },
@@ -8545,7 +8545,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45041": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Florence",
       description: "3rd quintile in nation"
     },
@@ -8554,7 +8554,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45045": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Greenville",
       description: "1st quintile in nation"
     },
@@ -8567,7 +8567,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45051": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Horry",
       description: "1st quintile in nation"
     },
@@ -8592,7 +8592,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45063": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Lexington",
       description: "2nd quintile in nation"
     },
@@ -8621,12 +8621,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45077": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Pickens",
       description: "4th quintile in nation"
     },
     "45079": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Richland",
       description: "4th quintile in nation"
     },
@@ -8635,12 +8635,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45083": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Spartanburg",
       description: "1st quintile in nation"
     },
     "45085": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Sumter",
       description: "2nd quintile in nation"
     },
@@ -8653,7 +8653,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "45091": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "York",
       description: "1st quintile in nation"
     },
@@ -8850,7 +8850,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "46099": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Minnehaha",
       description: "2nd quintile in nation"
     },
@@ -8867,7 +8867,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "46107": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Potter",
       description: "5th quintile in nation"
     },
@@ -8940,12 +8940,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47009": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Blount",
       description: "2nd quintile in nation"
     },
     "47011": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Bradley",
       description: "2nd quintile in nation"
     },
@@ -8998,7 +8998,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47037": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Davidson",
       description: "1st quintile in nation"
     },
@@ -9055,7 +9055,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47065": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Hamilton",
       description: "3rd quintile in nation"
     },
@@ -9112,7 +9112,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47093": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Knox",
       description: "4th quintile in nation"
     },
@@ -9177,7 +9177,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47125": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Montgomery",
       description: "2nd quintile in nation"
     },
@@ -9226,7 +9226,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47149": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Rutherford",
       description: "1st quintile in nation"
     },
@@ -9243,7 +9243,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47157": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Shelby",
       description: "4th quintile in nation"
     },
@@ -9256,12 +9256,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47163": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Sullivan",
       description: "3rd quintile in nation"
     },
     "47165": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Sumner",
       description: "1st quintile in nation"
     },
@@ -9290,7 +9290,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47179": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Washington",
       description: "4th quintile in nation"
     },
@@ -9307,12 +9307,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "47187": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Williamson",
       description: "1st quintile in nation"
     },
     "47189": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Wilson",
       description: "1st quintile in nation"
     },
@@ -9369,12 +9369,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48027": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Bell",
       description: "2nd quintile in nation"
     },
     "48029": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Bexar",
       description: "1st quintile in nation"
     },
@@ -9395,12 +9395,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48039": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Brazoria",
       description: "1st quintile in nation"
     },
     "48041": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Brazos",
       description: "1st quintile in nation"
     },
@@ -9441,7 +9441,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48061": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Cameron",
       description: "3rd quintile in nation"
     },
@@ -9490,7 +9490,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48085": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Collin",
       description: "1st quintile in nation"
     },
@@ -9503,7 +9503,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48091": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Comal",
       description: "1st quintile in nation"
     },
@@ -9548,7 +9548,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48113": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Dallas",
       description: "2nd quintile in nation"
     },
@@ -9565,7 +9565,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48121": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Denton",
       description: "1st quintile in nation"
     },
@@ -9594,7 +9594,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48135": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Ector",
       description: "1st quintile in nation"
     },
@@ -9603,12 +9603,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48139": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Ellis",
       description: "2nd quintile in nation"
     },
     "48141": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "El Paso",
       description: "2nd quintile in nation"
     },
@@ -9641,7 +9641,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48157": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Fort Bend",
       description: "1st quintile in nation"
     },
@@ -9662,7 +9662,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48167": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Galveston",
       description: "3rd quintile in nation"
     },
@@ -9691,12 +9691,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48181": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Grayson",
       description: "3rd quintile in nation"
     },
     "48183": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Gregg",
       description: "3rd quintile in nation"
     },
@@ -9705,7 +9705,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48187": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Guadalupe",
       description: "1st quintile in nation"
     },
@@ -9734,7 +9734,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48201": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Harris",
       description: "1st quintile in nation"
     },
@@ -9751,7 +9751,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48209": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Hays",
       description: "1st quintile in nation"
     },
@@ -9764,7 +9764,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48215": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Hidalgo",
       description: "2nd quintile in nation"
     },
@@ -9825,7 +9825,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48245": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Jefferson",
       description: "5th quintile in nation"
     },
@@ -9838,7 +9838,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48251": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Johnson",
       description: "2nd quintile in nation"
     },
@@ -9851,7 +9851,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48257": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Kaufman",
       description: "2nd quintile in nation"
     },
@@ -9944,7 +9944,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48303": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Lubbock"
     },
     "48305": {
@@ -9956,7 +9956,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48309": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "McLennan",
       description: "4th quintile in nation"
     },
@@ -9997,7 +9997,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48329": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Midland",
       description: "5th quintile in nation"
     },
@@ -10018,7 +10018,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48339": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Montgomery",
       description: "1st quintile in nation"
     },
@@ -10051,7 +10051,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48355": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Nueces",
       description: "2nd quintile in nation"
     },
@@ -10076,7 +10076,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48367": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Parker",
       description: "1st quintile in nation"
     },
@@ -10093,7 +10093,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48375": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Potter",
       description: "3rd quintile in nation"
     },
@@ -10106,7 +10106,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48381": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Randall",
       description: "3rd quintile in nation"
     },
@@ -10191,7 +10191,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48423": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Smith",
       description: "5th quintile in nation"
     },
@@ -10224,12 +10224,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48439": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Tarrant",
       description: "2nd quintile in nation"
     },
     "48441": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Taylor",
       description: "2nd quintile in nation"
     },
@@ -10250,12 +10250,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48451": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Tom Green",
       description: "1st quintile in nation"
     },
     "48453": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Travis",
       description: "1st quintile in nation"
     },
@@ -10308,7 +10308,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48479": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Webb",
       description: "2nd quintile in nation"
     },
@@ -10321,7 +10321,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48485": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Wichita",
       description: "4th quintile in nation"
     },
@@ -10334,7 +10334,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "48491": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Williamson",
       description: "1st quintile in nation"
     },
@@ -10379,7 +10379,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "49005": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Cache",
       description: "3rd quintile in nation"
     },
@@ -10392,7 +10392,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "49011": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Davis",
       description: "5th quintile in nation"
     },
@@ -10441,7 +10441,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "49035": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Salt Lake",
       description: "4th quintile in nation"
     },
@@ -10470,7 +10470,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "49049": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Utah",
       description: "1st quintile in nation"
     },
@@ -10479,7 +10479,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "49053": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Washington",
       description: "1st quintile in nation"
     },
@@ -10488,7 +10488,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "49057": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Weber",
       description: "3rd quintile in nation"
     },
@@ -10505,7 +10505,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "50007": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Chittenden",
       description: "3rd quintile in nation"
     },
@@ -10554,7 +10554,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Albemarle",
       description: "3rd quintile in nation"
     },
@@ -10575,7 +10575,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51013": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Arlington",
       description: "3rd quintile in nation"
     },
@@ -10632,7 +10632,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51041": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Chesterfield",
       description: "2nd quintile in nation"
     },
@@ -10665,7 +10665,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51059": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Fairfax",
       description: "2nd quintile in nation"
     },
@@ -10718,12 +10718,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51085": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Hanover",
       description: "4th quintile in nation"
     },
     "51087": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Henrico",
       description: "2nd quintile in nation"
     },
@@ -10764,7 +10764,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51107": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Loudoun",
       description: "1st quintile in nation"
     },
@@ -10845,7 +10845,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51153": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Prince William",
       description: "1st quintile in nation"
     },
@@ -10894,12 +10894,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51177": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Spotsylvania",
       description: "2nd quintile in nation"
     },
     "51179": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Stafford",
       description: "2nd quintile in nation"
     },
@@ -10940,7 +10940,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51510": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Alexandria City",
       description: "1st quintile in nation"
     },
@@ -10961,7 +10961,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51550": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Chesapeake City",
       description: "5th quintile in nation"
     },
@@ -11002,7 +11002,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51650": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Hampton City",
       description: "5th quintile in nation"
     },
@@ -11035,12 +11035,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51700": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Newport News City",
       description: "5th quintile in nation"
     },
     "51710": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Norfolk City",
       description: "4th quintile in nation"
     },
@@ -11065,7 +11065,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51760": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Richmond City",
       description: "1st quintile in nation"
     },
@@ -11086,7 +11086,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "51810": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Virginia Beach City",
       description: "4th quintile in nation"
     },
@@ -11111,7 +11111,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53005": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Benton",
       description: "3rd quintile in nation"
     },
@@ -11124,7 +11124,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53011": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Clark",
       description: "1st quintile in nation"
     },
@@ -11133,7 +11133,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53015": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Cowlitz",
       description: "5th quintile in nation"
     },
@@ -11170,12 +11170,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53033": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "King",
       description: "1st quintile in nation"
     },
     "53035": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Kitsap",
       description: "3rd quintile in nation"
     },
@@ -11212,7 +11212,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53053": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Pierce",
       description: "3rd quintile in nation"
     },
@@ -11221,7 +11221,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53057": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Skagit",
       description: "5th quintile in nation"
     },
@@ -11230,12 +11230,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53061": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Snohomish",
       description: "2nd quintile in nation"
     },
     "53063": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Spokane",
       description: "4th quintile in nation"
     },
@@ -11244,7 +11244,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53067": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Thurston",
       description: "4th quintile in nation"
     },
@@ -11257,7 +11257,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53073": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Whatcom",
       description: "3rd quintile in nation"
     },
@@ -11266,7 +11266,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "53077": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Yakima",
       description: "2nd quintile in nation"
     },
@@ -11275,7 +11275,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "54003": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Berkeley",
       description: "3rd quintile in nation"
     },
@@ -11348,7 +11348,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "54039": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Kanawha",
       description: "5th quintile in nation"
     },
@@ -11393,7 +11393,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "54061": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Monongalia",
       description: "2nd quintile in nation"
     },
@@ -11510,7 +11510,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55009": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Brown",
       description: "2nd quintile in nation"
     },
@@ -11543,7 +11543,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55025": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Dane",
       description: "1st quintile in nation"
     },
@@ -11564,7 +11564,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55035": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Eau Claire",
       description: "4th quintile in nation"
     },
@@ -11573,7 +11573,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55039": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Fond Du Lac",
       description: "2nd quintile in nation"
     },
@@ -11614,7 +11614,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55059": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Kenosha",
       description: "4th quintile in nation"
     },
@@ -11623,7 +11623,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55063": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "La Crosse",
       description: "5th quintile in nation"
     },
@@ -11644,7 +11644,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55073": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Marathon",
       description: "1st quintile in nation"
     },
@@ -11661,7 +11661,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55079": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Milwaukee",
       description: "3rd quintile in nation"
     },
@@ -11678,7 +11678,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55087": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Outagamie",
       description: "3rd quintile in nation"
     },
@@ -11707,7 +11707,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55101": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Racine",
       description: "3rd quintile in nation"
     },
@@ -11716,7 +11716,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55105": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Rock",
       description: "2nd quintile in nation"
     },
@@ -11741,7 +11741,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55117": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Sheboygan",
       description: "2nd quintile in nation"
     },
@@ -11762,7 +11762,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55127": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Walworth",
       description: "5th quintile in nation"
     },
@@ -11771,12 +11771,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55131": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Washington",
       description: "1st quintile in nation"
     },
     "55133": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Waukesha",
       description: "1st quintile in nation"
     },
@@ -11789,7 +11789,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "55139": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Winnebago",
       description: "2nd quintile in nation"
     },
@@ -11898,12 +11898,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06111": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Ventura",
       description: "4th quintile in nation"
     },
     "06113": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Yolo",
       description: "1st quintile in nation"
     },
@@ -11924,7 +11924,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01081": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Lee",
       description: "1st quintile in nation"
     },
@@ -11933,17 +11933,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06029": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Kern",
       description: "4th quintile in nation"
     },
     "01125": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Tuscaloosa",
       description: "3rd quintile in nation"
     },
     "06025": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Imperial",
       description: "5th quintile in nation"
     },
@@ -11968,7 +11968,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "05131": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Sebastian",
       description: "5th quintile in nation"
     },
@@ -11985,7 +11985,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "05007": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Benton",
       description: "1st quintile in nation"
     },
@@ -12030,7 +12030,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01117": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Shelby",
       description: "1st quintile in nation"
     },
@@ -12039,7 +12039,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08059": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Jefferson",
       description: "1st quintile in nation"
     },
@@ -12068,7 +12068,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06107": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Tulare",
       description: "4th quintile in nation"
     },
@@ -12089,7 +12089,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06039": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Madera",
       description: "5th quintile in nation"
     },
@@ -12130,7 +12130,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "05031": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Craighead",
       description: "1st quintile in nation"
     },
@@ -12143,7 +12143,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01055": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Etowah",
       description: "4th quintile in nation"
     },
@@ -12156,12 +12156,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06023": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Humboldt",
       description: "5th quintile in nation"
     },
     "08069": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Larimer",
       description: "1st quintile in nation"
     },
@@ -12202,7 +12202,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08031": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Denver",
       description: "1st quintile in nation"
     },
@@ -12227,7 +12227,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06007": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Butte",
       description: "5th quintile in nation"
     },
@@ -12240,7 +12240,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06001": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Alameda",
       description: "1st quintile in nation"
     },
@@ -12261,12 +12261,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06059": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Orange",
       description: "4th quintile in nation"
     },
     "06095": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Solano",
       description: "3rd quintile in nation"
     },
@@ -12295,7 +12295,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06097": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Sonoma",
       description: "2nd quintile in nation"
     },
@@ -12304,7 +12304,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "05119": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Pulaski",
       description: "5th quintile in nation"
     },
@@ -12333,7 +12333,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08077": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Mesa",
       description: "2nd quintile in nation"
     },
@@ -12358,7 +12358,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06013": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Contra Costa",
       description: "2nd quintile in nation"
     },
@@ -12367,12 +12367,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06017": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "El Dorado",
       description: "4th quintile in nation"
     },
     "06019": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Fresno",
       description: "3rd quintile in nation"
     },
@@ -12389,17 +12389,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06087": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Santa Cruz",
       description: "2nd quintile in nation"
     },
     "06047": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Merced",
       description: "3rd quintile in nation"
     },
     "06083": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Santa Barbara",
       description: "3rd quintile in nation"
     },
@@ -12432,7 +12432,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01097": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Mobile",
       description: "3rd quintile in nation"
     },
@@ -12453,7 +12453,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06081": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "San Mateo",
       description: "4th quintile in nation"
     },
@@ -12462,7 +12462,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06077": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "San Joaquin",
       description: "3rd quintile in nation"
     },
@@ -12495,7 +12495,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01089": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Madison",
       description: "3rd quintile in nation"
     },
@@ -12504,7 +12504,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "02020": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Anchorage",
       description: "3rd quintile in nation"
     },
@@ -12521,7 +12521,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01003": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Baldwin",
       description: "1st quintile in nation"
     },
@@ -12550,7 +12550,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "05143": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Washington",
       description: "1st quintile in nation"
     },
@@ -12591,7 +12591,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06085": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Santa Clara",
       description: "1st quintile in nation"
     },
@@ -12604,12 +12604,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06031": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Kings",
       description: "4th quintile in nation"
     },
     "06037": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Los Angeles",
       description: "5th quintile in nation"
     },
@@ -12622,17 +12622,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "09015": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Windham",
       description: "5th quintile in nation"
     },
     "09011": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "New London",
       description: "5th quintile in nation"
     },
     "09013": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Tolland",
       description: "5th quintile in nation"
     },
@@ -12657,7 +12657,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01073": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Jefferson",
       description: "4th quintile in nation"
     },
@@ -12698,12 +12698,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "04003": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Cochise",
       description: "5th quintile in nation"
     },
     "04005": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Coconino",
       description: "2nd quintile in nation"
     },
@@ -12724,7 +12724,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "05125": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Saline",
       description: "1st quintile in nation"
     },
@@ -12757,7 +12757,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08005": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Arapahoe",
       description: "1st quintile in nation"
     },
@@ -12766,27 +12766,27 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08001": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Adams",
       description: "1st quintile in nation"
     },
     "04019": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Pima",
       description: "4th quintile in nation"
     },
     "04013": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Maricopa",
       description: "3rd quintile in nation"
     },
     "04017": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Navajo",
       description: "5th quintile in nation"
     },
     "04015": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Mohave",
       description: "5th quintile in nation"
     },
@@ -12807,7 +12807,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06089": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Shasta",
       description: "4th quintile in nation"
     },
@@ -12828,17 +12828,17 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06065": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Riverside",
       description: "3rd quintile in nation"
     },
     "06067": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Sacramento",
       description: "3rd quintile in nation"
     },
     "06061": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Placer",
       description: "3rd quintile in nation"
     },
@@ -12851,7 +12851,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "05045": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Faulkner",
       description: "3rd quintile in nation"
     },
@@ -12880,7 +12880,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08101": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Pueblo",
       description: "4th quintile in nation"
     },
@@ -12889,12 +12889,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "04027": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Yuma",
       description: "4th quintile in nation"
     },
     "04025": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Yavapai",
       description: "2nd quintile in nation"
     },
@@ -12903,7 +12903,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "04021": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Pinal",
       description: "4th quintile in nation"
     },
@@ -12912,7 +12912,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08013": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Boulder",
       description: "2nd quintile in nation"
     },
@@ -12921,27 +12921,27 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06099": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Stanislaus",
       description: "2nd quintile in nation"
     },
     "06075": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "San Francisco",
       description: "2nd quintile in nation"
     },
     "06073": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "San Diego",
       description: "2nd quintile in nation"
     },
     "06071": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "San Bernardino",
       description: "4th quintile in nation"
     },
     "06079": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "San Luis Obispo",
       description: "2nd quintile in nation"
     },
@@ -12966,12 +12966,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06041": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Marin",
       description: "3rd quintile in nation"
     },
     "01015": {
-      color: "#f6e944",
+      color: "#4489f6",
       name: "Calhoun",
       description: "2nd quintile in nation"
     },
@@ -12988,12 +12988,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "09003": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Hartford",
       description: "5th quintile in nation"
     },
     "09001": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Fairfield",
       description: "4th quintile in nation"
     },
@@ -13014,7 +13014,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "09009": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "New Haven",
       description: "5th quintile in nation"
     },
@@ -13031,7 +13031,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01069": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Houston",
       description: "4th quintile in nation"
     },
@@ -13068,7 +13068,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08035": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Douglas",
       description: "1st quintile in nation"
     },
@@ -13093,7 +13093,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06055": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Napa",
       description: "4th quintile in nation"
     },
@@ -13102,7 +13102,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "06053": {
-      color: "#f4e313",
+      color: "#136af4",
       name: "Monterey",
       description: "3rd quintile in nation"
     },
@@ -13119,7 +13119,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08123": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "Weld",
       description: "1st quintile in nation"
     },
@@ -13168,12 +13168,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "09007": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Middlesex",
       description: "4th quintile in nation"
     },
     "09005": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Litchfield",
       description: "5th quintile in nation"
     },
@@ -13186,12 +13186,12 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "01103": {
-      color: "#cbbc09",
+      color: "#0954cb",
       name: "Morgan",
       description: "4th quintile in nation"
     },
     "01101": {
-      color: "#9a8f07",
+      color: "#07409a",
       name: "Montgomery",
       description: "5th quintile in nation"
     },
@@ -13204,7 +13204,7 @@ var simplemaps_countymap_mapdata={
       description: " "
     },
     "08041": {
-      color: "#f9ef74",
+      color: "#74a8f9",
       name: "El Paso",
       description: "1st quintile in nation"
     },
