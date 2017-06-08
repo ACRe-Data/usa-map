@@ -73,7 +73,7 @@ var simplemaps_countymap_mapdata={
     "10001": {
       hide: "default",
       name: "Kent",
-      color: "#9a8f07",
+      color: "#f4e313",
       url: "default",
       inactive: "default",
       zoomable: "default",
@@ -81,17 +81,17 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "10003": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "New Castle",
       description: "3rd quintile in nation"
     },
     "10005": {
-      color: "#f4e313",
+      color: "#f6e944",
       name: "Sussex",
       description: "2nd quintile in nation"
     },
     "11001": {
-      color: "#f4e313",
+      color: "#f9ef74",
       name: "District of Columbia",
       description: "1st quintile in nation"
     },
@@ -101,36 +101,39 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "12003": {
-      color: "#f9ef74",
-      name: "Baker"
+      name: "Baker",
+      description: " "
     },
     "12005": {
-      color: "#f6e944",
+      color: "#f4e313",
       name: "Bay",
       description: "3rd quintile in nation"
     },
     "12007": {
-      name: "Bradford"
+      name: "Bradford",
+      description: " "
     },
     "12009": {
-      color: "#f4e313",
+      color: "#cbbc09",
       name: "Brevard",
       description: "4th quintile in nation"
     },
     "12011": {
+      color: "#9a8f07",
       name: "Broward",
       description: "5th quintile in nation"
     },
     "12013": {
-      color: "#cbbc09",
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "12015": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "Charlotte",
       description: "3rd quintile in nation"
     },
     "12017": {
+      color: "#9a8f07",
       name: "Citrus",
       description: "5th quintile in nation"
     },
@@ -140,74 +143,86 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "12021": {
-      color: "#9a8f07",
+      color: "#f6e944",
       name: "Collier",
       description: "2nd quintile in nation"
     },
     "12023": {
-      color: "#f4e313",
-      name: "Columbia"
+      name: "Columbia",
+      description: " "
     },
     "12027": {
-      color: "#f6e944",
-      name: "De Soto"
+      name: "De Soto",
+      description: " "
     },
     "12029": {
-      name: "Dixie"
+      name: "Dixie",
+      description: " "
     },
     "12031": {
+      color: "#f4e313",
       name: "Duval",
       description: "3rd quintile in nation"
     },
     "12033": {
+      color: "#f9ef74",
       name: "Escambia",
       description: "2nd quintile in nation"
     },
     "12035": {
-      color: "#f4e313",
+      color: "#f9ef74",
       name: "Flagler",
       description: "1st quintile in nation"
     },
     "12037": {
-      color: "#f9ef74",
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "12039": {
-      color: "#f9ef74",
-      name: "Gadsden"
+      name: "Gadsden",
+      description: " "
     },
     "12041": {
-      name: "Gilchrist"
+      name: "Gilchrist",
+      description: " "
     },
     "12043": {
-      name: "Glades"
+      name: "Glades",
+      description: " "
     },
     "12045": {
-      name: "Gulf"
+      name: "Gulf",
+      description: " "
     },
     "12047": {
-      name: "Hamilton"
+      name: "Hamilton",
+      description: " "
     },
     "12049": {
-      name: "Hardee"
+      name: "Hardee",
+      description: " "
     },
     "12051": {
-      name: "Hendry"
+      name: "Hendry",
+      description: " "
     },
     "12053": {
+      color: "#f4e313",
       name: "Hernando",
       description: "3rd quintile in nation"
     },
     "12055": {
-      name: "Highlands"
+      name: "Highlands",
+      description: " "
     },
     "12057": {
-      color: "#f4e313",
+      color: "#f9ef74",
       name: "Hillsborough",
       description: "1st quintile in nation"
     },
     "12059": {
-      name: "Holmes"
+      name: "Holmes",
+      description: " "
     },
     "12061": {
       color: "#f9ef74",
@@ -215,44 +230,51 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "12063": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "12065": {
-      color: "#f9ef74",
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "12067": {
-      name: "Lafayette"
+      name: "Lafayette",
+      description: " "
     },
     "12069": {
+      color: "#f9ef74",
       name: "Lake",
       description: "1st quintile in nation"
     },
     "12071": {
+      color: "#f6e944",
       name: "Lee",
       description: "2nd quintile in nation"
     },
     "12073": {
-      color: "#f9ef74",
+      color: "#f4e313",
       name: "Leon",
       description: "3rd quintile in nation"
     },
     "12075": {
-      color: "#f6e944",
-      name: "Levy"
+      name: "Levy",
+      description: " "
     },
     "12077": {
-      color: "#f4e313",
-      name: "Liberty"
+      name: "Liberty",
+      description: " "
     },
     "12079": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "12081": {
+      color: "#f4e313",
       name: "Manatee",
       description: "3rd quintile in nation"
     },
     "12083": {
+      color: "#cbbc09",
       name: "Marion",
       description: "4th quintile in nation"
     },
@@ -262,36 +284,39 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "12086": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Miami-Dade",
       description: "5th quintile in nation"
     },
     "12087": {
-      color: "#f4e313",
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "12089": {
-      color: "#9a8f07",
-      name: "Nassau"
+      name: "Nassau",
+      description: " "
     },
     "12091": {
+      color: "#f6e944",
       name: "Okaloosa",
       description: "2nd quintile in nation"
     },
     "12093": {
-      name: "Okeechobee"
+      name: "Okeechobee",
+      description: " "
     },
     "12095": {
-      color: "#f6e944",
+      color: "#f9ef74",
       name: "Orange",
       description: "1st quintile in nation"
     },
     "12097": {
+      color: "#f6e944",
       name: "Osceola",
       description: "2nd quintile in nation"
     },
     "12099": {
-      color: "#f9ef74",
+      color: "#cbbc09",
       name: "Palm Beach",
       description: "4th quintile in nation"
     },
@@ -311,15 +336,16 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "12107": {
-      color: "#cbbc09",
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "12109": {
-      color: "#f6e944",
+      color: "#f9ef74",
       name: "St Johns",
       description: "1st quintile in nation"
     },
     "12111": {
+      color: "#f6e944",
       name: "St Lucie",
       description: "2nd quintile in nation"
     },
@@ -334,167 +360,200 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "12117": {
-      color: "#f9ef74",
+      color: "#cbbc09",
       name: "Seminole",
       description: "4th quintile in nation"
     },
     "12119": {
-      color: "#f6e944",
+      color: "#f9ef74",
       name: "Sumter",
       description: "1st quintile in nation"
     },
     "12121": {
-      color: "#cbbc09",
-      name: "Suwannee"
+      name: "Suwannee",
+      description: " "
     },
     "12123": {
-      color: "#f9ef74",
-      name: "Taylor"
+      name: "Taylor",
+      description: " "
     },
     "12125": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "12127": {
+      color: "#cbbc09",
       name: "Volusia",
       description: "4th quintile in nation"
     },
     "12129": {
-      name: "Wakulla"
+      name: "Wakulla",
+      description: " "
     },
     "12131": {
-      color: "#cbbc09",
-      name: "Walton"
+      name: "Walton",
+      description: " "
     },
     "12133": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "13001": {
-      name: "Appling"
+      name: "Appling",
+      description: " "
     },
     "13003": {
-      name: "Atkinson"
+      name: "Atkinson",
+      description: " "
     },
     "13005": {
-      name: "Bacon"
+      name: "Bacon",
+      description: " "
     },
     "13007": {
-      name: "Baker"
+      name: "Baker",
+      description: " "
     },
     "13009": {
-      name: "Baldwin"
+      name: "Baldwin",
+      description: " "
     },
     "13011": {
-      name: "Banks"
+      name: "Banks",
+      description: " "
     },
     "13013": {
-      name: "Barrow"
+      name: "Barrow",
+      description: " "
     },
     "13015": {
+      color: "#f6e944",
       name: "Bartow",
       description: "2nd quintile in nation"
     },
     "13017": {
-      name: "Ben Hill"
+      name: "Ben Hill",
+      description: " "
     },
     "13019": {
-      color: "#f6e944",
-      name: "Berrien"
+      name: "Berrien",
+      description: " "
     },
     "13021": {
+      color: "#9a8f07",
       name: "Bibb",
       description: "5th quintile in nation"
     },
     "13023": {
-      name: "Bleckley"
+      name: "Bleckley",
+      description: " "
     },
     "13025": {
-      color: "#9a8f07",
-      name: "Brantley"
+      name: "Brantley",
+      description: " "
     },
     "13027": {
-      name: "Brooks"
+      name: "Brooks",
+      description: " "
     },
     "13029": {
-      name: "Bryan"
+      name: "Bryan",
+      description: " "
     },
     "13031": {
-      name: "Bulloch"
+      name: "Bulloch",
+      description: " "
     },
     "13033": {
-      name: "Burke"
+      name: "Burke",
+      description: " "
     },
     "13035": {
-      name: "Butts"
+      name: "Butts",
+      description: " "
     },
     "13037": {
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "13039": {
-      name: "Camden"
+      name: "Camden",
+      description: " "
     },
     "13043": {
-      name: "Candler"
+      name: "Candler",
+      description: " "
     },
     "13045": {
+      color: "#cbbc09",
       name: "Carroll",
       description: "4th quintile in nation"
     },
     "13047": {
-      name: "Catoosa"
+      name: "Catoosa",
+      description: " "
     },
     "13049": {
-      color: "#cbbc09",
-      name: "Charlton"
+      name: "Charlton",
+      description: " "
     },
     "13051": {
+      color: "#f4e313",
       name: "Chatham",
       description: "3rd quintile in nation"
     },
     "13053": {
-      name: "Chattahoochee"
+      name: "Chattahoochee",
+      description: " "
     },
     "13055": {
-      color: "#f4e313",
-      name: "Chattooga"
+      name: "Chattooga",
+      description: " "
     },
     "13057": {
+      color: "#f9ef74",
       name: "Cherokee",
       description: "1st quintile in nation"
     },
     "13059": {
+      color: "#f4e313",
       name: "Clarke",
       description: "3rd quintile in nation"
     },
     "13061": {
-      color: "#f9ef74",
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "13063": {
-      color: "#f4e313",
+      color: "#f6e944",
       name: "Clayton",
       description: "3rd quintile in nation"
     },
     "13065": {
-      name: "Clinch"
+      name: "Clinch",
+      description: " "
     },
     "13067": {
-      color: "#f6e944",
+      color: "#f9ef74",
       name: "Cobb",
       description: "1st quintile in nation"
     },
     "13069": {
-      name: "Coffee"
+      name: "Coffee",
+      description: " "
     },
     "13071": {
-      color: "#f9ef74",
-      name: "Colquitt"
+      name: "Colquitt",
+      description: " "
     },
     "13073": {
+      color: "#f9ef74",
       name: "Columbia",
       description: "1st quintile in nation"
     },
     "13075": {
-      name: "Cook"
+      name: "Cook",
+      description: " "
     },
     "13077": {
       color: "#f9ef74",
@@ -502,75 +561,92 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "13079": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "13081": {
-      color: "#f9ef74",
-      name: "Crisp"
+      name: "Crisp",
+      description: " "
     },
     "13083": {
-      name: "Dade"
+      name: "Dade",
+      description: " "
     },
     "13085": {
-      name: "Dawson"
+      name: "Dawson",
+      description: " "
     },
     "13087": {
-      name: "Decatur"
+      name: "Decatur",
+      description: " "
     },
     "13089": {
+      color: "#f6e944",
       name: "De Kalb",
       description: "2nd quintile in nation"
     },
     "13091": {
-      name: "Dodge"
+      name: "Dodge",
+      description: " "
     },
     "13093": {
-      color: "#f6e944",
-      name: "Dooly"
+      name: "Dooly",
+      description: " "
     },
     "13095": {
-      name: "Dougherty"
+      name: "Dougherty",
+      description: " "
     },
     "13097": {
+      color: "#f6e944",
       name: "Douglas",
       description: "2nd quintile in nation"
     },
     "13099": {
-      name: "Early"
+      name: "Early",
+      description: " "
     },
     "13101": {
-      color: "#f6e944",
-      name: "Echols"
+      name: "Echols",
+      description: " "
     },
     "13103": {
-      name: "Effingham"
+      name: "Effingham",
+      description: " "
     },
     "13105": {
-      name: "Elbert"
+      name: "Elbert",
+      description: " "
     },
     "13107": {
-      name: "Emanuel"
+      name: "Emanuel",
+      description: " "
     },
     "13109": {
-      name: "Evans"
+      name: "Evans",
+      description: " "
     },
     "13111": {
-      name: "Fannin"
+      name: "Fannin",
+      description: " "
     },
     "13113": {
+      color: "#cbbc09",
       name: "Fayette",
       description: "4th quintile in nation"
     },
     "13115": {
-      name: "Floyd"
+      name: "Floyd",
+      description: " "
     },
     "13117": {
-      color: "#cbbc09",
+      color: "#f9ef74",
       name: "Forsyth",
       description: "1st quintile in nation"
     },
     "13119": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "13121": {
       color: "#f9ef74",
@@ -578,30 +654,37 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "13123": {
-      name: "Gilmer"
+      name: "Gilmer",
+      description: " "
     },
     "13125": {
-      color: "#f9ef74",
-      name: "Glascock"
+      name: "Glascock",
+      description: " "
     },
     "13127": {
-      name: "Glynn"
+      name: "Glynn",
+      description: " "
     },
     "13129": {
-      name: "Gordon"
+      name: "Gordon",
+      description: " "
     },
     "13131": {
-      name: "Grady"
+      name: "Grady",
+      description: " "
     },
     "13133": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "13135": {
+      color: "#f6e944",
       name: "Gwinnett",
       description: "2nd quintile in nation"
     },
     "13137": {
-      name: "Habersham"
+      name: "Habersham",
+      description: " "
     },
     "13139": {
       color: "#f6e944",
@@ -609,309 +692,393 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "13141": {
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "13143": {
-      color: "#f6e944",
-      name: "Haralson"
+      name: "Haralson",
+      description: " "
     },
     "13145": {
-      name: "Harris"
+      name: "Harris",
+      description: " "
     },
     "13147": {
-      name: "Hart"
+      name: "Hart",
+      description: " "
     },
     "13149": {
-      name: "Heard"
+      name: "Heard",
+      description: " "
     },
     "13151": {
+      color: "#f6e944",
       name: "Henry",
       description: "2nd quintile in nation"
     },
     "13153": {
+      color: "#f4e313",
       name: "Houston",
       description: "3rd quintile in nation"
     },
     "13155": {
-      color: "#f6e944",
-      name: "Irwin"
+      name: "Irwin",
+      description: " "
     },
     "13157": {
-      color: "#f4e313",
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "13159": {
-      name: "Jasper"
+      name: "Jasper",
+      description: " "
     },
     "13161": {
-      name: "Jeff Davis"
+      name: "Jeff Davis",
+      description: " "
     },
     "13163": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "13165": {
-      name: "Jenkins"
+      name: "Jenkins",
+      description: " "
     },
     "13167": {
-      name: "Johnson"
+      name: "Johnson",
+      description: " "
     },
     "13169": {
-      name: "Jones"
+      name: "Jones",
+      description: " "
     },
     "13171": {
-      name: "Lamar"
+      name: "Lamar",
+      description: " "
     },
     "13173": {
-      name: "Lanier"
+      name: "Lanier",
+      description: " "
     },
     "13175": {
-      name: "Laurens"
+      name: "Laurens",
+      description: " "
     },
     "13177": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "13179": {
-      name: "Liberty"
+      name: "Liberty",
+      description: " "
     },
     "13181": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "13183": {
-      name: "Long"
+      name: "Long",
+      description: " "
     },
     "13185": {
+      color: "#9a8f07",
       name: "Lowndes",
       description: "5th quintile in nation"
     },
     "13187": {
-      name: "Lumpkin"
+      name: "Lumpkin",
+      description: " "
     },
     "13189": {
-      color: "#9a8f07",
-      name: "McDuffie"
+      name: "McDuffie",
+      description: " "
     },
     "13191": {
-      name: "McIntosh"
+      name: "McIntosh",
+      description: " "
     },
     "13193": {
-      name: "Macon"
+      name: "Macon",
+      description: " "
     },
     "13195": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "13197": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "13199": {
-      name: "Meriwether"
+      name: "Meriwether",
+      description: " "
     },
     "13201": {
-      name: "Miller"
+      name: "Miller",
+      description: " "
     },
     "13205": {
-      name: "Mitchell"
+      name: "Mitchell",
+      description: " "
     },
     "13207": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "13209": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "13211": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "13213": {
-      name: "Murray"
+      name: "Murray",
+      description: " "
     },
     "13215": {
+      color: "#cbbc09",
       name: "Muscogee",
       description: "4th quintile in nation"
     },
     "13217": {
+      color: "#f4e313",
       name: "Newton",
       description: "3rd quintile in nation"
     },
     "13219": {
-      color: "#cbbc09",
-      name: "Oconee"
+      name: "Oconee",
+      description: " "
     },
     "13221": {
-      color: "#f4e313",
-      name: "Oglethorpe"
+      name: "Oglethorpe",
+      description: " "
     },
     "13223": {
+      color: "#f6e944",
       name: "Paulding",
       description: "2nd quintile in nation"
     },
     "13225": {
-      name: "Peach"
+      name: "Peach",
+      description: " "
     },
     "13227": {
-      color: "#f6e944",
-      name: "Pickens"
+      name: "Pickens",
+      description: " "
     },
     "13229": {
-      name: "Pierce"
+      name: "Pierce",
+      description: " "
     },
     "13231": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "13233": {
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "13235": {
-      name: "Pulaski"
+      name: "Pulaski",
+      description: " "
     },
     "13237": {
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "13239": {
-      name: "Quitman"
+      name: "Quitman",
+      description: " "
     },
     "13241": {
-      name: "Rabun"
+      name: "Rabun",
+      description: " "
     },
     "13243": {
-      name: "Randolph"
+      name: "Randolph",
+      description: " "
     },
     "13245": {
+      color: "#9a8f07",
       name: "Richmond",
       description: "5th quintile in nation"
     },
     "13247": {
-      name: "Rockdale"
+      name: "Rockdale",
+      description: " "
     },
     "13249": {
-      color: "#9a8f07",
-      name: "Schley"
+      name: "Schley",
+      description: " "
     },
     "13251": {
-      name: "Screven"
+      name: "Screven",
+      description: " "
     },
     "13253": {
-      name: "Seminole"
+      name: "Seminole",
+      description: " "
     },
     "13255": {
-      name: "Spalding"
+      name: "Spalding",
+      description: " "
     },
     "13257": {
-      name: "Stephens"
+      name: "Stephens",
+      description: " "
     },
     "13259": {
-      name: "Stewart"
+      name: "Stewart",
+      description: " "
     },
     "13261": {
-      name: "Sumter"
+      name: "Sumter",
+      description: " "
     },
     "13263": {
-      name: "Talbot"
+      name: "Talbot",
+      description: " "
     },
     "13265": {
-      name: "Taliaferro"
+      name: "Taliaferro",
+      description: " "
     },
     "13267": {
-      name: "Tattnall"
+      name: "Tattnall",
+      description: " "
     },
     "13269": {
-      name: "Taylor"
+      name: "Taylor",
+      description: " "
     },
     "13271": {
-      name: "Telfair"
+      name: "Telfair",
+      description: " "
     },
     "13273": {
-      name: "Terrell"
+      name: "Terrell",
+      description: " "
     },
     "13275": {
-      name: "Thomas"
+      name: "Thomas",
+      description: " "
     },
     "13277": {
-      name: "Tift"
+      name: "Tift",
+      description: " "
     },
     "13279": {
-      name: "Toombs"
+      name: "Toombs",
+      description: " "
     },
     "13281": {
-      name: "Towns"
+      name: "Towns",
+      description: " "
     },
     "13283": {
-      name: "Treutlen"
+      name: "Treutlen",
+      description: " "
     },
     "13285": {
-      name: "Troup"
+      name: "Troup",
+      description: " "
     },
     "13287": {
-      name: "Turner"
+      name: "Turner",
+      description: " "
     },
     "13289": {
-      name: "Twiggs"
+      name: "Twiggs",
+      description: " "
     },
     "13291": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "13293": {
-      name: "Upson"
+      name: "Upson",
+      description: " "
     },
     "13295": {
-      name: "Walker"
+      name: "Walker",
+      description: " "
     },
     "13297": {
-      name: "Walton"
+      name: "Walton",
+      description: " "
     },
     "13299": {
-      name: "Ware"
+      name: "Ware",
+      description: " "
     },
     "13301": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "13303": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "13305": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "13307": {
-      name: "Webster"
+      name: "Webster",
+      description: " "
     },
     "13309": {
-      name: "Wheeler"
+      name: "Wheeler",
+      description: " "
     },
     "13311": {
-      name: "White"
+      name: "White",
+      description: " "
     },
     "13313": {
+      color: "#f4e313",
       name: "Whitfield",
       description: "3rd quintile in nation"
     },
     "13315": {
-      name: "Wilcox"
+      name: "Wilcox",
+      description: " "
     },
     "13317": {
-      color: "#f4e313",
-      name: "Wilkes"
+      name: "Wilkes",
+      description: " "
     },
     "13319": {
-      name: "Wilkinson"
+      name: "Wilkinson",
+      description: " "
     },
     "13321": {
-      name: "Worth"
+      name: "Worth",
+      description: " "
     },
     "15001": {
+      color: "#cbbc09",
       name: "Hawaii",
       description: "4th quintile in nation"
     },
     "15003": {
+      color: "#f4e313",
       name: "Honolulu",
       description: "3rd quintile in nation"
     },
     "15005": {
-      color: "#cbbc09",
-      name: "Kalawao County"
+      name: "Kalawao County",
+      description: " "
     },
     "15007": {
-      color: "#f4e313",
-      name: "Kauai"
+      name: "Kauai",
+      description: " "
     },
     "15009": {
+      color: "#f9ef74",
       name: "Maui",
       description: "1st quintile in nation"
     },
@@ -921,634 +1088,793 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "16003": {
-      color: "#f9ef74",
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "16005": {
-      name: "Bannock"
+      name: "Bannock",
+      description: " "
     },
     "16007": {
-      name: "Bear Lake"
+      name: "Bear Lake",
+      description: " "
     },
     "16009": {
-      name: "Benewah"
+      name: "Benewah",
+      description: " "
     },
     "16011": {
-      name: "Bingham"
+      name: "Bingham",
+      description: " "
     },
     "16013": {
-      name: "Blaine"
+      name: "Blaine",
+      description: " "
     },
     "16015": {
-      name: "Boise"
+      name: "Boise",
+      description: " "
     },
     "16017": {
-      name: "Bonner"
+      name: "Bonner",
+      description: " "
     },
     "16019": {
+      color: "#f4e313",
       name: "Bonneville",
       description: "3rd quintile in nation"
     },
     "16021": {
-      color: "#f4e313",
-      name: "Boundary"
+      name: "Boundary",
+      description: " "
     },
     "16023": {
-      name: "Butte"
+      name: "Butte",
+      description: " "
     },
     "16025": {
-      name: "Camas"
+      name: "Camas",
+      description: " "
     },
     "16027": {
+      color: "#f9ef74",
       name: "Canyon",
       description: "1st quintile in nation"
     },
     "16029": {
-      color: "#f9ef74",
-      name: "Caribou"
+      name: "Caribou",
+      description: " "
     },
     "16031": {
-      name: "Cassia"
+      name: "Cassia",
+      description: " "
     },
     "16033": {
-      name: "Clark"
+      name: "Clark",
+      description: " "
     },
     "16035": {
-      name: "Clearwater"
+      name: "Clearwater",
+      description: " "
     },
     "16037": {
-      name: "Custer"
+      name: "Custer",
+      description: " "
     },
     "16039": {
-      name: "Elmore"
+      name: "Elmore",
+      description: " "
     },
     "16041": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "16043": {
-      name: "Fremont"
+      name: "Fremont",
+      description: " "
     },
     "16045": {
-      name: "Gem"
+      name: "Gem",
+      description: " "
     },
     "16047": {
-      name: "Gooding"
+      name: "Gooding",
+      description: " "
     },
     "16049": {
-      name: "Idaho"
+      name: "Idaho",
+      description: " "
     },
     "16051": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "16053": {
-      name: "Jerome"
+      name: "Jerome",
+      description: " "
     },
     "16055": {
+      color: "#f6e944",
       name: "Kootenai",
       description: "2nd quintile in nation"
     },
     "16057": {
-      color: "#f6e944",
-      name: "Latah"
+      name: "Latah",
+      description: " "
     },
     "16059": {
-      name: "Lemhi"
+      name: "Lemhi",
+      description: " "
     },
     "16061": {
-      name: "Lewis"
+      name: "Lewis",
+      description: " "
     },
     "16063": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "16065": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "16067": {
-      name: "Minidoka"
+      name: "Minidoka",
+      description: " "
     },
     "16069": {
-      name: "Nez Perce"
+      name: "Nez Perce",
+      description: " "
     },
     "16071": {
-      name: "Oneida"
+      name: "Oneida",
+      description: " "
     },
     "16073": {
-      name: "Owyhee"
+      name: "Owyhee",
+      description: " "
     },
     "16075": {
-      name: "Payette"
+      name: "Payette",
+      description: " "
     },
     "16077": {
-      name: "Power"
+      name: "Power",
+      description: " "
     },
     "16079": {
-      name: "Shoshone"
+      name: "Shoshone",
+      description: " "
     },
     "16081": {
-      name: "Teton"
+      name: "Teton",
+      description: " "
     },
     "16083": {
-      name: "Twin Falls"
+      name: "Twin Falls",
+      description: " "
     },
     "16085": {
-      name: "Valley"
+      name: "Valley",
+      description: " "
     },
     "16087": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "17001": {
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "17003": {
-      name: "Alexander"
+      name: "Alexander",
+      description: " "
     },
     "17005": {
-      name: "Bond"
+      name: "Bond",
+      description: " "
     },
     "17007": {
-      name: "Boone"
+      name: "Boone",
+      description: " "
     },
     "17009": {
-      name: "Brown"
+      name: "Brown",
+      description: " "
     },
     "17011": {
-      name: "Bureau"
+      name: "Bureau",
+      description: " "
     },
     "17013": {
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "17015": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "17017": {
-      name: "Cass"
+      name: "Cass",
+      description: " "
     },
     "17019": {
+      color: "#f4e313",
       name: "Champaign",
       description: "3rd quintile in nation"
     },
     "17021": {
-      color: "#f4e313",
-      name: "Christian"
+      name: "Christian",
+      description: " "
     },
     "17023": {
-      name: "Clark"
+      name: "Clark",
+      description: " "
     },
     "17025": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "17027": {
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "17029": {
-      name: "Coles"
+      name: "Coles",
+      description: " "
     },
     "17031": {
+      color: "#9a8f07",
       name: "Cook",
       description: "5th quintile in nation"
     },
     "17033": {
-      color: "#9a8f07",
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "17035": {
-      name: "Cumberland"
+      name: "Cumberland",
+      description: " "
     },
     "17037": {
+      color: "#9a8f07",
       name: "De Kalb",
       description: "5th quintile in nation"
     },
     "17039": {
-      color: "#9a8f07",
-      name: "Dewitt"
+      name: "Dewitt",
+      description: " "
     },
     "17041": {
-      name: "Douglas"
+      name: "Douglas",
+      description: " "
     },
     "17043": {
+      color: "#cbbc09",
       name: "Du Page",
       description: "4th quintile in nation"
     },
     "17045": {
-      color: "#cbbc09",
-      name: "Edgar"
+      name: "Edgar",
+      description: " "
     },
     "17047": {
-      name: "Edwards"
+      name: "Edwards",
+      description: " "
     },
     "17049": {
-      name: "Effingham"
+      name: "Effingham",
+      description: " "
     },
     "17051": {
-      name: "Fayette"
+      name: "Fayette",
+      description: " "
     },
     "17053": {
-      name: "Ford"
+      name: "Ford",
+      description: " "
     },
     "17055": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "17057": {
-      name: "Fulton"
+      name: "Fulton",
+      description: " "
     },
     "17059": {
-      name: "Gallatin"
+      name: "Gallatin",
+      description: " "
     },
     "17061": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "17063": {
-      name: "Grundy"
+      name: "Grundy",
+      description: " "
     },
     "17065": {
-      name: "Hamilton"
+      name: "Hamilton",
+      description: " "
     },
     "17067": {
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "17069": {
-      name: "Hardin"
+      name: "Hardin",
+      description: " "
     },
     "17071": {
-      name: "Henderson"
+      name: "Henderson",
+      description: " "
     },
     "17073": {
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "17075": {
-      name: "Iroquois"
+      name: "Iroquois",
+      description: " "
     },
     "17077": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "17079": {
-      name: "Jasper"
+      name: "Jasper",
+      description: " "
     },
     "17081": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "17083": {
-      name: "Jersey"
+      name: "Jersey",
+      description: " "
     },
     "17085": {
-      name: "Jo Daviess"
+      name: "Jo Daviess",
+      description: " "
     },
     "17087": {
-      name: "Johnson"
+      name: "Johnson",
+      description: " "
     },
     "17089": {
+      color: "#f4e313",
       name: "Kane",
       description: "3rd quintile in nation"
     },
     "17091": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Kankakee",
       description: "5th quintile in nation"
     },
     "17093": {
-      color: "#9a8f07",
+      color: "#f6e944",
       name: "Kendall",
       description: "2nd quintile in nation"
     },
     "17095": {
-      color: "#f6e944",
-      name: "Knox"
+      name: "Knox",
+      description: " "
     },
     "17097": {
+      color: "#9a8f07",
       name: "Lake",
       description: "5th quintile in nation"
     },
     "17099": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "La Salle",
       description: "4th quintile in nation"
     },
     "17101": {
-      color: "#cbbc09",
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "17103": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "17105": {
-      name: "Livingston"
+      name: "Livingston",
+      description: " "
     },
     "17107": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "17109": {
-      name: "McDonough"
+      name: "McDonough",
+      description: " "
     },
     "17111": {
+      color: "#9a8f07",
       name: "McHenry",
       description: "5th quintile in nation"
     },
     "17113": {
-      color: "#9a8f07",
+      color: "#f6e944",
       name: "Mclean",
       description: "2nd quintile in nation"
     },
     "17115": {
-      color: "#f6e944",
+      color: "#9a8f07",
       name: "Macon",
       description: "5th quintile in nation"
     },
     "17117": {
-      color: "#9a8f07",
-      name: "Macoupin"
+      name: "Macoupin",
+      description: " "
     },
     "17119": {
+      color: "#cbbc09",
       name: "Madison",
       description: "4th quintile in nation"
     },
     "17121": {
-      color: "#cbbc09",
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "17123": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "17125": {
-      name: "Mason"
+      name: "Mason",
+      description: " "
     },
     "17127": {
-      name: "Massac"
+      name: "Massac",
+      description: " "
     },
     "17129": {
-      name: "Menard"
+      name: "Menard",
+      description: " "
     },
     "17131": {
-      name: "Mercer"
+      name: "Mercer",
+      description: " "
     },
     "17133": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "17135": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "17137": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "17139": {
-      name: "Moultrie"
+      name: "Moultrie",
+      description: " "
     },
     "17141": {
-      name: "Ogle"
+      name: "Ogle",
+      description: " "
     },
     "17143": {
+      color: "#cbbc09",
       name: "Peoria",
       description: "4th quintile in nation"
     },
     "17145": {
-      color: "#cbbc09",
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "17147": {
-      name: "Piatt"
+      name: "Piatt",
+      description: " "
     },
     "17149": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "17151": {
-      name: "Pope"
+      name: "Pope",
+      description: " "
     },
     "17153": {
-      name: "Pulaski"
+      name: "Pulaski",
+      description: " "
     },
     "17155": {
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "17157": {
-      name: "Randolph"
+      name: "Randolph",
+      description: " "
     },
     "17159": {
-      name: "Richland"
+      name: "Richland",
+      description: " "
     },
     "17161": {
+      color: "#cbbc09",
       name: "Rock Island",
       description: "4th quintile in nation"
     },
     "17163": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "St Clair",
       description: "5th quintile in nation"
     },
     "17165": {
-      color: "#9a8f07",
-      name: "Saline"
+      name: "Saline",
+      description: " "
     },
     "17167": {
+      color: "#9a8f07",
       name: "Sangamon",
       description: "5th quintile in nation"
     },
     "17169": {
-      color: "#9a8f07",
-      name: "Schuyler"
+      name: "Schuyler",
+      description: " "
     },
     "17171": {
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "17173": {
-      name: "Shelby"
+      name: "Shelby",
+      description: " "
     },
     "17175": {
-      name: "Stark"
+      name: "Stark",
+      description: " "
     },
     "17177": {
-      name: "Stephenson"
+      name: "Stephenson",
+      description: " "
     },
     "17179": {
+      color: "#f6e944",
       name: "Tazewell",
       description: "2nd quintile in nation"
     },
     "17181": {
-      color: "#f6e944",
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "17183": {
-      name: "Vermilion"
+      name: "Vermilion",
+      description: " "
     },
     "17185": {
-      name: "Wabash"
+      name: "Wabash",
+      description: " "
     },
     "17187": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "17189": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "17191": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "17193": {
-      name: "White"
+      name: "White",
+      description: " "
     },
     "17195": {
-      name: "Whiteside"
+      name: "Whiteside",
+      description: " "
     },
     "17197": {
+      color: "#cbbc09",
       name: "Will",
       description: "4th quintile in nation"
     },
     "17199": {
-      color: "#cbbc09",
-      name: "Williamson"
+      name: "Williamson",
+      description: " "
     },
     "17201": {
+      color: "#cbbc09",
       name: "Winnebago",
       description: "4th quintile in nation"
     },
     "17203": {
-      color: "#cbbc09",
-      name: "Woodford"
+      name: "Woodford",
+      description: " "
     },
     "18001": {
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "18003": {
+      color: "#f6e944",
       name: "Allen",
       description: "2nd quintile in nation"
     },
     "18005": {
-      color: "#f6e944",
-      name: "Bartholomew"
+      name: "Bartholomew",
+      description: " "
     },
     "18007": {
-      name: "Benton"
+      name: "Benton",
+      description: " "
     },
     "18009": {
-      name: "Blackford"
+      name: "Blackford",
+      description: " "
     },
     "18011": {
-      name: "Boone"
+      name: "Boone",
+      description: " "
     },
     "18013": {
-      name: "Brown"
+      name: "Brown",
+      description: " "
     },
     "18015": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "18017": {
-      name: "Cass"
+      name: "Cass",
+      description: " "
     },
     "18019": {
+      color: "#f9ef74",
       name: "Clark",
       description: "1st quintile in nation"
     },
     "18021": {
-      color: "#f9ef74",
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "18023": {
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "18025": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "18027": {
-      name: "Daviess"
+      name: "Daviess",
+      description: " "
     },
     "18029": {
-      name: "Dearborn"
+      name: "Dearborn",
+      description: " "
     },
     "18031": {
-      name: "Decatur"
+      name: "Decatur",
+      description: " "
     },
     "18033": {
-      name: "De Kalb"
+      name: "De Kalb",
+      description: " "
     },
     "18035": {
+      color: "#f4e313",
       name: "Delaware",
       description: "3rd quintile in nation"
     },
     "18037": {
-      color: "#f4e313",
-      name: "Dubois"
+      name: "Dubois",
+      description: " "
     },
     "18039": {
+      color: "#f6e944",
       name: "Elkhart",
       description: "2nd quintile in nation"
     },
     "18041": {
-      color: "#f6e944",
-      name: "Fayette"
+      name: "Fayette",
+      description: " "
     },
     "18043": {
-      name: "Floyd"
+      name: "Floyd",
+      description: " "
     },
     "18045": {
-      name: "Fountain"
+      name: "Fountain",
+      description: " "
     },
     "18047": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "18049": {
-      name: "Fulton"
+      name: "Fulton",
+      description: " "
     },
     "18051": {
-      name: "Gibson"
+      name: "Gibson",
+      description: " "
     },
     "18053": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "18055": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "18057": {
+      color: "#f9ef74",
       name: "Hamilton",
       description: "1st quintile in nation"
     },
     "18059": {
-      color: "#f9ef74",
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "18061": {
-      name: "Harrison"
+      name: "Harrison",
+      description: " "
     },
     "18063": {
+      color: "#f9ef74",
       name: "Hendricks",
       description: "1st quintile in nation"
     },
     "18065": {
-      color: "#f9ef74",
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "18067": {
-      name: "Howard"
+      name: "Howard",
+      description: " "
     },
     "18069": {
-      name: "Huntington"
+      name: "Huntington",
+      description: " "
     },
     "18071": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "18073": {
-      name: "Jasper"
+      name: "Jasper",
+      description: " "
     },
     "18075": {
-      name: "Jay"
+      name: "Jay",
+      description: " "
     },
     "18077": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "18079": {
-      name: "Jennings"
+      name: "Jennings",
+      description: " "
     },
     "18081": {
+      color: "#f9ef74",
       name: "Johnson",
       description: "1st quintile in nation"
     },
     "18083": {
-      color: "#f9ef74",
-      name: "Knox"
+      name: "Knox",
+      description: " "
     },
     "18085": {
-      name: "Kosciusko"
+      name: "Kosciusko",
+      description: " "
     },
     "18087": {
-      name: "Lagrange"
+      name: "Lagrange",
+      description: " "
     },
     "18089": {
+      color: "#f4e313",
       name: "Lake",
       description: "3rd quintile in nation"
     },
@@ -1558,10 +1884,11 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "18093": {
-      color: "#f4e313",
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "18095": {
+      color: "#f4e313",
       name: "Madison",
       description: "3rd quintile in nation"
     },
@@ -1571,1275 +1898,1646 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "18099": {
-      color: "#f4e313",
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "18101": {
-      name: "Martin"
+      name: "Martin",
+      description: " "
     },
     "18103": {
-      name: "Miami"
+      name: "Miami",
+      description: " "
     },
     "18105": {
+      color: "#f9ef74",
       name: "Monroe",
       description: "1st quintile in nation"
     },
     "18107": {
-      color: "#f9ef74",
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "18109": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "18111": {
-      name: "Newton"
+      name: "Newton",
+      description: " "
     },
     "18113": {
-      name: "Noble"
+      name: "Noble",
+      description: " "
     },
     "18115": {
-      name: "Ohio"
+      name: "Ohio",
+      description: " "
     },
     "18117": {
-      name: "Orange"
+      name: "Orange",
+      description: " "
     },
     "18119": {
-      name: "Owen"
+      name: "Owen",
+      description: " "
     },
     "18121": {
-      name: "Parke"
+      name: "Parke",
+      description: " "
     },
     "18123": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "18125": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "18127": {
+      color: "#f4e313",
       name: "Porter",
       description: "3rd quintile in nation"
     },
     "18129": {
-      color: "#f4e313",
-      name: "Posey"
+      name: "Posey",
+      description: " "
     },
     "18131": {
-      name: "Pulaski"
+      name: "Pulaski",
+      description: " "
     },
     "18133": {
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "18135": {
-      name: "Randolph"
+      name: "Randolph",
+      description: " "
     },
     "18137": {
-      name: "Ripley"
+      name: "Ripley",
+      description: " "
     },
     "18139": {
-      name: "Rush"
+      name: "Rush",
+      description: " "
     },
     "18141": {
+      color: "#f4e313",
       name: "St Joseph",
       description: "3rd quintile in nation"
     },
     "18143": {
-      color: "#f4e313",
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "18145": {
-      name: "Shelby"
+      name: "Shelby",
+      description: " "
     },
     "18147": {
-      name: "Spencer"
+      name: "Spencer",
+      description: " "
     },
     "18149": {
-      name: "Starke"
+      name: "Starke",
+      description: " "
     },
     "18151": {
-      name: "Steuben"
+      name: "Steuben",
+      description: " "
     },
     "18153": {
-      name: "Sullivan"
+      name: "Sullivan",
+      description: " "
     },
     "18155": {
-      name: "Switzerland"
+      name: "Switzerland",
+      description: " "
     },
     "18157": {
+      color: "#f9ef74",
       name: "Tippecanoe",
       description: "1st quintile in nation"
     },
     "18159": {
-      color: "#f9ef74",
-      name: "Tipton"
+      name: "Tipton",
+      description: " "
     },
     "18161": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "18163": {
+      color: "#cbbc09",
       name: "Vanderburgh",
       description: "4th quintile in nation"
     },
     "18165": {
-      color: "#cbbc09",
-      name: "Vermillion"
+      name: "Vermillion",
+      description: " "
     },
     "18167": {
+      color: "#cbbc09",
       name: "Vigo",
       description: "4th quintile in nation"
     },
     "18169": {
-      color: "#cbbc09",
-      name: "Wabash"
+      name: "Wabash",
+      description: " "
     },
     "18171": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "18173": {
-      name: "Warrick"
+      name: "Warrick",
+      description: " "
     },
     "18175": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "18177": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "18179": {
-      name: "Wells"
+      name: "Wells",
+      description: " "
     },
     "18181": {
-      name: "White"
+      name: "White",
+      description: " "
     },
     "18183": {
-      name: "Whitley"
+      name: "Whitley",
+      description: " "
     },
     "19001": {
-      name: "Adair"
+      name: "Adair",
+      description: " "
     },
     "19003": {
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "19005": {
-      name: "Allamakee"
+      name: "Allamakee",
+      description: " "
     },
     "19007": {
-      name: "Appanoose"
+      name: "Appanoose",
+      description: " "
     },
     "19009": {
-      name: "Audubon"
+      name: "Audubon",
+      description: " "
     },
     "19011": {
-      name: "Benton"
+      name: "Benton",
+      description: " "
     },
     "19013": {
+      color: "#f6e944",
       name: "Black Hawk",
       description: "2nd quintile in nation"
     },
     "19015": {
-      color: "#f6e944",
-      name: "Boone"
+      name: "Boone",
+      description: " "
     },
     "19017": {
-      name: "Bremer"
+      name: "Bremer",
+      description: " "
     },
     "19019": {
-      name: "Buchanan"
+      name: "Buchanan",
+      description: " "
     },
     "19021": {
-      name: "Buena Vista"
+      name: "Buena Vista",
+      description: " "
     },
     "19023": {
-      name: "Butler"
+      name: "Butler",
+      description: " "
     },
     "19025": {
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "19027": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "19029": {
-      name: "Cass"
+      name: "Cass",
+      description: " "
     },
     "19031": {
-      name: "Cedar"
+      name: "Cedar",
+      description: " "
     },
     "19033": {
-      name: "Cerro Gordo"
+      name: "Cerro Gordo",
+      description: " "
     },
     "19035": {
-      name: "Cherokee"
+      name: "Cherokee",
+      description: " "
     },
     "19037": {
-      name: "Chickasaw"
+      name: "Chickasaw",
+      description: " "
     },
     "19039": {
-      name: "Clarke"
+      name: "Clarke",
+      description: " "
     },
     "19041": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "19043": {
-      name: "Clayton"
+      name: "Clayton",
+      description: " "
     },
     "19045": {
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "19047": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "19049": {
-      name: "Dallas"
+      name: "Dallas",
+      description: " "
     },
     "19051": {
-      name: "Davis"
+      name: "Davis",
+      description: " "
     },
     "19053": {
-      name: "Decatur"
+      name: "Decatur",
+      description: " "
     },
     "19055": {
-      name: "Delaware"
+      name: "Delaware",
+      description: " "
     },
     "19057": {
-      name: "Des Moines"
+      name: "Des Moines",
+      description: " "
     },
     "19059": {
-      name: "Dickinson"
+      name: "Dickinson",
+      description: " "
     },
     "19061": {
-      name: "Dubuque"
+      name: "Dubuque",
+      description: " "
     },
     "19063": {
-      name: "Emmet"
+      name: "Emmet",
+      description: " "
     },
     "19065": {
-      name: "Fayette"
+      name: "Fayette",
+      description: " "
     },
     "19067": {
-      name: "Floyd"
+      name: "Floyd",
+      description: " "
     },
     "19069": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "19071": {
-      name: "Fremont"
+      name: "Fremont",
+      description: " "
     },
     "19073": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "19075": {
-      name: "Grundy"
+      name: "Grundy",
+      description: " "
     },
     "19077": {
-      name: "Guthrie"
+      name: "Guthrie",
+      description: " "
     },
     "19079": {
-      name: "Hamilton"
+      name: "Hamilton",
+      description: " "
     },
     "19081": {
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "19083": {
-      name: "Hardin"
+      name: "Hardin",
+      description: " "
     },
     "19085": {
-      name: "Harrison"
+      name: "Harrison",
+      description: " "
     },
     "19087": {
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "19089": {
-      name: "Howard"
+      name: "Howard",
+      description: " "
     },
     "19091": {
-      name: "Humboldt"
+      name: "Humboldt",
+      description: " "
     },
     "19093": {
-      name: "Ida"
+      name: "Ida",
+      description: " "
     },
     "19095": {
-      name: "Iowa"
+      name: "Iowa",
+      description: " "
     },
     "19097": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "19099": {
-      name: "Jasper"
+      name: "Jasper",
+      description: " "
     },
     "19101": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "19103": {
+      color: "#f6e944",
       name: "Johnson",
       description: "2nd quintile in nation"
     },
     "19105": {
-      color: "#f6e944",
-      name: "Jones"
+      name: "Jones",
+      description: " "
     },
     "19107": {
-      name: "Keokuk"
+      name: "Keokuk",
+      description: " "
     },
     "19109": {
-      name: "Kossuth"
+      name: "Kossuth",
+      description: " "
     },
     "19111": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "19113": {
+      color: "#cbbc09",
       name: "Linn",
       description: "4th quintile in nation"
     },
     "19115": {
-      color: "#cbbc09",
-      name: "Louisa"
+      name: "Louisa",
+      description: " "
     },
     "19117": {
-      name: "Lucas"
+      name: "Lucas",
+      description: " "
     },
     "19119": {
-      name: "Lyon"
+      name: "Lyon",
+      description: " "
     },
     "19121": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "19123": {
-      name: "Mahaska"
+      name: "Mahaska",
+      description: " "
     },
     "19125": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "19127": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "19129": {
-      name: "Mills"
+      name: "Mills",
+      description: " "
     },
     "19131": {
-      name: "Mitchell"
+      name: "Mitchell",
+      description: " "
     },
     "19133": {
-      name: "Monona"
+      name: "Monona",
+      description: " "
     },
     "19135": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "19137": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "19139": {
-      name: "Muscatine"
+      name: "Muscatine",
+      description: " "
     },
     "19141": {
-      name: "Obrien"
+      name: "Obrien",
+      description: " "
     },
     "19143": {
-      name: "Osceola"
+      name: "Osceola",
+      description: " "
     },
     "19145": {
-      name: "Page"
+      name: "Page",
+      description: " "
     },
     "19147": {
-      name: "Palo Alto"
+      name: "Palo Alto",
+      description: " "
     },
     "19149": {
-      name: "Plymouth"
+      name: "Plymouth",
+      description: " "
     },
     "19151": {
-      name: "Pocahontas"
+      name: "Pocahontas",
+      description: " "
     },
     "19153": {
+      color: "#cbbc09",
       name: "Polk",
       description: "4th quintile in nation"
     },
     "19155": {
-      color: "#cbbc09",
-      name: "Pottawattamie"
+      name: "Pottawattamie",
+      description: " "
     },
     "19157": {
-      name: "Poweshiek"
+      name: "Poweshiek",
+      description: " "
     },
     "19159": {
-      name: "Ringgold"
+      name: "Ringgold",
+      description: " "
     },
     "19161": {
-      name: "Sac"
+      name: "Sac",
+      description: " "
     },
     "19163": {
+      color: "#f9ef74",
       name: "Scott",
       description: "1st quintile in nation"
     },
     "19165": {
-      color: "#f9ef74",
-      name: "Shelby"
+      name: "Shelby",
+      description: " "
     },
     "19167": {
-      name: "Sioux"
+      name: "Sioux",
+      description: " "
     },
     "19169": {
-      name: "Story"
+      name: "Story",
+      description: " "
     },
     "19171": {
-      name: "Tama"
+      name: "Tama",
+      description: " "
     },
     "19173": {
-      name: "Taylor"
+      name: "Taylor",
+      description: " "
     },
     "19175": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "19177": {
-      name: "Van Buren"
+      name: "Van Buren",
+      description: " "
     },
     "19179": {
-      name: "Wapello"
+      name: "Wapello",
+      description: " "
     },
     "19181": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "19183": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "19185": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "19187": {
-      name: "Webster"
+      name: "Webster",
+      description: " "
     },
     "19189": {
-      name: "Winnebago"
+      name: "Winnebago",
+      description: " "
     },
     "19191": {
-      name: "Winneshiek"
+      name: "Winneshiek",
+      description: " "
     },
     "19193": {
+      color: "#f4e313",
       name: "Woodbury",
       description: "3rd quintile in nation"
     },
     "19195": {
-      color: "#f4e313",
-      name: "Worth"
+      name: "Worth",
+      description: " "
     },
     "19197": {
-      name: "Wright"
+      name: "Wright",
+      description: " "
     },
     "20001": {
-      name: "Allen"
+      name: "Allen",
+      description: " "
     },
     "20003": {
-      name: "Anderson"
+      name: "Anderson",
+      description: " "
     },
     "20005": {
-      name: "Atchison"
+      name: "Atchison",
+      description: " "
     },
     "20007": {
-      name: "Barber"
+      name: "Barber",
+      description: " "
     },
     "20009": {
-      name: "Barton"
+      name: "Barton",
+      description: " "
     },
     "20011": {
-      name: "Bourbon"
+      name: "Bourbon",
+      description: " "
     },
     "20013": {
-      name: "Brown"
+      name: "Brown",
+      description: " "
     },
     "20015": {
-      name: "Butler"
+      name: "Butler",
+      description: " "
     },
     "20017": {
-      name: "Chase"
+      name: "Chase",
+      description: " "
     },
     "20019": {
-      name: "Chautauqua"
+      name: "Chautauqua",
+      description: " "
     },
     "20021": {
-      name: "Cherokee"
+      name: "Cherokee",
+      description: " "
     },
     "20023": {
-      name: "Cheyenne"
+      name: "Cheyenne",
+      description: " "
     },
     "20025": {
-      name: "Clark"
+      name: "Clark",
+      description: " "
     },
     "20027": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "20029": {
-      name: "Cloud"
+      name: "Cloud",
+      description: " "
     },
     "20031": {
-      name: "Coffey"
+      name: "Coffey",
+      description: " "
     },
     "20033": {
-      name: "Comanche"
+      name: "Comanche",
+      description: " "
     },
     "20035": {
-      name: "Cowley"
+      name: "Cowley",
+      description: " "
     },
     "20037": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "20039": {
-      name: "Decatur"
+      name: "Decatur",
+      description: " "
     },
     "20041": {
-      name: "Dickinson"
+      name: "Dickinson",
+      description: " "
     },
     "20043": {
-      name: "Doniphan"
+      name: "Doniphan",
+      description: " "
     },
     "20045": {
+      color: "#9a8f07",
       name: "Douglas",
       description: "5th quintile in nation"
     },
     "20047": {
-      color: "#9a8f07",
-      name: "Edwards"
+      name: "Edwards",
+      description: " "
     },
     "20049": {
-      name: "Elk"
+      name: "Elk",
+      description: " "
     },
     "20051": {
-      name: "Ellis"
+      name: "Ellis",
+      description: " "
     },
     "20053": {
-      name: "Ellsworth"
+      name: "Ellsworth",
+      description: " "
     },
     "20055": {
-      name: "Finney"
+      name: "Finney",
+      description: " "
     },
     "20057": {
-      name: "Ford"
+      name: "Ford",
+      description: " "
     },
     "20059": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "20061": {
-      name: "Geary"
+      name: "Geary",
+      description: " "
     },
     "20063": {
-      name: "Gove"
+      name: "Gove",
+      description: " "
     },
     "20065": {
-      name: "Graham"
+      name: "Graham",
+      description: " "
     },
     "20067": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "20069": {
-      name: "Gray"
+      name: "Gray",
+      description: " "
     },
     "20071": {
-      name: "Greeley"
+      name: "Greeley",
+      description: " "
     },
     "20073": {
-      name: "Greenwood"
+      name: "Greenwood",
+      description: " "
     },
     "20075": {
-      name: "Hamilton"
+      name: "Hamilton",
+      description: " "
     },
     "20077": {
-      name: "Harper"
+      name: "Harper",
+      description: " "
     },
     "20079": {
-      name: "Harvey"
+      name: "Harvey",
+      description: " "
     },
     "20081": {
-      name: "Haskell"
+      name: "Haskell",
+      description: " "
     },
     "20083": {
-      name: "Hodgeman"
+      name: "Hodgeman",
+      description: " "
     },
     "20085": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "20087": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "20089": {
-      name: "Jewell"
+      name: "Jewell",
+      description: " "
     },
     "20091": {
+      color: "#f9ef74",
       name: "Johnson",
       description: "1st quintile in nation"
     },
     "20093": {
-      color: "#f9ef74",
-      name: "Kearny"
+      name: "Kearny",
+      description: " "
     },
     "20095": {
-      name: "Kingman"
+      name: "Kingman",
+      description: " "
     },
     "20097": {
-      name: "Kiowa"
+      name: "Kiowa",
+      description: " "
     },
     "20099": {
-      name: "Labette"
+      name: "Labette",
+      description: " "
     },
     "20101": {
-      name: "Lane"
+      name: "Lane",
+      description: " "
     },
     "20103": {
-      name: "Leavenworth"
+      name: "Leavenworth",
+      description: " "
     },
     "20105": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "20107": {
-      name: "Linn"
+      name: "Linn",
+      description: " "
     },
     "20109": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "20111": {
-      name: "Lyon"
+      name: "Lyon",
+      description: " "
     },
     "20113": {
-      name: "McPherson"
+      name: "McPherson",
+      description: " "
     },
     "20115": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "20117": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "20119": {
-      name: "Meade"
+      name: "Meade",
+      description: " "
     },
     "20121": {
-      name: "Miami"
+      name: "Miami",
+      description: " "
     },
     "20123": {
-      name: "Mitchell"
+      name: "Mitchell",
+      description: " "
     },
     "20125": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "20127": {
-      name: "Morris"
+      name: "Morris",
+      description: " "
     },
     "20129": {
-      name: "Morton"
+      name: "Morton",
+      description: " "
     },
     "20131": {
-      name: "Nemaha"
+      name: "Nemaha",
+      description: " "
     },
     "20133": {
-      name: "Neosho"
+      name: "Neosho",
+      description: " "
     },
     "20135": {
-      name: "Ness"
+      name: "Ness",
+      description: " "
     },
     "20137": {
-      name: "Norton"
+      name: "Norton",
+      description: " "
     },
     "20139": {
-      name: "Osage"
+      name: "Osage",
+      description: " "
     },
     "20141": {
-      name: "Osborne"
+      name: "Osborne",
+      description: " "
     },
     "20143": {
-      name: "Ottawa"
+      name: "Ottawa",
+      description: " "
     },
     "20145": {
-      name: "Pawnee"
+      name: "Pawnee",
+      description: " "
     },
     "20147": {
-      name: "Phillips"
+      name: "Phillips",
+      description: " "
     },
     "20149": {
-      name: "Pottawatomie"
+      name: "Pottawatomie",
+      description: " "
     },
     "20151": {
-      name: "Pratt"
+      name: "Pratt",
+      description: " "
     },
     "20153": {
-      name: "Rawlins"
+      name: "Rawlins",
+      description: " "
     },
     "20155": {
-      name: "Reno"
+      name: "Reno",
+      description: " "
     },
     "20157": {
-      name: "Republic"
+      name: "Republic",
+      description: " "
     },
     "20159": {
-      name: "Rice"
+      name: "Rice",
+      description: " "
     },
     "20161": {
-      name: "Riley"
+      name: "Riley",
+      description: " "
     },
     "20163": {
-      name: "Rooks"
+      name: "Rooks",
+      description: " "
     },
     "20165": {
-      name: "Rush"
+      name: "Rush",
+      description: " "
     },
     "20167": {
-      name: "Russell"
+      name: "Russell",
+      description: " "
     },
     "20169": {
-      name: "Saline"
+      name: "Saline",
+      description: " "
     },
     "20171": {
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "20173": {
+      color: "#cbbc09",
       name: "Sedgwick",
       description: "4th quintile in nation"
     },
     "20175": {
-      color: "#cbbc09",
-      name: "Seward"
+      name: "Seward",
+      description: " "
     },
     "20177": {
+      color: "#cbbc09",
       name: "Shawnee",
       description: "4th quintile in nation"
     },
     "20179": {
-      color: "#cbbc09",
-      name: "Sheridan"
+      name: "Sheridan",
+      description: " "
     },
     "20181": {
-      name: "Sherman"
+      name: "Sherman",
+      description: " "
     },
     "20183": {
-      name: "Smith"
+      name: "Smith",
+      description: " "
     },
     "20185": {
-      name: "Stafford"
+      name: "Stafford",
+      description: " "
     },
     "20187": {
-      name: "Stanton"
+      name: "Stanton",
+      description: " "
     },
     "20189": {
-      name: "Stevens"
+      name: "Stevens",
+      description: " "
     },
     "20191": {
-      name: "Sumner"
+      name: "Sumner",
+      description: " "
     },
     "20193": {
-      name: "Thomas"
+      name: "Thomas",
+      description: " "
     },
     "20195": {
-      name: "Trego"
+      name: "Trego",
+      description: " "
     },
     "20197": {
-      name: "Wabaunsee"
+      name: "Wabaunsee",
+      description: " "
     },
     "20199": {
-      name: "Wallace"
+      name: "Wallace",
+      description: " "
     },
     "20201": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "20203": {
-      name: "Wichita"
+      name: "Wichita",
+      description: " "
     },
     "20205": {
-      name: "Wilson"
+      name: "Wilson",
+      description: " "
     },
     "20207": {
-      name: "Woodson"
+      name: "Woodson",
+      description: " "
     },
     "20209": {
+      color: "#f6e944",
       name: "Wyandotte",
       description: "2nd quintile in nation"
     },
     "21001": {
-      color: "#f6e944",
-      name: "Adair"
+      name: "Adair",
+      description: " "
     },
     "21003": {
-      name: "Allen"
+      name: "Allen",
+      description: " "
     },
     "21005": {
-      name: "Anderson"
+      name: "Anderson",
+      description: " "
     },
     "21007": {
-      name: "Ballard"
+      name: "Ballard",
+      description: " "
     },
     "21009": {
-      name: "Barren"
+      name: "Barren",
+      description: " "
     },
     "21011": {
-      name: "Bath"
+      name: "Bath",
+      description: " "
     },
     "21013": {
-      name: "Bell"
+      name: "Bell",
+      description: " "
     },
     "21015": {
+      color: "#f9ef74",
       name: "Boone",
       description: "1st quintile in nation"
     },
     "21017": {
-      color: "#f9ef74",
-      name: "Bourbon"
+      name: "Bourbon",
+      description: " "
     },
     "21019": {
-      name: "Boyd"
+      name: "Boyd",
+      description: " "
     },
     "21021": {
-      name: "Boyle"
+      name: "Boyle",
+      description: " "
     },
     "21023": {
-      name: "Bracken"
+      name: "Bracken",
+      description: " "
     },
     "21025": {
-      name: "Breathitt"
+      name: "Breathitt",
+      description: " "
     },
     "21027": {
-      name: "Breckinridge"
+      name: "Breckinridge",
+      description: " "
     },
     "21029": {
-      name: "Bullitt"
+      name: "Bullitt",
+      description: " "
     },
     "21031": {
-      name: "Butler"
+      name: "Butler",
+      description: " "
     },
     "21033": {
-      name: "Caldwell"
+      name: "Caldwell",
+      description: " "
     },
     "21035": {
-      name: "Calloway"
+      name: "Calloway",
+      description: " "
     },
     "21037": {
-      name: "Campbell"
+      name: "Campbell",
+      description: " "
     },
     "21039": {
-      name: "Carlisle"
+      name: "Carlisle",
+      description: " "
     },
     "21041": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "21043": {
-      name: "Carter"
+      name: "Carter",
+      description: " "
     },
     "21045": {
-      name: "Casey"
+      name: "Casey",
+      description: " "
     },
     "21047": {
-      name: "Christian"
+      name: "Christian",
+      description: " "
     },
     "21049": {
-      name: "Clark"
+      name: "Clark",
+      description: " "
     },
     "21051": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "21053": {
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "21055": {
-      name: "Crittenden"
+      name: "Crittenden",
+      description: " "
     },
     "21057": {
-      name: "Cumberland"
+      name: "Cumberland",
+      description: " "
     },
     "21059": {
-      name: "Daviess"
+      name: "Daviess",
+      description: " "
     },
     "21061": {
-      name: "Edmonson"
+      name: "Edmonson",
+      description: " "
     },
     "21063": {
-      name: "Elliott"
+      name: "Elliott",
+      description: " "
     },
     "21065": {
-      name: "Estill"
+      name: "Estill",
+      description: " "
     },
     "21067": {
+      color: "#f9ef74",
       name: "Fayette",
       description: "1st quintile in nation"
     },
     "21069": {
-      color: "#f9ef74",
-      name: "Fleming"
+      name: "Fleming",
+      description: " "
     },
     "21071": {
-      name: "Floyd"
+      name: "Floyd",
+      description: " "
     },
     "21073": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "21075": {
-      name: "Fulton"
+      name: "Fulton",
+      description: " "
     },
     "21077": {
-      name: "Gallatin"
+      name: "Gallatin",
+      description: " "
     },
     "21079": {
-      name: "Garrard"
+      name: "Garrard",
+      description: " "
     },
     "21081": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "21083": {
-      name: "Graves"
+      name: "Graves",
+      description: " "
     },
     "21085": {
-      name: "Grayson"
+      name: "Grayson",
+      description: " "
     },
     "21087": {
-      name: "Green"
+      name: "Green",
+      description: " "
     },
     "21089": {
-      name: "Greenup"
+      name: "Greenup",
+      description: " "
     },
     "21091": {
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "21093": {
+      color: "#f6e944",
       name: "Hardin",
       description: "2nd quintile in nation"
     },
     "21095": {
-      color: "#f6e944",
-      name: "Harlan"
+      name: "Harlan",
+      description: " "
     },
     "21097": {
-      name: "Harrison"
+      name: "Harrison",
+      description: " "
     },
     "21099": {
-      name: "Hart"
+      name: "Hart",
+      description: " "
     },
     "21101": {
-      name: "Henderson"
+      name: "Henderson",
+      description: " "
     },
     "21103": {
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "21105": {
-      name: "Hickman"
+      name: "Hickman",
+      description: " "
     },
     "21107": {
-      name: "Hopkins"
+      name: "Hopkins",
+      description: " "
     },
     "21109": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "21111": {
+      color: "#f6e944",
       name: "Jefferson",
       description: "2nd quintile in nation"
     },
     "21113": {
-      color: "#f6e944",
-      name: "Jessamine"
+      name: "Jessamine",
+      description: " "
     },
     "21115": {
-      name: "Johnson"
+      name: "Johnson",
+      description: " "
     },
     "21117": {
+      color: "#cbbc09",
       name: "Kenton",
       description: "4th quintile in nation"
     },
     "21119": {
-      color: "#cbbc09",
-      name: "Knott"
+      name: "Knott",
+      description: " "
     },
     "21121": {
-      name: "Knox"
+      name: "Knox",
+      description: " "
     },
     "21123": {
-      name: "Larue"
+      name: "Larue",
+      description: " "
     },
     "21125": {
-      name: "Laurel"
+      name: "Laurel",
+      description: " "
     },
     "21127": {
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "21129": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "21131": {
-      name: "Leslie"
+      name: "Leslie",
+      description: " "
     },
     "21133": {
-      name: "Letcher"
+      name: "Letcher",
+      description: " "
     },
     "21135": {
-      name: "Lewis"
+      name: "Lewis",
+      description: " "
     },
     "21137": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "21139": {
-      name: "Livingston"
+      name: "Livingston",
+      description: " "
     },
     "21141": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "21143": {
-      name: "Lyon"
+      name: "Lyon",
+      description: " "
     },
     "21145": {
-      name: "McCracken"
+      name: "McCracken",
+      description: " "
     },
     "21147": {
-      name: "McCreary"
+      name: "McCreary",
+      description: " "
     },
     "21149": {
-      name: "Mclean"
+      name: "Mclean",
+      description: " "
     },
     "21151": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "21153": {
-      name: "Magoffin"
+      name: "Magoffin",
+      description: " "
     },
     "21155": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "21157": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "21159": {
-      name: "Martin"
+      name: "Martin",
+      description: " "
     },
     "21161": {
-      name: "Mason"
+      name: "Mason",
+      description: " "
     },
     "21163": {
-      name: "Meade"
+      name: "Meade",
+      description: " "
     },
     "21165": {
-      name: "Menifee"
+      name: "Menifee",
+      description: " "
     },
     "21167": {
-      name: "Mercer"
+      name: "Mercer",
+      description: " "
     },
     "21169": {
-      name: "Metcalfe"
+      name: "Metcalfe",
+      description: " "
     },
     "21171": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "21173": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "21175": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "21177": {
-      name: "Muhlenberg"
+      name: "Muhlenberg",
+      description: " "
     },
     "21179": {
-      name: "Nelson"
+      name: "Nelson",
+      description: " "
     },
     "21181": {
-      name: "Nicholas"
+      name: "Nicholas",
+      description: " "
     },
     "21183": {
-      name: "Ohio"
+      name: "Ohio",
+      description: " "
     },
     "21185": {
-      name: "Oldham"
+      name: "Oldham",
+      description: " "
     },
     "21187": {
-      name: "Owen"
+      name: "Owen",
+      description: " "
     },
     "21189": {
-      name: "Owsley"
+      name: "Owsley",
+      description: " "
     },
     "21191": {
-      name: "Pendleton"
+      name: "Pendleton",
+      description: " "
     },
     "21193": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "21195": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "21197": {
-      name: "Powell"
+      name: "Powell",
+      description: " "
     },
     "21199": {
-      name: "Pulaski"
+      name: "Pulaski",
+      description: " "
     },
     "21201": {
-      name: "Robertson"
+      name: "Robertson",
+      description: " "
     },
     "21203": {
-      name: "Rockcastle"
+      name: "Rockcastle",
+      description: " "
     },
     "21205": {
-      name: "Rowan"
+      name: "Rowan",
+      description: " "
     },
     "21207": {
-      name: "Russell"
+      name: "Russell",
+      description: " "
     },
     "21209": {
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "21211": {
-      name: "Shelby"
+      name: "Shelby",
+      description: " "
     },
     "21213": {
-      name: "Simpson"
+      name: "Simpson",
+      description: " "
     },
     "21215": {
-      name: "Spencer"
+      name: "Spencer",
+      description: " "
     },
     "21217": {
-      name: "Taylor"
+      name: "Taylor",
+      description: " "
     },
     "21219": {
-      name: "Todd"
+      name: "Todd",
+      description: " "
     },
     "21221": {
-      name: "Trigg"
+      name: "Trigg",
+      description: " "
     },
     "21223": {
-      name: "Trimble"
+      name: "Trimble",
+      description: " "
     },
     "21225": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "21227": {
+      color: "#f6e944",
       name: "Warren",
       description: "2nd quintile in nation"
     },
     "21229": {
-      color: "#f6e944",
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "21231": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "21233": {
-      name: "Webster"
+      name: "Webster",
+      description: " "
     },
     "21235": {
-      name: "Whitley"
+      name: "Whitley",
+      description: " "
     },
     "21237": {
-      name: "Wolfe"
+      name: "Wolfe",
+      description: " "
     },
     "21239": {
-      name: "Woodford"
+      name: "Woodford",
+      description: " "
     },
     "22001": {
-      name: "Acadia"
+      name: "Acadia",
+      description: " "
     },
     "22003": {
-      name: "Allen"
+      name: "Allen",
+      description: " "
     },
     "22005": {
+      color: "#f9ef74",
       name: "Ascension",
       description: "1st quintile in nation"
     },
     "22007": {
-      color: "#f9ef74",
-      name: "Assumption"
+      name: "Assumption",
+      description: " "
     },
     "22009": {
-      name: "Avoyelles"
+      name: "Avoyelles",
+      description: " "
     },
     "22011": {
-      name: "Beauregard"
+      name: "Beauregard",
+      description: " "
     },
     "22013": {
-      name: "Bienville"
+      name: "Bienville",
+      description: " "
     },
     "22015": {
+      color: "#f4e313",
       name: "Bossier",
       description: "3rd quintile in nation"
     },
     "22017": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Caddo",
       description: "5th quintile in nation"
     },
     "22019": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Calcasieu",
       description: "4th quintile in nation"
     },
     "22021": {
-      color: "#cbbc09",
-      name: "Caldwell"
+      name: "Caldwell",
+      description: " "
     },
     "22023": {
-      name: "Cameron"
+      name: "Cameron",
+      description: " "
     },
     "22025": {
-      name: "Catahoula"
+      name: "Catahoula",
+      description: " "
     },
     "22027": {
-      name: "Claiborne"
+      name: "Claiborne",
+      description: " "
     },
     "22029": {
-      name: "Concordia"
+      name: "Concordia",
+      description: " "
     },
     "22031": {
-      name: "De Soto"
+      name: "De Soto",
+      description: " "
     },
     "22033": {
+      color: "#cbbc09",
       name: "East Baton Rouge",
       description: "4th quintile in nation"
     },
     "22035": {
-      color: "#cbbc09",
-      name: "East Carroll"
+      name: "East Carroll",
+      description: " "
     },
     "22037": {
-      name: "East Feliciana"
+      name: "East Feliciana",
+      description: " "
     },
     "22039": {
-      name: "Evangeline"
+      name: "Evangeline",
+      description: " "
     },
     "22041": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "22043": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "22045": {
-      name: "Iberia"
+      name: "Iberia",
+      description: " "
     },
     "22047": {
-      name: "Iberville"
+      name: "Iberville",
+      description: " "
     },
     "22049": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "22051": {
+      color: "#9a8f07",
       name: "Jefferson",
       description: "5th quintile in nation"
     },
     "22053": {
-      color: "#9a8f07",
-      name: "Jefferson Davis"
+      name: "Jefferson Davis",
+      description: " "
     },
     "22055": {
+      color: "#f6e944",
       name: "Lafayette",
       description: "2nd quintile in nation"
     },
     "22057": {
-      color: "#f6e944",
-      name: "Lafourche"
+      name: "Lafourche",
+      description: " "
     },
     "22059": {
-      name: "La Salle"
+      name: "La Salle",
+      description: " "
     },
     "22061": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "22063": {
+      color: "#f4e313",
       name: "Livingston",
       description: "3rd quintile in nation"
     },
     "22065": {
-      color: "#f4e313",
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "22067": {
-      name: "Morehouse"
+      name: "Morehouse",
+      description: " "
     },
     "22069": {
-      name: "Natchitoches"
+      name: "Natchitoches",
+      description: " "
     },
     "22071": {
+      color: "#9a8f07",
       name: "Orleans",
       description: "5th quintile in nation"
     },
@@ -2849,566 +3547,669 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "22075": {
-      color: "#9a8f07",
-      name: "Plaquemines"
+      name: "Plaquemines",
+      description: " "
     },
     "22077": {
-      name: "Pointe Coupee"
+      name: "Pointe Coupee",
+      description: " "
     },
     "22079": {
+      color: "#9a8f07",
       name: "Rapides",
       description: "5th quintile in nation"
     },
     "22081": {
-      color: "#9a8f07",
-      name: "Red River"
+      name: "Red River",
+      description: " "
     },
     "22083": {
-      name: "Richland"
+      name: "Richland",
+      description: " "
     },
     "22085": {
-      name: "Sabine"
+      name: "Sabine",
+      description: " "
     },
     "22087": {
-      name: "St Bernard"
+      name: "St Bernard",
+      description: " "
     },
     "22089": {
-      name: "St Charles"
+      name: "St Charles",
+      description: " "
     },
     "22091": {
-      name: "St Helena"
+      name: "St Helena",
+      description: " "
     },
     "22093": {
-      name: "St James"
+      name: "St James",
+      description: " "
     },
     "22095": {
-      name: "St John The Baptist"
+      name: "St John The Baptist",
+      description: " "
     },
     "22097": {
-      name: "St Landry"
+      name: "St Landry",
+      description: " "
     },
     "22099": {
-      name: "St Martin"
+      name: "St Martin",
+      description: " "
     },
     "22101": {
-      name: "St Mary"
+      name: "St Mary",
+      description: " "
     },
     "22103": {
+      color: "#9a8f07",
       name: "St Tammany",
       description: "5th quintile in nation"
     },
     "22105": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "Tangipahoa",
       description: "3rd quintile in nation"
     },
     "22107": {
-      color: "#f4e313",
-      name: "Tensas"
+      name: "Tensas",
+      description: " "
     },
     "22109": {
+      color: "#9a8f07",
       name: "Terrebonne",
       description: "5th quintile in nation"
     },
     "22111": {
-      color: "#9a8f07",
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "22113": {
-      name: "Vermilion"
+      name: "Vermilion",
+      description: " "
     },
     "22115": {
-      name: "Vernon"
+      name: "Vernon",
+      description: " "
     },
     "22117": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "22119": {
-      name: "Webster"
+      name: "Webster",
+      description: " "
     },
     "22121": {
-      name: "West Baton Rouge"
+      name: "West Baton Rouge",
+      description: " "
     },
     "22123": {
-      name: "West Carroll"
+      name: "West Carroll",
+      description: " "
     },
     "22125": {
-      name: "West Feliciana"
+      name: "West Feliciana",
+      description: " "
     },
     "22127": {
-      name: "Winn"
+      name: "Winn",
+      description: " "
     },
     "23001": {
+      color: "#f6e944",
       name: "Androscoggin",
       description: "2nd quintile in nation"
     },
     "23003": {
-      color: "#f6e944",
-      name: "Aroostook"
+      name: "Aroostook",
+      description: " "
     },
     "23005": {
+      color: "#f4e313",
       name: "Cumberland",
       description: "3rd quintile in nation"
     },
     "23007": {
-      color: "#f4e313",
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "23009": {
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "23011": {
+      color: "#9a8f07",
       name: "Kennebec",
       description: "5th quintile in nation"
     },
     "23013": {
-      color: "#9a8f07",
-      name: "Knox"
+      name: "Knox",
+      description: " "
     },
     "23015": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "23017": {
-      name: "Oxford"
+      name: "Oxford",
+      description: " "
     },
     "23019": {
+      color: "#cbbc09",
       name: "Penobscot",
       description: "4th quintile in nation"
     },
     "23021": {
-      color: "#cbbc09",
-      name: "Piscataquis"
+      name: "Piscataquis",
+      description: " "
     },
     "23023": {
-      name: "Sagadahoc"
+      name: "Sagadahoc",
+      description: " "
     },
     "23025": {
-      name: "Somerset"
+      name: "Somerset",
+      description: " "
     },
     "23027": {
-      name: "Waldo"
+      name: "Waldo",
+      description: " "
     },
     "23029": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "23031": {
+      color: "#f6e944",
       name: "York",
       description: "2nd quintile in nation"
     },
     "24001": {
-      color: "#f6e944",
-      name: "Allegany"
+      name: "Allegany",
+      description: " "
     },
     "24003": {
+      color: "#f4e313",
       name: "Anne Arundel",
       description: "3rd quintile in nation"
     },
     "24005": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Baltimore",
       description: "5th quintile in nation"
     },
     "24009": {
-      color: "#9a8f07",
-      name: "Calvert"
+      name: "Calvert",
+      description: " "
     },
     "24011": {
-      name: "Caroline"
+      name: "Caroline",
+      description: " "
     },
     "24013": {
+      color: "#9a8f07",
       name: "Carroll",
       description: "5th quintile in nation"
     },
     "24015": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "Cecil",
       description: "3rd quintile in nation"
     },
     "24017": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Charles",
       description: "5th quintile in nation"
     },
     "24019": {
-      color: "#9a8f07",
-      name: "Dorchester"
+      name: "Dorchester",
+      description: " "
     },
     "24021": {
+      color: "#cbbc09",
       name: "Frederick",
       description: "4th quintile in nation"
     },
     "24023": {
-      color: "#cbbc09",
-      name: "Garrett"
+      name: "Garrett",
+      description: " "
     },
     "24025": {
+      color: "#9a8f07",
       name: "Harford",
       description: "5th quintile in nation"
     },
     "24027": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Howard",
       description: "4th quintile in nation"
     },
     "24029": {
-      color: "#cbbc09",
-      name: "Kent"
+      name: "Kent",
+      description: " "
     },
     "24031": {
+      color: "#f6e944",
       name: "Montgomery",
       description: "2nd quintile in nation"
     },
     "24033": {
-      color: "#f6e944",
+      color: "#cbbc09",
       name: "Prince Georges",
       description: "4th quintile in nation"
     },
     "24035": {
-      color: "#cbbc09",
-      name: "Queen Annes"
+      name: "Queen Annes",
+      description: " "
     },
     "24037": {
+      color: "#9a8f07",
       name: "St Marys",
       description: "5th quintile in nation"
     },
     "24039": {
-      color: "#9a8f07",
-      name: "Somerset"
+      name: "Somerset",
+      description: " "
     },
     "24041": {
-      name: "Talbot"
+      name: "Talbot",
+      description: " "
     },
     "24043": {
+      color: "#cbbc09",
       name: "Washington",
       description: "4th quintile in nation"
     },
     "24045": {
-      color: "#cbbc09",
+      color: "#f6e944",
       name: "Wicomico",
       description: "2nd quintile in nation"
     },
     "24047": {
-      color: "#f6e944",
-      name: "Worcester"
+      name: "Worcester",
+      description: " "
     },
     "24510": {
+      color: "#9a8f07",
       name: "Baltimore City",
       description: "5th quintile in nation"
     },
     "25001": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Barnstable",
       description: "4th quintile in nation"
     },
     "25003": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Berkshire",
       description: "5th quintile in nation"
     },
     "25005": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "Bristol",
       description: "3rd quintile in nation"
     },
     "25007": {
-      color: "#f4e313",
-      name: "Dukes"
+      name: "Dukes",
+      description: " "
     },
     "25009": {
+      color: "#cbbc09",
       name: "Essex",
       description: "4th quintile in nation"
     },
     "25011": {
-      color: "#cbbc09",
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "25013": {
+      color: "#cbbc09",
       name: "Hampden",
       description: "4th quintile in nation"
     },
     "25015": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Hampshire",
       description: "5th quintile in nation"
     },
     "25017": {
-      color: "#9a8f07",
+      color: "#f6e944",
       name: "Middlesex",
       description: "2nd quintile in nation"
     },
     "25019": {
-      color: "#f6e944",
-      name: "Nantucket"
+      name: "Nantucket",
+      description: " "
     },
     "25021": {
+      color: "#f4e313",
       name: "Norfolk",
       description: "3rd quintile in nation"
     },
     "25023": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Plymouth",
       description: "5th quintile in nation"
     },
     "25025": {
-      color: "#9a8f07",
+      color: "#f9ef74",
       name: "Suffolk",
       description: "1st quintile in nation"
     },
     "25027": {
-      color: "#f9ef74",
+      color: "#9a8f07",
       name: "Worcester",
       description: "5th quintile in nation"
     },
     "26001": {
-      color: "#9a8f07",
-      name: "Alcona"
+      name: "Alcona",
+      description: " "
     },
     "26003": {
-      name: "Alger"
+      name: "Alger",
+      description: " "
     },
     "26005": {
+      color: "#f6e944",
       name: "Allegan",
       description: "2nd quintile in nation"
     },
     "26007": {
-      color: "#f6e944",
-      name: "Alpena"
+      name: "Alpena",
+      description: " "
     },
     "26009": {
-      name: "Antrim"
+      name: "Antrim",
+      description: " "
     },
     "26011": {
-      name: "Arenac"
+      name: "Arenac",
+      description: " "
     },
     "26013": {
-      name: "Baraga"
+      name: "Baraga",
+      description: " "
     },
     "26015": {
-      name: "Barry"
+      name: "Barry",
+      description: " "
     },
     "26017": {
+      color: "#cbbc09",
       name: "Bay",
       description: "4th quintile in nation"
     },
     "26019": {
-      color: "#cbbc09",
-      name: "Benzie"
+      name: "Benzie",
+      description: " "
     },
     "26021": {
+      color: "#f4e313",
       name: "Berrien",
       description: "3rd quintile in nation"
     },
     "26023": {
-      color: "#f4e313",
-      name: "Branch"
+      name: "Branch",
+      description: " "
     },
     "26025": {
+      color: "#9a8f07",
       name: "Calhoun",
       description: "5th quintile in nation"
     },
     "26027": {
-      color: "#9a8f07",
-      name: "Cass"
+      name: "Cass",
+      description: " "
     },
     "26029": {
-      name: "Charlevoix"
+      name: "Charlevoix",
+      description: " "
     },
     "26031": {
-      name: "Cheboygan"
+      name: "Cheboygan",
+      description: " "
     },
     "26033": {
-      name: "Chippewa"
+      name: "Chippewa",
+      description: " "
     },
     "26035": {
-      name: "Clare"
+      name: "Clare",
+      description: " "
     },
     "26037": {
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "26039": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "26041": {
-      name: "Delta"
+      name: "Delta",
+      description: " "
     },
     "26043": {
-      name: "Dickinson"
+      name: "Dickinson",
+      description: " "
     },
     "26045": {
+      color: "#cbbc09",
       name: "Eaton",
       description: "4th quintile in nation"
     },
     "26047": {
-      color: "#cbbc09",
-      name: "Emmet"
+      name: "Emmet",
+      description: " "
     },
     "26049": {
+      color: "#9a8f07",
       name: "Genesee",
       description: "5th quintile in nation"
     },
     "26051": {
-      color: "#9a8f07",
-      name: "Gladwin"
+      name: "Gladwin",
+      description: " "
     },
     "26053": {
-      name: "Gogebic"
+      name: "Gogebic",
+      description: " "
     },
     "26055": {
-      name: "Grand Traverse"
+      name: "Grand Traverse",
+      description: " "
     },
     "26057": {
-      name: "Gratiot"
+      name: "Gratiot",
+      description: " "
     },
     "26059": {
-      name: "Hillsdale"
+      name: "Hillsdale",
+      description: " "
     },
     "26061": {
-      name: "Houghton"
+      name: "Houghton",
+      description: " "
     },
     "26063": {
-      name: "Huron"
+      name: "Huron",
+      description: " "
     },
     "26065": {
+      color: "#f4e313",
       name: "Ingham",
       description: "3rd quintile in nation"
     },
     "26067": {
-      color: "#f4e313",
-      name: "Ionia"
+      name: "Ionia",
+      description: " "
     },
     "26069": {
-      name: "Iosco"
+      name: "Iosco",
+      description: " "
     },
     "26071": {
-      name: "Iron"
+      name: "Iron",
+      description: " "
     },
     "26073": {
-      name: "Isabella"
+      name: "Isabella",
+      description: " "
     },
     "26075": {
+      color: "#f4e313",
       name: "Jackson",
       description: "3rd quintile in nation"
     },
     "26077": {
-      color: "#f4e313",
+      color: "#f6e944",
       name: "Kalamazoo",
       description: "2nd quintile in nation"
     },
     "26079": {
-      color: "#f6e944",
-      name: "Kalkaska"
+      name: "Kalkaska",
+      description: " "
     },
     "26081": {
+      color: "#f9ef74",
       name: "Kent",
       description: "1st quintile in nation"
     },
     "26083": {
-      color: "#f9ef74",
-      name: "Keweenaw"
+      name: "Keweenaw",
+      description: " "
     },
     "26085": {
-      name: "Lake"
+      name: "Lake",
+      description: " "
     },
     "26087": {
-      name: "Lapeer"
+      name: "Lapeer",
+      description: " "
     },
     "26089": {
-      name: "Leelanau"
+      name: "Leelanau",
+      description: " "
     },
     "26091": {
-      name: "Lenawee"
+      name: "Lenawee",
+      description: " "
     },
     "26093": {
+      color: "#f6e944",
       name: "Livingston",
       description: "2nd quintile in nation"
     },
     "26095": {
-      color: "#f6e944",
-      name: "Luce"
+      name: "Luce",
+      description: " "
     },
     "26097": {
-      name: "Mackinac"
+      name: "Mackinac",
+      description: " "
     },
     "26099": {
+      color: "#f6e944",
       name: "Macomb",
       description: "2nd quintile in nation"
     },
     "26101": {
-      color: "#f6e944",
-      name: "Manistee"
+      name: "Manistee",
+      description: " "
     },
     "26103": {
-      name: "Marquette"
+      name: "Marquette",
+      description: " "
     },
     "26105": {
-      name: "Mason"
+      name: "Mason",
+      description: " "
     },
     "26107": {
-      name: "Mecosta"
+      name: "Mecosta",
+      description: " "
     },
     "26109": {
-      name: "Menominee"
+      name: "Menominee",
+      description: " "
     },
     "26111": {
-      name: "Midland"
+      name: "Midland",
+      description: " "
     },
     "26113": {
-      name: "Missaukee"
+      name: "Missaukee",
+      description: " "
     },
     "26115": {
+      color: "#f4e313",
       name: "Monroe",
       description: "3rd quintile in nation"
     },
     "26117": {
-      color: "#f4e313",
-      name: "Montcalm"
+      name: "Montcalm",
+      description: " "
     },
     "26119": {
-      name: "Montmorency"
+      name: "Montmorency",
+      description: " "
     },
     "26121": {
+      color: "#f4e313",
       name: "Muskegon",
       description: "3rd quintile in nation"
     },
     "26123": {
-      color: "#f4e313",
-      name: "Newaygo"
+      name: "Newaygo",
+      description: " "
     },
     "26125": {
+      color: "#f9ef74",
       name: "Oakland",
       description: "1st quintile in nation"
     },
     "26127": {
-      color: "#f9ef74",
-      name: "Oceana"
+      name: "Oceana",
+      description: " "
     },
     "26129": {
-      name: "Ogemaw"
+      name: "Ogemaw",
+      description: " "
     },
     "26131": {
-      name: "Ontonagon"
+      name: "Ontonagon",
+      description: " "
     },
     "26133": {
-      name: "Osceola"
+      name: "Osceola",
+      description: " "
     },
     "26135": {
-      name: "Oscoda"
+      name: "Oscoda",
+      description: " "
     },
     "26137": {
-      name: "Otsego"
+      name: "Otsego",
+      description: " "
     },
     "26139": {
+      color: "#f9ef74",
       name: "Ottawa",
       description: "1st quintile in nation"
     },
     "26141": {
-      color: "#f9ef74",
-      name: "Presque Isle"
+      name: "Presque Isle",
+      description: " "
     },
     "26143": {
-      name: "Roscommon"
+      name: "Roscommon",
+      description: " "
     },
     "26145": {
+      color: "#cbbc09",
       name: "Saginaw",
       description: "4th quintile in nation"
     },
@@ -3418,1471 +4219,1899 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "26149": {
-      color: "#cbbc09",
-      name: "St Joseph"
+      name: "St Joseph",
+      description: " "
     },
     "26151": {
-      name: "Sanilac"
+      name: "Sanilac",
+      description: " "
     },
     "26153": {
-      name: "Schoolcraft"
+      name: "Schoolcraft",
+      description: " "
     },
     "26155": {
-      name: "Shiawassee"
+      name: "Shiawassee",
+      description: " "
     },
     "26157": {
-      name: "Tuscola"
+      name: "Tuscola",
+      description: " "
     },
     "26159": {
-      name: "Van Buren"
+      name: "Van Buren",
+      description: " "
     },
     "26161": {
+      color: "#f6e944",
       name: "Washtenaw",
       description: "2nd quintile in nation"
     },
     "26163": {
-      color: "#f6e944",
+      color: "#9a8f07",
       name: "Wayne",
       description: "5th quintile in nation"
     },
     "26165": {
-      color: "#9a8f07",
-      name: "Wexford"
+      name: "Wexford",
+      description: " "
     },
     "27001": {
-      name: "Aitkin"
+      name: "Aitkin",
+      description: " "
     },
     "27003": {
+      color: "#f6e944",
       name: "Anoka",
       description: "2nd quintile in nation"
     },
     "27005": {
-      color: "#f6e944",
-      name: "Becker"
+      name: "Becker",
+      description: " "
     },
     "27007": {
-      name: "Beltrami"
+      name: "Beltrami",
+      description: " "
     },
     "27009": {
-      name: "Benton"
+      name: "Benton",
+      description: " "
     },
     "27011": {
-      name: "Big Stone"
+      name: "Big Stone",
+      description: " "
     },
     "27013": {
-      name: "Blue Earth"
+      name: "Blue Earth",
+      description: " "
     },
     "27015": {
-      name: "Brown"
+      name: "Brown",
+      description: " "
     },
     "27017": {
-      name: "Carlton"
+      name: "Carlton",
+      description: " "
     },
     "27019": {
-      name: "Carver"
+      name: "Carver",
+      description: " "
     },
     "27021": {
-      name: "Cass"
+      name: "Cass",
+      description: " "
     },
     "27023": {
-      name: "Chippewa"
+      name: "Chippewa",
+      description: " "
     },
     "27025": {
-      name: "Chisago"
+      name: "Chisago",
+      description: " "
     },
     "27027": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "27029": {
-      name: "Clearwater"
+      name: "Clearwater",
+      description: " "
     },
     "27031": {
-      name: "Cook"
+      name: "Cook",
+      description: " "
     },
     "27033": {
-      name: "Cottonwood"
+      name: "Cottonwood",
+      description: " "
     },
     "27035": {
-      name: "Crow Wing"
+      name: "Crow Wing",
+      description: " "
     },
     "27037": {
+      color: "#f6e944",
       name: "Dakota",
       description: "2nd quintile in nation"
     },
     "27039": {
-      color: "#f6e944",
-      name: "Dodge"
+      name: "Dodge",
+      description: " "
     },
     "27041": {
-      name: "Douglas"
+      name: "Douglas",
+      description: " "
     },
     "27043": {
-      name: "Faribault"
+      name: "Faribault",
+      description: " "
     },
     "27045": {
-      name: "Fillmore"
+      name: "Fillmore",
+      description: " "
     },
     "27047": {
-      name: "Freeborn"
+      name: "Freeborn",
+      description: " "
     },
     "27049": {
-      name: "Goodhue"
+      name: "Goodhue",
+      description: " "
     },
     "27051": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "27053": {
+      color: "#f9ef74",
       name: "Hennepin",
       description: "1st quintile in nation"
     },
     "27055": {
-      color: "#f9ef74",
-      name: "Houston"
+      name: "Houston",
+      description: " "
     },
     "27057": {
-      name: "Hubbard"
+      name: "Hubbard",
+      description: " "
     },
     "27059": {
-      name: "Isanti"
+      name: "Isanti",
+      description: " "
     },
     "27061": {
-      name: "Itasca"
+      name: "Itasca",
+      description: " "
     },
     "27063": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "27065": {
-      name: "Kanabec"
+      name: "Kanabec",
+      description: " "
     },
     "27067": {
-      name: "Kandiyohi"
+      name: "Kandiyohi",
+      description: " "
     },
     "27069": {
-      name: "Kittson"
+      name: "Kittson",
+      description: " "
     },
     "27071": {
-      name: "Koochiching"
+      name: "Koochiching",
+      description: " "
     },
     "27073": {
-      name: "Lac Qui Parle"
+      name: "Lac Qui Parle",
+      description: " "
     },
     "27075": {
-      name: "Lake"
+      name: "Lake",
+      description: " "
     },
     "27077": {
-      name: "Lake of The Woods"
+      name: "Lake of The Woods",
+      description: " "
     },
     "27079": {
-      name: "Le Sueur"
+      name: "Le Sueur",
+      description: " "
     },
     "27081": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "27083": {
-      name: "Lyon"
+      name: "Lyon",
+      description: " "
     },
     "27085": {
-      name: "McLeod"
+      name: "McLeod",
+      description: " "
     },
     "27087": {
-      name: "Mahnomen"
+      name: "Mahnomen",
+      description: " "
     },
     "27089": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "27091": {
-      name: "Martin"
+      name: "Martin",
+      description: " "
     },
     "27093": {
-      name: "Meeker"
+      name: "Meeker",
+      description: " "
     },
     "27095": {
-      name: "Mille Lacs"
+      name: "Mille Lacs",
+      description: " "
     },
     "27097": {
-      name: "Morrison"
+      name: "Morrison",
+      description: " "
     },
     "27099": {
-      name: "Mower"
+      name: "Mower",
+      description: " "
     },
     "27101": {
-      name: "Murray"
+      name: "Murray",
+      description: " "
     },
     "27103": {
-      name: "Nicollet"
+      name: "Nicollet",
+      description: " "
     },
     "27105": {
-      name: "Nobles"
+      name: "Nobles",
+      description: " "
     },
     "27107": {
-      name: "Norman"
+      name: "Norman",
+      description: " "
     },
     "27109": {
+      color: "#cbbc09",
       name: "Olmsted",
       description: "4th quintile in nation"
     },
     "27111": {
-      color: "#cbbc09",
-      name: "Otter Tail"
+      name: "Otter Tail",
+      description: " "
     },
     "27113": {
-      name: "Pennington"
+      name: "Pennington",
+      description: " "
     },
     "27115": {
-      name: "Pine"
+      name: "Pine",
+      description: " "
     },
     "27117": {
-      name: "Pipestone"
+      name: "Pipestone",
+      description: " "
     },
     "27119": {
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "27121": {
-      name: "Pope"
+      name: "Pope",
+      description: " "
     },
     "27123": {
+      color: "#f6e944",
       name: "Ramsey",
       description: "2nd quintile in nation"
     },
     "27125": {
-      color: "#f6e944",
-      name: "Red Lake"
+      name: "Red Lake",
+      description: " "
     },
     "27127": {
-      name: "Redwood"
+      name: "Redwood",
+      description: " "
     },
     "27129": {
-      name: "Renville"
+      name: "Renville",
+      description: " "
     },
     "27131": {
-      name: "Rice"
+      name: "Rice",
+      description: " "
     },
     "27133": {
-      name: "Rock"
+      name: "Rock",
+      description: " "
     },
     "27135": {
-      name: "Roseau"
+      name: "Roseau",
+      description: " "
     },
     "27137": {
+      color: "#f4e313",
       name: "St Louis",
       description: "3rd quintile in nation"
     },
     "27139": {
-      color: "#f4e313",
+      color: "#f6e944",
       name: "Scott",
       description: "2nd quintile in nation"
     },
     "27141": {
-      color: "#f6e944",
-      name: "Sherburne"
+      name: "Sherburne",
+      description: " "
     },
     "27143": {
-      name: "Sibley"
+      name: "Sibley",
+      description: " "
     },
     "27145": {
+      color: "#f6e944",
       name: "Stearns",
       description: "2nd quintile in nation"
     },
     "27147": {
-      color: "#f6e944",
-      name: "Steele"
+      name: "Steele",
+      description: " "
     },
     "27149": {
-      name: "Stevens"
+      name: "Stevens",
+      description: " "
     },
     "27151": {
-      name: "Swift"
+      name: "Swift",
+      description: " "
     },
     "27153": {
-      name: "Todd"
+      name: "Todd",
+      description: " "
     },
     "27155": {
-      name: "Traverse"
+      name: "Traverse",
+      description: " "
     },
     "27157": {
-      name: "Wabasha"
+      name: "Wabasha",
+      description: " "
     },
     "27159": {
-      name: "Wadena"
+      name: "Wadena",
+      description: " "
     },
     "27161": {
-      name: "Waseca"
+      name: "Waseca",
+      description: " "
     },
     "27163": {
+      color: "#f9ef74",
       name: "Washington",
       description: "1st quintile in nation"
     },
     "27165": {
-      color: "#f9ef74",
-      name: "Watonwan"
+      name: "Watonwan",
+      description: " "
     },
     "27167": {
-      name: "Wilkin"
+      name: "Wilkin",
+      description: " "
     },
     "27169": {
-      name: "Winona"
+      name: "Winona",
+      description: " "
     },
     "27171": {
+      color: "#f4e313",
       name: "Wright",
       description: "3rd quintile in nation"
     },
     "27173": {
-      color: "#f4e313",
-      name: "Yellow Medicine"
+      name: "Yellow Medicine",
+      description: " "
     },
     "28001": {
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "28003": {
-      name: "Alcorn"
+      name: "Alcorn",
+      description: " "
     },
     "28005": {
-      name: "Amite"
+      name: "Amite",
+      description: " "
     },
     "28007": {
-      name: "Attala"
+      name: "Attala",
+      description: " "
     },
     "28009": {
-      name: "Benton"
+      name: "Benton",
+      description: " "
     },
     "28011": {
-      name: "Bolivar"
+      name: "Bolivar",
+      description: " "
     },
     "28013": {
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "28015": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "28017": {
-      name: "Chickasaw"
+      name: "Chickasaw",
+      description: " "
     },
     "28019": {
-      name: "Choctaw"
+      name: "Choctaw",
+      description: " "
     },
     "28021": {
-      name: "Claiborne"
+      name: "Claiborne",
+      description: " "
     },
     "28023": {
-      name: "Clarke"
+      name: "Clarke",
+      description: " "
     },
     "28025": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "28027": {
-      name: "Coahoma"
+      name: "Coahoma",
+      description: " "
     },
     "28029": {
-      name: "Copiah"
+      name: "Copiah",
+      description: " "
     },
     "28031": {
-      name: "Covington"
+      name: "Covington",
+      description: " "
     },
     "28033": {
+      color: "#f9ef74",
       name: "De Soto",
       description: "1st quintile in nation"
     },
     "28035": {
-      color: "#f9ef74",
-      name: "Forrest"
+      name: "Forrest",
+      description: " "
     },
     "28037": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "28039": {
-      name: "George"
+      name: "George",
+      description: " "
     },
     "28041": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "28043": {
-      name: "Grenada"
+      name: "Grenada",
+      description: " "
     },
     "28045": {
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "28047": {
+      color: "#cbbc09",
       name: "Harrison",
       description: "4th quintile in nation"
     },
     "28049": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Hinds",
       description: "5th quintile in nation"
     },
     "28051": {
-      color: "#9a8f07",
-      name: "Holmes"
+      name: "Holmes",
+      description: " "
     },
     "28053": {
-      name: "Humphreys"
+      name: "Humphreys",
+      description: " "
     },
     "28055": {
-      name: "Issaquena"
+      name: "Issaquena",
+      description: " "
     },
     "28057": {
-      name: "Itawamba"
+      name: "Itawamba",
+      description: " "
     },
     "28059": {
+      color: "#cbbc09",
       name: "Jackson",
       description: "4th quintile in nation"
     },
     "28061": {
-      color: "#cbbc09",
-      name: "Jasper"
+      name: "Jasper",
+      description: " "
     },
     "28063": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "28065": {
-      name: "Jefferson Davis"
+      name: "Jefferson Davis",
+      description: " "
     },
     "28067": {
-      name: "Jones"
+      name: "Jones",
+      description: " "
     },
     "28069": {
-      name: "Kemper"
+      name: "Kemper",
+      description: " "
     },
     "28071": {
-      name: "Lafayette"
+      name: "Lafayette",
+      description: " "
     },
     "28073": {
-      name: "Lamar"
+      name: "Lamar",
+      description: " "
     },
     "28075": {
-      name: "Lauderdale"
+      name: "Lauderdale",
+      description: " "
     },
     "28077": {
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "28079": {
-      name: "Leake"
+      name: "Leake",
+      description: " "
     },
     "28081": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "28083": {
-      name: "Leflore"
+      name: "Leflore",
+      description: " "
     },
     "28085": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "28087": {
-      name: "Lowndes"
+      name: "Lowndes",
+      description: " "
     },
     "28089": {
+      color: "#f6e944",
       name: "Madison",
       description: "2nd quintile in nation"
     },
     "28091": {
-      color: "#f6e944",
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "28093": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "28095": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "28097": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "28099": {
-      name: "Neshoba"
+      name: "Neshoba",
+      description: " "
     },
     "28101": {
-      name: "Newton"
+      name: "Newton",
+      description: " "
     },
     "28103": {
-      name: "Noxubee"
+      name: "Noxubee",
+      description: " "
     },
     "28105": {
-      name: "Oktibbeha"
+      name: "Oktibbeha",
+      description: " "
     },
     "28107": {
-      name: "Panola"
+      name: "Panola",
+      description: " "
     },
     "28109": {
-      name: "Pearl River"
+      name: "Pearl River",
+      description: " "
     },
     "28111": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "28113": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "28115": {
-      name: "Pontotoc"
+      name: "Pontotoc",
+      description: " "
     },
     "28117": {
-      name: "Prentiss"
+      name: "Prentiss",
+      description: " "
     },
     "28119": {
-      name: "Quitman"
+      name: "Quitman",
+      description: " "
     },
     "28121": {
+      color: "#f9ef74",
       name: "Rankin",
       description: "1st quintile in nation"
     },
     "28123": {
-      color: "#f9ef74",
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "28125": {
-      name: "Sharkey"
+      name: "Sharkey",
+      description: " "
     },
     "28127": {
-      name: "Simpson"
+      name: "Simpson",
+      description: " "
     },
     "28129": {
-      name: "Smith"
+      name: "Smith",
+      description: " "
     },
     "28131": {
-      name: "Stone"
+      name: "Stone",
+      description: " "
     },
     "28133": {
-      name: "Sunflower"
+      name: "Sunflower",
+      description: " "
     },
     "28135": {
-      name: "Tallahatchie"
+      name: "Tallahatchie",
+      description: " "
     },
     "28137": {
-      name: "Tate"
+      name: "Tate",
+      description: " "
     },
     "28139": {
-      name: "Tippah"
+      name: "Tippah",
+      description: " "
     },
     "28141": {
-      name: "Tishomingo"
+      name: "Tishomingo",
+      description: " "
     },
     "28143": {
-      name: "Tunica"
+      name: "Tunica",
+      description: " "
     },
     "28145": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "28147": {
-      name: "Walthall"
+      name: "Walthall",
+      description: " "
     },
     "28149": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "28151": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "28153": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "28155": {
-      name: "Webster"
+      name: "Webster",
+      description: " "
     },
     "28157": {
-      name: "Wilkinson"
+      name: "Wilkinson",
+      description: " "
     },
     "28159": {
-      name: "Winston"
+      name: "Winston",
+      description: " "
     },
     "28161": {
-      name: "Yalobusha"
+      name: "Yalobusha",
+      description: " "
     },
     "28163": {
-      name: "Yazoo"
+      name: "Yazoo",
+      description: " "
     },
     "29001": {
-      name: "Adair"
+      name: "Adair",
+      description: " "
     },
     "29003": {
-      name: "Andrew"
+      name: "Andrew",
+      description: " "
     },
     "29005": {
-      name: "Atchison"
+      name: "Atchison",
+      description: " "
     },
     "29007": {
-      name: "Audrain"
+      name: "Audrain",
+      description: " "
     },
     "29009": {
-      name: "Barry"
+      name: "Barry",
+      description: " "
     },
     "29011": {
-      name: "Barton"
+      name: "Barton",
+      description: " "
     },
     "29013": {
-      name: "Bates"
+      name: "Bates",
+      description: " "
     },
     "29015": {
-      name: "Benton"
+      name: "Benton",
+      description: " "
     },
     "29017": {
-      name: "Bollinger"
+      name: "Bollinger",
+      description: " "
     },
     "29019": {
+      color: "#f6e944",
       name: "Boone",
       description: "2nd quintile in nation"
     },
     "29021": {
-      color: "#f6e944",
-      name: "Buchanan"
+      name: "Buchanan",
+      description: " "
     },
     "29023": {
-      name: "Butler"
+      name: "Butler",
+      description: " "
     },
     "29025": {
-      name: "Caldwell"
+      name: "Caldwell",
+      description: " "
     },
     "29027": {
-      name: "Callaway"
+      name: "Callaway",
+      description: " "
     },
     "29029": {
-      name: "Camden"
+      name: "Camden",
+      description: " "
     },
     "29031": {
-      name: "Cape Girardeau"
+      name: "Cape Girardeau",
+      description: " "
     },
     "29033": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "29035": {
-      name: "Carter"
+      name: "Carter",
+      description: " "
     },
     "29037": {
+      color: "#f4e313",
       name: "Cass",
       description: "3rd quintile in nation"
     },
     "29039": {
-      color: "#f4e313",
-      name: "Cedar"
+      name: "Cedar",
+      description: " "
     },
     "29041": {
-      name: "Chariton"
+      name: "Chariton",
+      description: " "
     },
     "29043": {
-      name: "Christian"
+      name: "Christian",
+      description: " "
     },
     "29045": {
-      name: "Clark"
+      name: "Clark",
+      description: " "
     },
     "29047": {
+      color: "#f6e944",
       name: "Clay",
       description: "2nd quintile in nation"
     },
     "29049": {
-      color: "#f6e944",
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "29051": {
-      name: "Cole"
+      name: "Cole",
+      description: " "
     },
     "29053": {
-      name: "Cooper"
+      name: "Cooper",
+      description: " "
     },
     "29055": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "29057": {
-      name: "Dade"
+      name: "Dade",
+      description: " "
     },
     "29059": {
-      name: "Dallas"
+      name: "Dallas",
+      description: " "
     },
     "29061": {
-      name: "Daviess"
+      name: "Daviess",
+      description: " "
     },
     "29063": {
-      name: "Dekalb"
+      name: "Dekalb",
+      description: " "
     },
     "29065": {
-      name: "Dent"
+      name: "Dent",
+      description: " "
     },
     "29067": {
-      name: "Douglas"
+      name: "Douglas",
+      description: " "
     },
     "29069": {
-      name: "Dunklin"
+      name: "Dunklin",
+      description: " "
     },
     "29071": {
+      color: "#f6e944",
       name: "Franklin",
       description: "2nd quintile in nation"
     },
     "29073": {
-      color: "#f6e944",
-      name: "Gasconade"
+      name: "Gasconade",
+      description: " "
     },
     "29075": {
-      name: "Gentry"
+      name: "Gentry",
+      description: " "
     },
     "29077": {
+      color: "#f4e313",
       name: "Greene",
       description: "3rd quintile in nation"
     },
     "29079": {
-      color: "#f4e313",
-      name: "Grundy"
+      name: "Grundy",
+      description: " "
     },
     "29081": {
-      name: "Harrison"
+      name: "Harrison",
+      description: " "
     },
     "29083": {
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "29085": {
-      name: "Hickory"
+      name: "Hickory",
+      description: " "
     },
     "29087": {
-      name: "Holt"
+      name: "Holt",
+      description: " "
     },
     "29089": {
-      name: "Howard"
+      name: "Howard",
+      description: " "
     },
     "29091": {
-      name: "Howell"
+      name: "Howell",
+      description: " "
     },
     "29093": {
-      name: "Iron"
+      name: "Iron",
+      description: " "
     },
     "29095": {
+      color: "#f4e313",
       name: "Jackson",
       description: "4th quintile in nation"
     },
     "29097": {
-      color: "#f4e313",
+      color: "#f6e944",
       name: "Jasper",
       description: "2nd quintile in nation"
     },
     "29099": {
-      color: "#f6e944",
+      color: "#f4e313",
       name: "Jefferson",
       description: "3rd quintile in nation"
     },
     "29101": {
-      color: "#f4e313",
-      name: "Johnson"
+      name: "Johnson",
+      description: " "
     },
     "29103": {
-      name: "Knox"
+      name: "Knox",
+      description: " "
     },
     "29105": {
-      name: "Laclede"
+      name: "Laclede",
+      description: " "
     },
     "29107": {
-      name: "Lafayette"
+      name: "Lafayette",
+      description: " "
     },
     "29109": {
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "29111": {
-      name: "Lewis"
+      name: "Lewis",
+      description: " "
     },
     "29113": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "29115": {
-      name: "Linn"
+      name: "Linn",
+      description: " "
     },
     "29117": {
-      name: "Livingston"
+      name: "Livingston",
+      description: " "
     },
     "29119": {
-      name: "Mcdonald"
+      name: "Mcdonald",
+      description: " "
     },
     "29121": {
-      name: "Macon"
+      name: "Macon",
+      description: " "
     },
     "29123": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "29125": {
-      name: "Maries"
+      name: "Maries",
+      description: " "
     },
     "29127": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "29129": {
-      name: "Mercer"
+      name: "Mercer",
+      description: " "
     },
     "29131": {
-      name: "Miller"
+      name: "Miller",
+      description: " "
     },
     "29133": {
-      name: "Mississippi"
+      name: "Mississippi",
+      description: " "
     },
     "29135": {
-      name: "Moniteau"
+      name: "Moniteau",
+      description: " "
     },
     "29137": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "29139": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "29141": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "29143": {
-      name: "New Madrid"
+      name: "New Madrid",
+      description: " "
     },
     "29145": {
-      name: "Newton"
+      name: "Newton",
+      description: " "
     },
     "29147": {
-      name: "Nodaway"
+      name: "Nodaway",
+      description: " "
     },
     "29149": {
-      name: "Oregon"
+      name: "Oregon",
+      description: " "
     },
     "29151": {
-      name: "Osage"
+      name: "Osage",
+      description: " "
     },
     "29153": {
-      name: "Ozark"
+      name: "Ozark",
+      description: " "
     },
     "29155": {
-      name: "Pemiscot"
+      name: "Pemiscot",
+      description: " "
     },
     "29157": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "29159": {
-      name: "Pettis"
+      name: "Pettis",
+      description: " "
     },
     "29161": {
-      name: "Phelps"
+      name: "Phelps",
+      description: " "
     },
     "29163": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "29165": {
-      name: "Platte"
+      name: "Platte",
+      description: " "
     },
     "29167": {
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "29169": {
-      name: "Pulaski"
+      name: "Pulaski",
+      description: " "
     },
     "29171": {
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "29173": {
-      name: "Ralls"
+      name: "Ralls",
+      description: " "
     },
     "29175": {
-      name: "Randolph"
+      name: "Randolph",
+      description: " "
     },
     "29177": {
-      name: "Ray"
+      name: "Ray",
+      description: " "
     },
     "29179": {
-      name: "Reynolds"
+      name: "Reynolds",
+      description: " "
     },
     "29181": {
-      name: "Ripley"
+      name: "Ripley",
+      description: " "
     },
     "29183": {
+      color: "#f4e313",
       name: "St Charles",
       description: "3rd quintile in nation"
     },
     "29185": {
-      color: "#f4e313",
-      name: "St Clair"
+      name: "St Clair",
+      description: " "
     },
     "29186": {
-      name: "Ste Genevieve"
+      name: "Ste Genevieve",
+      description: " "
     },
     "29187": {
-      name: "St Francois"
+      name: "St Francois",
+      description: " "
     },
     "29189": {
+      color: "#9a8f07",
       name: "St Louis",
       description: "5th quintile in nation"
     },
     "29195": {
-      color: "#9a8f07",
-      name: "Saline"
+      name: "Saline",
+      description: " "
     },
     "29197": {
-      name: "Schuyler"
+      name: "Schuyler",
+      description: " "
     },
     "29199": {
-      name: "Scotland"
+      name: "Scotland",
+      description: " "
     },
     "29201": {
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "29203": {
-      name: "Shannon"
+      name: "Shannon",
+      description: " "
     },
     "29205": {
-      name: "Shelby"
+      name: "Shelby",
+      description: " "
     },
     "29207": {
-      name: "Stoddard"
+      name: "Stoddard",
+      description: " "
     },
     "29209": {
-      name: "Stone"
+      name: "Stone",
+      description: " "
     },
     "29211": {
-      name: "Sullivan"
+      name: "Sullivan",
+      description: " "
     },
     "29213": {
-      name: "Taney"
+      name: "Taney",
+      description: " "
     },
     "29215": {
-      name: "Texas"
+      name: "Texas",
+      description: " "
     },
     "29217": {
-      name: "Vernon"
+      name: "Vernon",
+      description: " "
     },
     "29219": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "29221": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "29223": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "29225": {
-      name: "Webster"
+      name: "Webster",
+      description: " "
     },
     "29227": {
-      name: "Worth"
+      name: "Worth",
+      description: " "
     },
     "29229": {
-      name: "Wright"
+      name: "Wright",
+      description: " "
     },
     "29510": {
+      color: "#cbbc09",
       name: "St Louis City",
       description: "4th quintile in nation"
     },
     "30001": {
-      color: "#cbbc09",
-      name: "Beaverhead"
+      name: "Beaverhead",
+      description: " "
     },
     "30003": {
-      name: "Big Horn"
+      name: "Big Horn",
+      description: " "
     },
     "30005": {
-      name: "Blaine"
+      name: "Blaine",
+      description: " "
     },
     "30007": {
-      name: "Broadwater"
+      name: "Broadwater",
+      description: " "
     },
     "30009": {
-      name: "Carbon"
+      name: "Carbon",
+      description: " "
     },
     "30011": {
-      name: "Carter"
+      name: "Carter",
+      description: " "
     },
     "30013": {
-      name: "Cascade"
+      name: "Cascade",
+      description: " "
     },
     "30015": {
-      name: "Chouteau"
+      name: "Chouteau",
+      description: " "
     },
     "30017": {
-      name: "Custer"
+      name: "Custer",
+      description: " "
     },
     "30019": {
-      name: "Daniels"
+      name: "Daniels",
+      description: " "
     },
     "30021": {
-      name: "Dawson"
+      name: "Dawson",
+      description: " "
     },
     "30023": {
-      name: "Deer Lodge"
+      name: "Deer Lodge",
+      description: " "
     },
     "30025": {
-      name: "Fallon"
+      name: "Fallon",
+      description: " "
     },
     "30027": {
-      name: "Fergus"
+      name: "Fergus",
+      description: " "
     },
     "30029": {
-      name: "Flathead"
+      name: "Flathead",
+      description: " "
     },
     "30031": {
-      name: "Gallatin"
+      name: "Gallatin",
+      description: " "
     },
     "30033": {
-      name: "Garfield"
+      name: "Garfield",
+      description: " "
     },
     "30035": {
-      name: "Glacier"
+      name: "Glacier",
+      description: " "
     },
     "30037": {
-      name: "Golden Valley"
+      name: "Golden Valley",
+      description: " "
     },
     "30039": {
-      name: "Granite"
+      name: "Granite",
+      description: " "
     },
     "30041": {
-      name: "Hill"
+      name: "Hill",
+      description: " "
     },
     "30043": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "30045": {
-      name: "Judith Basin"
+      name: "Judith Basin",
+      description: " "
     },
     "30047": {
-      name: "Lake"
+      name: "Lake",
+      description: " "
     },
     "30049": {
-      name: "Lewis and Clark"
+      name: "Lewis and Clark",
+      description: " "
     },
     "30051": {
-      name: "Liberty"
+      name: "Liberty",
+      description: " "
     },
     "30053": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "30055": {
-      name: "McCone"
+      name: "McCone",
+      description: " "
     },
     "30057": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "30059": {
-      name: "Meagher"
+      name: "Meagher",
+      description: " "
     },
     "30061": {
-      name: "Mineral"
+      name: "Mineral",
+      description: " "
     },
     "30063": {
+      color: "#f6e944",
       name: "Missoula",
       description: "2nd quintile in nation"
     },
     "30065": {
-      color: "#f6e944",
-      name: "Musselshell"
+      name: "Musselshell",
+      description: " "
     },
     "30067": {
-      name: "Park"
+      name: "Park",
+      description: " "
     },
     "30069": {
-      name: "Petroleum"
+      name: "Petroleum",
+      description: " "
     },
     "30071": {
-      name: "Phillips"
+      name: "Phillips",
+      description: " "
     },
     "30073": {
-      name: "Pondera"
+      name: "Pondera",
+      description: " "
     },
     "30075": {
-      name: "Powder River"
+      name: "Powder River",
+      description: " "
     },
     "30077": {
-      name: "Powell"
+      name: "Powell",
+      description: " "
     },
     "30079": {
-      name: "Prairie"
+      name: "Prairie",
+      description: " "
     },
     "30081": {
-      name: "Ravalli"
+      name: "Ravalli",
+      description: " "
     },
     "30083": {
-      name: "Richland"
+      name: "Richland",
+      description: " "
     },
     "30085": {
-      name: "Roosevelt"
+      name: "Roosevelt",
+      description: " "
     },
     "30087": {
-      name: "Rosebud"
+      name: "Rosebud",
+      description: " "
     },
     "30089": {
-      name: "Sanders"
+      name: "Sanders",
+      description: " "
     },
     "30091": {
-      name: "Sheridan"
+      name: "Sheridan",
+      description: " "
     },
     "30093": {
-      name: "Silver Bow"
+      name: "Silver Bow",
+      description: " "
     },
     "30095": {
-      name: "Stillwater"
+      name: "Stillwater",
+      description: " "
     },
     "30097": {
-      name: "Sweet Grass"
+      name: "Sweet Grass",
+      description: " "
     },
     "30099": {
-      name: "Teton"
+      name: "Teton",
+      description: " "
     },
     "30101": {
-      name: "Toole"
+      name: "Toole",
+      description: " "
     },
     "30103": {
-      name: "Treasure"
+      name: "Treasure",
+      description: " "
     },
     "30105": {
-      name: "Valley"
+      name: "Valley",
+      description: " "
     },
     "30107": {
-      name: "Wheatland"
+      name: "Wheatland",
+      description: " "
     },
     "30109": {
-      name: "Wibaux"
+      name: "Wibaux",
+      description: " "
     },
     "30111": {
+      color: "#f6e944",
       name: "Yellowstone",
       description: "2nd quintile in nation"
     },
     "31001": {
-      color: "#f6e944",
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "31003": {
-      name: "Antelope"
+      name: "Antelope",
+      description: " "
     },
     "31005": {
-      name: "Arthur"
+      name: "Arthur",
+      description: " "
     },
     "31007": {
-      name: "Banner"
+      name: "Banner",
+      description: " "
     },
     "31009": {
-      name: "Blaine"
+      name: "Blaine",
+      description: " "
     },
     "31011": {
-      name: "Boone"
+      name: "Boone",
+      description: " "
     },
     "31013": {
-      name: "Box Butte"
+      name: "Box Butte",
+      description: " "
     },
     "31015": {
-      name: "Boyd"
+      name: "Boyd",
+      description: " "
     },
     "31017": {
-      name: "Brown"
+      name: "Brown",
+      description: " "
     },
     "31019": {
-      name: "Buffalo"
+      name: "Buffalo",
+      description: " "
     },
     "31021": {
-      name: "Burt"
+      name: "Burt",
+      description: " "
     },
     "31023": {
-      name: "Butler"
+      name: "Butler",
+      description: " "
     },
     "31025": {
-      name: "Cass"
+      name: "Cass",
+      description: " "
     },
     "31027": {
-      name: "Cedar"
+      name: "Cedar",
+      description: " "
     },
     "31029": {
-      name: "Chase"
+      name: "Chase",
+      description: " "
     },
     "31031": {
-      name: "Cherry"
+      name: "Cherry",
+      description: " "
     },
     "31033": {
-      name: "Cheyenne"
+      name: "Cheyenne",
+      description: " "
     },
     "31035": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "31037": {
-      name: "Colfax"
+      name: "Colfax",
+      description: " "
     },
     "31039": {
-      name: "Cuming"
+      name: "Cuming",
+      description: " "
     },
     "31041": {
-      name: "Custer"
+      name: "Custer",
+      description: " "
     },
     "31043": {
-      name: "Dakota"
+      name: "Dakota",
+      description: " "
     },
     "31045": {
-      name: "Dawes"
+      name: "Dawes",
+      description: " "
     },
     "31047": {
-      name: "Dawson"
+      name: "Dawson",
+      description: " "
     },
     "31049": {
-      name: "Deuel"
+      name: "Deuel",
+      description: " "
     },
     "31051": {
-      name: "Dixon"
+      name: "Dixon",
+      description: " "
     },
     "31053": {
-      name: "Dodge"
+      name: "Dodge",
+      description: " "
     },
     "31055": {
+      color: "#f6e944",
       name: "Douglas",
       description: "2nd quintile in nation"
     },
     "31057": {
-      color: "#f6e944",
-      name: "Dundy"
+      name: "Dundy",
+      description: " "
     },
     "31059": {
-      name: "Fillmore"
+      name: "Fillmore",
+      description: " "
     },
     "31061": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "31063": {
-      name: "Frontier"
+      name: "Frontier",
+      description: " "
     },
     "31065": {
-      name: "Furnas"
+      name: "Furnas",
+      description: " "
     },
     "31067": {
-      name: "Gage"
+      name: "Gage",
+      description: " "
     },
     "31069": {
-      name: "Garden"
+      name: "Garden",
+      description: " "
     },
     "31071": {
-      name: "Garfield"
+      name: "Garfield",
+      description: " "
     },
     "31073": {
-      name: "Gosper"
+      name: "Gosper",
+      description: " "
     },
     "31075": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "31077": {
-      name: "Greeley"
+      name: "Greeley",
+      description: " "
     },
     "31079": {
-      name: "Hall"
+      name: "Hall",
+      description: " "
     },
     "31081": {
-      name: "Hamilton"
+      name: "Hamilton",
+      description: " "
     },
     "31083": {
-      name: "Harlan"
+      name: "Harlan",
+      description: " "
     },
     "31085": {
-      name: "Hayes"
+      name: "Hayes",
+      description: " "
     },
     "31087": {
-      name: "Hitchcock"
+      name: "Hitchcock",
+      description: " "
     },
     "31089": {
-      name: "Holt"
+      name: "Holt",
+      description: " "
     },
     "31091": {
-      name: "Hooker"
+      name: "Hooker",
+      description: " "
     },
     "31093": {
-      name: "Howard"
+      name: "Howard",
+      description: " "
     },
     "31095": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "31097": {
-      name: "Johnson"
+      name: "Johnson",
+      description: " "
     },
     "31099": {
-      name: "Kearney"
+      name: "Kearney",
+      description: " "
     },
     "31101": {
-      name: "Keith"
+      name: "Keith",
+      description: " "
     },
     "31103": {
-      name: "Keya Paha"
+      name: "Keya Paha",
+      description: " "
     },
     "31105": {
-      name: "Kimball"
+      name: "Kimball",
+      description: " "
     },
     "31107": {
-      name: "Knox"
+      name: "Knox",
+      description: " "
     },
     "31109": {
+      color: "#f9ef74",
       name: "Lancaster",
       description: "1st quintile in nation"
     },
     "31111": {
-      color: "#f9ef74",
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "31113": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "31115": {
-      name: "Loup"
+      name: "Loup",
+      description: " "
     },
     "31117": {
-      name: "McPherson"
+      name: "McPherson",
+      description: " "
     },
     "31119": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "31121": {
-      name: "Merrick"
+      name: "Merrick",
+      description: " "
     },
     "31123": {
-      name: "Morrill"
+      name: "Morrill",
+      description: " "
     },
     "31125": {
-      name: "Nance"
+      name: "Nance",
+      description: " "
     },
     "31127": {
-      name: "Nemaha"
+      name: "Nemaha",
+      description: " "
     },
     "31129": {
-      name: "Nuckolls"
+      name: "Nuckolls",
+      description: " "
     },
     "31131": {
-      name: "Otoe"
+      name: "Otoe",
+      description: " "
     },
     "31133": {
-      name: "Pawnee"
+      name: "Pawnee",
+      description: " "
     },
     "31135": {
-      name: "Perkins"
+      name: "Perkins",
+      description: " "
     },
     "31137": {
-      name: "Phelps"
+      name: "Phelps",
+      description: " "
     },
     "31139": {
-      name: "Pierce"
+      name: "Pierce",
+      description: " "
     },
     "31141": {
-      name: "Platte"
+      name: "Platte",
+      description: " "
     },
     "31143": {
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "31145": {
-      name: "Red Willow"
+      name: "Red Willow",
+      description: " "
     },
     "31147": {
-      name: "Richardson"
+      name: "Richardson",
+      description: " "
     },
     "31149": {
-      name: "Rock"
+      name: "Rock",
+      description: " "
     },
     "31151": {
-      name: "Saline"
+      name: "Saline",
+      description: " "
     },
     "31153": {
+      color: "#f9ef74",
       name: "Sarpy",
       description: "1st quintile in nation"
     },
     "31155": {
-      color: "#f9ef74",
-      name: "Saunders"
+      name: "Saunders",
+      description: " "
     },
     "31157": {
-      name: "Scotts Bluff"
+      name: "Scotts Bluff",
+      description: " "
     },
     "31159": {
-      name: "Seward"
+      name: "Seward",
+      description: " "
     },
     "31161": {
-      name: "Sheridan"
+      name: "Sheridan",
+      description: " "
     },
     "31163": {
-      name: "Sherman"
+      name: "Sherman",
+      description: " "
     },
     "31165": {
-      name: "Sioux"
+      name: "Sioux",
+      description: " "
     },
     "31167": {
-      name: "Stanton"
+      name: "Stanton",
+      description: " "
     },
     "31169": {
-      name: "Thayer"
+      name: "Thayer",
+      description: " "
     },
     "31171": {
-      name: "Thomas"
+      name: "Thomas",
+      description: " "
     },
     "31173": {
-      name: "Thurston"
+      name: "Thurston",
+      description: " "
     },
     "31175": {
-      name: "Valley"
+      name: "Valley",
+      description: " "
     },
     "31177": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "31179": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "31181": {
-      name: "Webster"
+      name: "Webster",
+      description: " "
     },
     "31183": {
-      name: "Wheeler"
+      name: "Wheeler",
+      description: " "
     },
     "31185": {
-      name: "York"
+      name: "York",
+      description: " "
     },
     "32001": {
-      name: "Churchill"
+      name: "Churchill",
+      description: " "
     },
     "32003": {
+      color: "#cbbc09",
       name: "Clark",
       description: "4th quintile in nation"
     },
     "32005": {
-      color: "#cbbc09",
-      name: "Douglas"
+      name: "Douglas",
+      description: " "
     },
     "32007": {
-      name: "Elko"
+      name: "Elko",
+      description: " "
     },
     "32009": {
-      name: "Esmeralda"
+      name: "Esmeralda",
+      description: " "
     },
     "32011": {
-      name: "Eureka"
+      name: "Eureka",
+      description: " "
     },
     "32013": {
-      name: "Humboldt"
+      name: "Humboldt",
+      description: " "
     },
     "32015": {
-      name: "Lander"
+      name: "Lander",
+      description: " "
     },
     "32017": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "32019": {
-      name: "Lyon"
+      name: "Lyon",
+      description: " "
     },
     "32021": {
-      name: "Mineral"
+      name: "Mineral",
+      description: " "
     },
     "32023": {
-      name: "Nye"
+      name: "Nye",
+      description: " "
     },
     "32027": {
-      name: "Pershing"
+      name: "Pershing",
+      description: " "
     },
     "32029": {
-      name: "Storey"
+      name: "Storey",
+      description: " "
     },
     "32031": {
+      color: "#f6e944",
       name: "Washoe",
       description: "2nd quintile in nation"
     },
     "32033": {
-      color: "#f6e944",
-      name: "White Pine"
+      name: "White Pine",
+      description: " "
     },
     "32510": {
-      name: "Carson City"
+      name: "Carson City",
+      description: " "
     },
     "33001": {
-      name: "Belknap"
+      name: "Belknap",
+      description: " "
     },
     "33003": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "33005": {
-      name: "Cheshire"
+      name: "Cheshire",
+      description: " "
     },
     "33007": {
-      name: "Coos"
+      name: "Coos",
+      description: " "
     },
     "33009": {
-      name: "Grafton"
+      name: "Grafton",
+      description: " "
     },
     "33011": {
+      color: "#cbbc09",
       name: "Hillsborough",
       description: "4th quintile in nation"
     },
@@ -4892,30 +6121,31 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "33015": {
-      color: "#cbbc09",
+      color: "#f6e944",
       name: "Rockingham",
       description: "2nd quintile in nation"
     },
     "33017": {
-      color: "#f6e944",
+      color: "#f4e313",
       name: "Strafford",
       description: "3rd quintile in nation"
     },
     "33019": {
-      color: "#f4e313",
-      name: "Sullivan"
+      name: "Sullivan",
+      description: " "
     },
     "34001": {
+      color: "#9a8f07",
       name: "Atlantic",
       description: "5th quintile in nation"
     },
     "34003": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "Bergen",
       description: "3rd quintile in nation"
     },
     "34005": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Burlington",
       description: "5th quintile in nation"
     },
@@ -4925,10 +6155,11 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "34009": {
-      color: "#9a8f07",
-      name: "Cape May"
+      name: "Cape May",
+      description: " "
     },
     "34011": {
+      color: "#9a8f07",
       name: "Cumberland",
       description: "5th quintile in nation"
     },
@@ -4943,12 +6174,12 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "34017": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "Hudson",
       description: "3rd quintile in nation"
     },
     "34019": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Hunterdon",
       description: "5th quintile in nation"
     },
@@ -4968,12 +6199,12 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "34027": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Morris",
       description: "4th quintile in nation"
     },
     "34029": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Ocean",
       description: "5th quintile in nation"
     },
@@ -4983,25 +6214,26 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "34033": {
-      color: "#9a8f07",
-      name: "Salem"
+      name: "Salem",
+      description: " "
     },
     "34035": {
+      color: "#cbbc09",
       name: "Somerset",
       description: "4th quintile in nation"
     },
     "34037": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Sussex",
       description: "5th quintile in nation"
     },
     "34039": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Union",
       description: "4th quintile in nation"
     },
     "34041": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Warren",
       description: "5th quintile in nation"
     },
@@ -5011,221 +6243,269 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "35003": {
-      color: "#9a8f07",
-      name: "Catron"
+      name: "Catron",
+      description: " "
     },
     "35005": {
-      name: "Chaves"
+      name: "Chaves",
+      description: " "
     },
     "35006": {
-      name: "Cibola"
+      name: "Cibola",
+      description: " "
     },
     "35007": {
-      name: "Colfax"
+      name: "Colfax",
+      description: " "
     },
     "35009": {
-      name: "Curry"
+      name: "Curry",
+      description: " "
     },
     "35011": {
-      name: "De Baca"
+      name: "De Baca",
+      description: " "
     },
     "35013": {
+      color: "#9a8f07",
       name: "Dona Ana",
       description: "5th quintile in nation"
     },
     "35015": {
-      color: "#9a8f07",
-      name: "Eddy"
+      name: "Eddy",
+      description: " "
     },
     "35017": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "35019": {
-      name: "Guadalupe"
+      name: "Guadalupe",
+      description: " "
     },
     "35021": {
-      name: "Harding"
+      name: "Harding",
+      description: " "
     },
     "35023": {
-      name: "Hidalgo"
+      name: "Hidalgo",
+      description: " "
     },
     "35025": {
-      name: "Lea"
+      name: "Lea",
+      description: " "
     },
     "35027": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "35028": {
-      name: "Los Alamos"
+      name: "Los Alamos",
+      description: " "
     },
     "35029": {
-      name: "Luna"
+      name: "Luna",
+      description: " "
     },
     "35031": {
-      name: "Mckinley"
+      name: "Mckinley",
+      description: " "
     },
     "35033": {
-      name: "Mora"
+      name: "Mora",
+      description: " "
     },
     "35035": {
-      name: "Otero"
+      name: "Otero",
+      description: " "
     },
     "35037": {
-      name: "Quay"
+      name: "Quay",
+      description: " "
     },
     "35039": {
-      name: "Rio Arriba"
+      name: "Rio Arriba",
+      description: " "
     },
     "35041": {
-      name: "Roosevelt"
+      name: "Roosevelt",
+      description: " "
     },
     "35043": {
+      color: "#f9ef74",
       name: "Sandoval",
       description: "1st quintile in nation"
     },
     "35045": {
-      color: "#f9ef74",
+      color: "#9a8f07",
       name: "San Juan",
       description: "5th quintile in nation"
     },
     "35047": {
-      color: "#9a8f07",
-      name: "San Miguel"
+      name: "San Miguel",
+      description: " "
     },
     "35049": {
+      color: "#f9ef74",
       name: "Santa Fe",
       description: "1st quintile in nation"
     },
     "35051": {
-      color: "#f9ef74",
-      name: "Sierra"
+      name: "Sierra",
+      description: " "
     },
     "35053": {
-      name: "Socorro"
+      name: "Socorro",
+      description: " "
     },
     "35055": {
-      name: "Taos"
+      name: "Taos",
+      description: " "
     },
     "35057": {
-      name: "Torrance"
+      name: "Torrance",
+      description: " "
     },
     "35059": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "35061": {
-      name: "Valencia"
+      name: "Valencia",
+      description: " "
     },
     "36001": {
+      color: "#f9ef74",
       name: "Albany",
       description: "1st quintile in nation"
     },
     "36003": {
-      color: "#f9ef74",
-      name: "Allegany"
+      name: "Allegany",
+      description: " "
     },
     "36005": {
+      color: "#f4e313",
       name: "Bronx",
       description: "3rd quintile in nation"
     },
     "36007": {
-      color: "#f4e313",
+      color: "#cbbc09",
       name: "Broome",
       description: "4th quintile in nation"
     },
     "36009": {
-      color: "#cbbc09",
-      name: "Cattaraugus"
+      name: "Cattaraugus",
+      description: " "
     },
     "36011": {
-      name: "Cayuga"
+      name: "Cayuga",
+      description: " "
     },
     "36013": {
+      color: "#9a8f07",
       name: "Chautauqua",
       description: "5th quintile in nation"
     },
     "36015": {
-      color: "#9a8f07",
-      name: "Chemung"
+      name: "Chemung",
+      description: " "
     },
     "36017": {
-      name: "Chenango"
+      name: "Chenango",
+      description: " "
     },
     "36019": {
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "36021": {
-      name: "Columbia"
+      name: "Columbia",
+      description: " "
     },
     "36023": {
-      name: "Cortland"
+      name: "Cortland",
+      description: " "
     },
     "36025": {
-      name: "Delaware"
+      name: "Delaware",
+      description: " "
     },
     "36027": {
+      color: "#cbbc09",
       name: "Dutchess",
       description: "4th quintile in nation"
     },
     "36029": {
-      color: "#cbbc09",
+      color: "#f9ef74",
       name: "Erie",
       description: "1st quintile in nation"
     },
     "36031": {
-      color: "#f9ef74",
-      name: "Essex"
+      name: "Essex",
+      description: " "
     },
     "36033": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "36035": {
-      name: "Fulton"
+      name: "Fulton",
+      description: " "
     },
     "36037": {
-      name: "Genesee"
+      name: "Genesee",
+      description: " "
     },
     "36039": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "36041": {
-      name: "Hamilton"
+      name: "Hamilton",
+      description: " "
     },
     "36043": {
-      name: "Herkimer"
+      name: "Herkimer",
+      description: " "
     },
     "36045": {
+      color: "#cbbc09",
       name: "Jefferson",
       description: "4th quintile in nation"
     },
     "36047": {
-      color: "#cbbc09",
+      color: "#f4e313",
       name: "Kings",
       description: "3rd quintile in nation"
     },
     "36049": {
-      color: "#f4e313",
-      name: "Lewis"
+      name: "Lewis",
+      description: " "
     },
     "36051": {
-      name: "Livingston"
+      name: "Livingston",
+      description: " "
     },
     "36053": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "36055": {
+      color: "#f4e313",
       name: "Monroe",
       description: "3rd quintile in nation"
     },
     "36057": {
-      color: "#f4e313",
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "36059": {
+      color: "#9a8f07",
       name: "Nassau",
       description: "5th quintile in nation"
     },
     "36061": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "New York",
       description: "4th quintile in nation"
     },
@@ -5235,12 +6515,12 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "36065": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Oneida",
       description: "5th quintile in nation"
     },
     "36067": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Onondaga",
       description: "4th quintile in nation"
     },
@@ -5250,36 +6530,39 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "36071": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Orange",
       description: "5th quintile in nation"
     },
     "36073": {
-      color: "#9a8f07",
-      name: "Orleans"
+      name: "Orleans",
+      description: " "
     },
     "36075": {
+      color: "#cbbc09",
       name: "Oswego",
       description: "4th quintile in nation"
     },
     "36077": {
-      color: "#cbbc09",
-      name: "Otsego"
+      name: "Otsego",
+      description: " "
     },
     "36079": {
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "36081": {
+      color: "#9a8f07",
       name: "Queens",
       description: "5th quintile in nation"
     },
     "36083": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Rensselaer",
       description: "4th quintile in nation"
     },
     "36085": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Richmond",
       description: "5th quintile in nation"
     },
@@ -5289,7 +6572,7 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "36089": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "St Lawrence",
       description: "3rd quintile in nation"
     },
@@ -5299,94 +6582,113 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "36093": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Schenectady",
       description: "5th quintile in nation"
     },
     "36095": {
-      color: "#9a8f07",
-      name: "Schoharie"
+      name: "Schoharie",
+      description: " "
     },
     "36097": {
-      name: "Schuyler"
+      name: "Schuyler",
+      description: " "
     },
     "36099": {
-      name: "Seneca"
+      name: "Seneca",
+      description: " "
     },
     "36101": {
-      name: "Steuben"
+      name: "Steuben",
+      description: " "
     },
     "36103": {
+      color: "#9a8f07",
       name: "Suffolk",
       description: "5th quintile in nation"
     },
     "36105": {
-      color: "#9a8f07",
-      name: "Sullivan"
+      name: "Sullivan",
+      description: " "
     },
     "36107": {
-      name: "Tioga"
+      name: "Tioga",
+      description: " "
     },
     "36109": {
+      color: "#cbbc09",
       name: "Tompkins",
       description: "4th quintile in nation"
     },
     "36111": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Ulster",
       description: "5th quintile in nation"
     },
     "36113": {
-      color: "#9a8f07",
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "36115": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "36117": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "36119": {
+      color: "#9a8f07",
       name: "Westchester",
       description: "5th quintile in nation"
     },
     "36121": {
-      color: "#9a8f07",
-      name: "Wyoming"
+      name: "Wyoming",
+      description: " "
     },
     "36123": {
-      name: "Yates"
+      name: "Yates",
+      description: " "
     },
     "37001": {
+      color: "#f4e313",
       name: "Alamance",
       description: "3rd quintile in nation"
     },
     "37003": {
-      color: "#f4e313",
-      name: "Alexander"
+      name: "Alexander",
+      description: " "
     },
     "37005": {
-      name: "Alleghany"
+      name: "Alleghany",
+      description: " "
     },
     "37007": {
-      name: "Anson"
+      name: "Anson",
+      description: " "
     },
     "37009": {
-      name: "Ashe"
+      name: "Ashe",
+      description: " "
     },
     "37011": {
-      name: "Avery"
+      name: "Avery",
+      description: " "
     },
     "37013": {
-      name: "Beaufort"
+      name: "Beaufort",
+      description: " "
     },
     "37015": {
-      name: "Bertie"
+      name: "Bertie",
+      description: " "
     },
     "37017": {
-      name: "Bladen"
+      name: "Bladen",
+      description: " "
     },
     "37019": {
+      color: "#f6e944",
       name: "Brunswick",
       description: "2nd quintile in nation"
     },
@@ -5396,50 +6698,61 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "37023": {
-      color: "#f6e944",
-      name: "Burke"
+      name: "Burke",
+      description: " "
     },
     "37025": {
+      color: "#f9ef74",
       name: "Cabarrus",
       description: "1st quintile in nation"
     },
     "37027": {
-      color: "#f9ef74",
-      name: "Caldwell"
+      name: "Caldwell",
+      description: " "
     },
     "37029": {
-      name: "Camden"
+      name: "Camden",
+      description: " "
     },
     "37031": {
-      name: "Carteret"
+      name: "Carteret",
+      description: " "
     },
     "37033": {
-      name: "Caswell"
+      name: "Caswell",
+      description: " "
     },
     "37035": {
+      color: "#cbbc09",
       name: "Catawba",
       description: "4th quintile in nation"
     },
     "37037": {
-      color: "#cbbc09",
-      name: "Chatham"
+      name: "Chatham",
+      description: " "
     },
     "37039": {
-      name: "Cherokee"
+      name: "Cherokee",
+      description: " "
     },
     "37041": {
-      name: "Chowan"
+      name: "Chowan",
+      description: " "
     },
     "37043": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "37045": {
-      name: "Cleveland"
+      name: "Cleveland",
+      description: " "
     },
     "37047": {
-      name: "Columbus"
+      name: "Columbus",
+      description: " "
     },
     "37049": {
+      color: "#cbbc09",
       name: "Craven",
       description: "4th quintile in nation"
     },
@@ -5449,467 +6762,582 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "37053": {
-      color: "#cbbc09",
-      name: "Currituck"
+      name: "Currituck",
+      description: " "
     },
     "37055": {
-      name: "Dare"
+      name: "Dare",
+      description: " "
     },
     "37057": {
+      color: "#f4e313",
       name: "Davidson",
       description: "3rd quintile in nation"
     },
     "37059": {
-      color: "#f4e313",
-      name: "Davie"
+      name: "Davie",
+      description: " "
     },
     "37061": {
-      name: "Duplin"
+      name: "Duplin",
+      description: " "
     },
     "37063": {
+      color: "#f9ef74",
       name: "Durham",
       description: "1st quintile in nation"
     },
     "37065": {
-      color: "#f9ef74",
-      name: "Edgecombe"
+      name: "Edgecombe",
+      description: " "
     },
     "37067": {
+      color: "#f4e313",
       name: "Forsyth",
       description: "3rd quintile in nation"
     },
     "37069": {
-      color: "#f4e313",
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "37071": {
+      color: "#f6e944",
       name: "Gaston",
       description: "2nd quintile in nation"
     },
     "37073": {
-      color: "#f6e944",
-      name: "Gates"
+      name: "Gates",
+      description: " "
     },
     "37075": {
-      name: "Graham"
+      name: "Graham",
+      description: " "
     },
     "37077": {
-      name: "Granville"
+      name: "Granville",
+      description: " "
     },
     "37079": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "37081": {
+      color: "#f6e944",
       name: "Guilford",
       description: "2nd quintile in nation"
     },
     "37083": {
-      color: "#f6e944",
-      name: "Halifax"
+      name: "Halifax",
+      description: " "
     },
     "37085": {
+      color: "#f9ef74",
       name: "Harnett",
       description: "1st quintile in nation"
     },
     "37087": {
-      color: "#f9ef74",
-      name: "Haywood"
+      name: "Haywood",
+      description: " "
     },
     "37089": {
+      color: "#f9ef74",
       name: "Henderson",
       description: "1st quintile in nation"
     },
     "37091": {
-      color: "#f9ef74",
-      name: "Hertford"
+      name: "Hertford",
+      description: " "
     },
     "37093": {
-      name: "Hoke"
+      name: "Hoke",
+      description: " "
     },
     "37095": {
-      name: "Hyde"
+      name: "Hyde",
+      description: " "
     },
     "37097": {
+      color: "#f6e944",
       name: "Iredell",
       description: "2nd quintile in nation"
     },
     "37099": {
-      color: "#f6e944",
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "37101": {
+      color: "#f9ef74",
       name: "Johnston",
       description: "1st quintile in nation"
     },
     "37103": {
-      color: "#f9ef74",
-      name: "Jones"
+      name: "Jones",
+      description: " "
     },
     "37105": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "37107": {
-      name: "Lenoir"
+      name: "Lenoir",
+      description: " "
     },
     "37109": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "37111": {
-      name: "McDowell"
+      name: "McDowell",
+      description: " "
     },
     "37113": {
-      name: "Macon"
+      name: "Macon",
+      description: " "
     },
     "37115": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "37117": {
-      name: "Martin"
+      name: "Martin",
+      description: " "
     },
     "37119": {
+      color: "#f9ef74",
       name: "Mecklenburg",
       description: "1st quintile in nation"
     },
     "37121": {
-      color: "#f9ef74",
-      name: "Mitchell"
+      name: "Mitchell",
+      description: " "
     },
     "37123": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "37125": {
-      name: "Moore"
+      name: "Moore",
+      description: " "
     },
     "37127": {
-      name: "Nash"
+      name: "Nash",
+      description: " "
     },
     "37129": {
+      color: "#f6e944",
       name: "New Hanover",
       description: "2nd quintile in nation"
     },
     "37131": {
-      color: "#f6e944",
-      name: "Northampton"
+      name: "Northampton",
+      description: " "
     },
     "37133": {
+      color: "#cbbc09",
       name: "Onslow",
       description: "4th quintile in nation"
     },
     "37135": {
-      color: "#cbbc09",
+      color: "#f9ef74",
       name: "Orange",
       description: "1st quintile in nation"
     },
     "37137": {
-      color: "#f9ef74",
-      name: "Pamlico"
+      name: "Pamlico",
+      description: " "
     },
     "37139": {
-      name: "Pasquotank"
+      name: "Pasquotank",
+      description: " "
     },
     "37141": {
-      name: "Pender"
+      name: "Pender",
+      description: " "
     },
     "37143": {
-      name: "Perquimans"
+      name: "Perquimans",
+      description: " "
     },
     "37145": {
-      name: "Person"
+      name: "Person",
+      description: " "
     },
     "37147": {
+      color: "#f4e313",
       name: "Pitt",
       description: "3rd quintile in nation"
     },
     "37149": {
-      color: "#f4e313",
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "37151": {
+      color: "#f4e313",
       name: "Randolph",
       description: "3rd quintile in nation"
     },
     "37153": {
-      color: "#f4e313",
-      name: "Richmond"
+      name: "Richmond",
+      description: " "
     },
     "37155": {
+      color: "#f6e944",
       name: "Robeson",
       description: "2nd quintile in nation"
     },
     "37157": {
-      color: "#f6e944",
-      name: "Rockingham"
+      name: "Rockingham",
+      description: " "
     },
     "37159": {
+      color: "#f4e313",
       name: "Rowan",
       description: "3rd quintile in nation"
     },
     "37161": {
-      color: "#f4e313",
-      name: "Rutherford"
+      name: "Rutherford",
+      description: " "
     },
     "37163": {
-      name: "Sampson"
+      name: "Sampson",
+      description: " "
     },
     "37165": {
-      name: "Scotland"
+      name: "Scotland",
+      description: " "
     },
     "37167": {
-      name: "Stanly"
+      name: "Stanly",
+      description: " "
     },
     "37169": {
-      name: "Stokes"
+      name: "Stokes",
+      description: " "
     },
     "37171": {
-      name: "Surry"
+      name: "Surry",
+      description: " "
     },
     "37173": {
-      name: "Swain"
+      name: "Swain",
+      description: " "
     },
     "37175": {
-      name: "Transylvania"
+      name: "Transylvania",
+      description: " "
     },
     "37177": {
-      name: "Tyrrell"
+      name: "Tyrrell",
+      description: " "
     },
     "37179": {
+      color: "#f6e944",
       name: "Union",
       description: "2nd quintile in nation"
     },
     "37181": {
-      color: "#f6e944",
-      name: "Vance"
+      name: "Vance",
+      description: " "
     },
     "37183": {
+      color: "#f9ef74",
       name: "Wake",
       description: "1st quintile in nation"
     },
     "37185": {
-      color: "#f9ef74",
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "37187": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "37189": {
-      name: "Watauga"
+      name: "Watauga",
+      description: " "
     },
     "37191": {
+      color: "#f4e313",
       name: "Wayne",
       description: "3rd quintile in nation"
     },
     "37193": {
-      color: "#f4e313",
-      name: "Wilkes"
+      name: "Wilkes",
+      description: " "
     },
     "37195": {
-      name: "Wilson"
+      name: "Wilson",
+      description: " "
     },
     "37197": {
-      name: "Yadkin"
+      name: "Yadkin",
+      description: " "
     },
     "37199": {
-      name: "Yancey"
+      name: "Yancey",
+      description: " "
     },
     "38001": {
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "38003": {
-      name: "Barnes"
+      name: "Barnes",
+      description: " "
     },
     "38005": {
-      name: "Benson"
+      name: "Benson",
+      description: " "
     },
     "38007": {
-      name: "Billings"
+      name: "Billings",
+      description: " "
     },
     "38009": {
-      name: "Bottineau"
+      name: "Bottineau",
+      description: " "
     },
     "38011": {
-      name: "Bowman"
+      name: "Bowman",
+      description: " "
     },
     "38013": {
-      name: "Burke"
+      name: "Burke",
+      description: " "
     },
     "38015": {
-      name: "Burleigh"
+      name: "Burleigh",
+      description: " "
     },
     "38017": {
+      color: "#f9ef74",
       name: "Cass",
       description: "1st quintile in nation"
     },
     "38019": {
-      color: "#f9ef74",
-      name: "Cavalier"
+      name: "Cavalier",
+      description: " "
     },
     "38021": {
-      name: "Dickey"
+      name: "Dickey",
+      description: " "
     },
     "38023": {
-      name: "Divide"
+      name: "Divide",
+      description: " "
     },
     "38025": {
-      name: "Dunn"
+      name: "Dunn",
+      description: " "
     },
     "38027": {
-      name: "Eddy"
+      name: "Eddy",
+      description: " "
     },
     "38029": {
-      name: "Emmons"
+      name: "Emmons",
+      description: " "
     },
     "38031": {
-      name: "Foster"
+      name: "Foster",
+      description: " "
     },
     "38033": {
-      name: "Golden Valley"
+      name: "Golden Valley",
+      description: " "
     },
     "38035": {
-      name: "Grand Forks"
+      name: "Grand Forks",
+      description: " "
     },
     "38037": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "38039": {
-      name: "Griggs"
+      name: "Griggs",
+      description: " "
     },
     "38041": {
-      name: "Hettinger"
+      name: "Hettinger",
+      description: " "
     },
     "38043": {
-      name: "Kidder"
+      name: "Kidder",
+      description: " "
     },
     "38045": {
-      name: "Lamoure"
+      name: "Lamoure",
+      description: " "
     },
     "38047": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "38049": {
-      name: "McHenry"
+      name: "McHenry",
+      description: " "
     },
     "38051": {
-      name: "McIntosh"
+      name: "McIntosh",
+      description: " "
     },
     "38053": {
-      name: "Mckenzie"
+      name: "Mckenzie",
+      description: " "
     },
     "38055": {
-      name: "Mclean"
+      name: "Mclean",
+      description: " "
     },
     "38057": {
-      name: "Mercer"
+      name: "Mercer",
+      description: " "
     },
     "38059": {
-      name: "Morton"
+      name: "Morton",
+      description: " "
     },
     "38061": {
-      name: "Mountrail"
+      name: "Mountrail",
+      description: " "
     },
     "38063": {
-      name: "Nelson"
+      name: "Nelson",
+      description: " "
     },
     "38065": {
-      name: "Oliver"
+      name: "Oliver",
+      description: " "
     },
     "38067": {
-      name: "Pembina"
+      name: "Pembina",
+      description: " "
     },
     "38069": {
-      name: "Pierce"
+      name: "Pierce",
+      description: " "
     },
     "38071": {
-      name: "Ramsey"
+      name: "Ramsey",
+      description: " "
     },
     "38073": {
-      name: "Ransom"
+      name: "Ransom",
+      description: " "
     },
     "38075": {
-      name: "Renville"
+      name: "Renville",
+      description: " "
     },
     "38077": {
-      name: "Richland"
+      name: "Richland",
+      description: " "
     },
     "38079": {
-      name: "Rolette"
+      name: "Rolette",
+      description: " "
     },
     "38081": {
-      name: "Sargent"
+      name: "Sargent",
+      description: " "
     },
     "38083": {
-      name: "Sheridan"
+      name: "Sheridan",
+      description: " "
     },
     "38085": {
-      name: "Sioux"
+      name: "Sioux",
+      description: " "
     },
     "38087": {
-      name: "Slope"
+      name: "Slope",
+      description: " "
     },
     "38089": {
-      name: "Stark"
+      name: "Stark",
+      description: " "
     },
     "38091": {
-      name: "Steele"
+      name: "Steele",
+      description: " "
     },
     "38093": {
-      name: "Stutsman"
+      name: "Stutsman",
+      description: " "
     },
     "38095": {
-      name: "Towner"
+      name: "Towner",
+      description: " "
     },
     "38097": {
-      name: "Traill"
+      name: "Traill",
+      description: " "
     },
     "38099": {
-      name: "Walsh"
+      name: "Walsh",
+      description: " "
     },
     "38101": {
-      name: "Ward"
+      name: "Ward",
+      description: " "
     },
     "38103": {
-      name: "Wells"
+      name: "Wells",
+      description: " "
     },
     "38105": {
-      name: "Williams"
+      name: "Williams",
+      description: " "
     },
     "39001": {
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "39003": {
+      color: "#f4e313",
       name: "Allen",
       description: "3rd quintile in nation"
     },
     "39005": {
-      color: "#f4e313",
-      name: "Ashland"
+      name: "Ashland",
+      description: " "
     },
     "39007": {
-      name: "Ashtabula"
+      name: "Ashtabula",
+      description: " "
     },
     "39009": {
-      name: "Athens"
+      name: "Athens",
+      description: " "
     },
     "39011": {
-      name: "Auglaize"
+      name: "Auglaize",
+      description: " "
     },
     "39013": {
-      name: "Belmont"
+      name: "Belmont",
+      description: " "
     },
     "39015": {
-      name: "Brown"
+      name: "Brown",
+      description: " "
     },
     "39017": {
+      color: "#cbbc09",
       name: "Butler",
       description: "4th quintile in nation"
     },
     "39019": {
-      color: "#cbbc09",
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "39021": {
-      name: "Champaign"
+      name: "Champaign",
+      description: " "
     },
     "39023": {
+      color: "#f4e313",
       name: "Clark",
       description: "3rd quintile in nation"
     },
@@ -5919,232 +7347,277 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "39027": {
-      color: "#f4e313",
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "39029": {
+      color: "#f6e944",
       name: "Columbiana",
       description: "2nd quintile in nation"
     },
     "39031": {
-      color: "#f6e944",
-      name: "Coshocton"
+      name: "Coshocton",
+      description: " "
     },
     "39033": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "39035": {
+      color: "#9a8f07",
       name: "Cuyahoga",
       description: "5th quintile in nation"
     },
     "39037": {
-      color: "#9a8f07",
-      name: "Darke"
+      name: "Darke",
+      description: " "
     },
     "39039": {
-      name: "Defiance"
+      name: "Defiance",
+      description: " "
     },
     "39041": {
+      color: "#f9ef74",
       name: "Delaware",
       description: "1st quintile in nation"
     },
     "39043": {
-      color: "#f9ef74",
-      name: "Erie"
+      name: "Erie",
+      description: " "
     },
     "39045": {
+      color: "#f6e944",
       name: "Fairfield",
       description: "2nd quintile in nation"
     },
     "39047": {
-      color: "#f6e944",
-      name: "Fayette"
+      name: "Fayette",
+      description: " "
     },
     "39049": {
+      color: "#f9ef74",
       name: "Franklin",
       description: "1st quintile in nation"
     },
     "39051": {
-      color: "#f9ef74",
-      name: "Fulton"
+      name: "Fulton",
+      description: " "
     },
     "39053": {
-      name: "Gallia"
+      name: "Gallia",
+      description: " "
     },
     "39055": {
-      name: "Geauga"
+      name: "Geauga",
+      description: " "
     },
     "39057": {
+      color: "#f9ef74",
       name: "Greene",
       description: "1st quintile in nation"
     },
     "39059": {
-      color: "#f9ef74",
-      name: "Guernsey"
+      name: "Guernsey",
+      description: " "
     },
     "39061": {
+      color: "#f4e313",
       name: "Hamilton",
       description: "3rd quintile in nation"
     },
     "39063": {
-      color: "#f4e313",
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "39065": {
-      name: "Hardin"
+      name: "Hardin",
+      description: " "
     },
     "39067": {
-      name: "Harrison"
+      name: "Harrison",
+      description: " "
     },
     "39069": {
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "39071": {
-      name: "Highland"
+      name: "Highland",
+      description: " "
     },
     "39073": {
-      name: "Hocking"
+      name: "Hocking",
+      description: " "
     },
     "39075": {
-      name: "Holmes"
+      name: "Holmes",
+      description: " "
     },
     "39077": {
-      name: "Huron"
+      name: "Huron",
+      description: " "
     },
     "39079": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "39081": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "39083": {
-      name: "Knox"
+      name: "Knox",
+      description: " "
     },
     "39085": {
+      color: "#f6e944",
       name: "Lake",
       description: "2nd quintile in nation"
     },
     "39087": {
-      color: "#f6e944",
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "39089": {
+      color: "#f4e313",
       name: "Licking",
       description: "3rd quintile in nation"
     },
     "39091": {
-      color: "#f4e313",
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "39093": {
+      color: "#cbbc09",
       name: "Lorain",
       description: "4th quintile in nation"
     },
     "39095": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Lucas",
       description: "5th quintile in nation"
     },
     "39097": {
-      color: "#9a8f07",
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "39099": {
+      color: "#cbbc09",
       name: "Mahoning",
       description: "4th quintile in nation"
     },
     "39101": {
-      color: "#cbbc09",
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "39103": {
+      color: "#f4e313",
       name: "Medina",
       description: "3rd quintile in nation"
     },
     "39105": {
-      color: "#f4e313",
-      name: "Meigs"
+      name: "Meigs",
+      description: " "
     },
     "39107": {
-      name: "Mercer"
+      name: "Mercer",
+      description: " "
     },
     "39109": {
+      color: "#cbbc09",
       name: "Miami",
       description: "4th quintile in nation"
     },
     "39111": {
-      color: "#cbbc09",
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "39113": {
+      color: "#cbbc09",
       name: "Montgomery",
       description: "4th quintile in nation"
     },
     "39115": {
-      color: "#cbbc09",
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "39117": {
-      name: "Morrow"
+      name: "Morrow",
+      description: " "
     },
     "39119": {
-      name: "Muskingum"
+      name: "Muskingum",
+      description: " "
     },
     "39121": {
-      name: "Noble"
+      name: "Noble",
+      description: " "
     },
     "39123": {
-      name: "Ottawa"
+      name: "Ottawa",
+      description: " "
     },
     "39125": {
-      name: "Paulding"
+      name: "Paulding",
+      description: " "
     },
     "39127": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "39129": {
-      name: "Pickaway"
+      name: "Pickaway",
+      description: " "
     },
     "39131": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "39133": {
+      color: "#f4e313",
       name: "Portage",
       description: "3rd quintile in nation"
     },
     "39135": {
-      color: "#f4e313",
-      name: "Preble"
+      name: "Preble",
+      description: " "
     },
     "39137": {
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "39139": {
+      color: "#9a8f07",
       name: "Richland",
       description: "5th quintile in nation"
     },
     "39141": {
-      color: "#9a8f07",
-      name: "Ross"
+      name: "Ross",
+      description: " "
     },
     "39143": {
-      name: "Sandusky"
+      name: "Sandusky",
+      description: " "
     },
     "39145": {
-      name: "Scioto"
+      name: "Scioto",
+      description: " "
     },
     "39147": {
-      name: "Seneca"
+      name: "Seneca",
+      description: " "
     },
     "39149": {
-      name: "Shelby"
+      name: "Shelby",
+      description: " "
     },
     "39151": {
+      color: "#f4e313",
       name: "Stark",
       description: "3rd quintile in nation"
     },
     "39153": {
-      color: "#f4e313",
+      color: "#cbbc09",
       name: "Summit",
       description: "4th quintile in nation"
     },
@@ -6154,510 +7627,626 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "39157": {
-      color: "#cbbc09",
-      name: "Tuscarawas"
+      name: "Tuscarawas",
+      description: " "
     },
     "39159": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "39161": {
-      name: "Van Wert"
+      name: "Van Wert",
+      description: " "
     },
     "39163": {
-      name: "Vinton"
+      name: "Vinton",
+      description: " "
     },
     "39165": {
+      color: "#f9ef74",
       name: "Warren",
       description: "1st quintile in nation"
     },
     "39167": {
-      color: "#f9ef74",
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "39169": {
+      color: "#f6e944",
       name: "Wayne",
       description: "2nd quintile in nation"
     },
     "39171": {
-      color: "#f6e944",
-      name: "Williams"
+      name: "Williams",
+      description: " "
     },
     "39173": {
+      color: "#f9ef74",
       name: "Wood",
       description: "1st quintile in nation"
     },
     "39175": {
-      color: "#f9ef74",
-      name: "Wyandot"
+      name: "Wyandot",
+      description: " "
     },
     "40001": {
-      name: "Adair"
+      name: "Adair",
+      description: " "
     },
     "40003": {
-      name: "Alfalfa"
+      name: "Alfalfa",
+      description: " "
     },
     "40005": {
-      name: "Atoka"
+      name: "Atoka",
+      description: " "
     },
     "40007": {
-      name: "Beaver"
+      name: "Beaver",
+      description: " "
     },
     "40009": {
-      name: "Beckham"
+      name: "Beckham",
+      description: " "
     },
     "40011": {
-      name: "Blaine"
+      name: "Blaine",
+      description: " "
     },
     "40013": {
-      name: "Bryan"
+      name: "Bryan",
+      description: " "
     },
     "40015": {
-      name: "Caddo"
+      name: "Caddo",
+      description: " "
     },
     "40017": {
+      color: "#f9ef74",
       name: "Canadian",
       description: "1st quintile in nation"
     },
     "40019": {
-      color: "#f9ef74",
-      name: "Carter"
+      name: "Carter",
+      description: " "
     },
     "40021": {
-      name: "Cherokee"
+      name: "Cherokee",
+      description: " "
     },
     "40023": {
-      name: "Choctaw"
+      name: "Choctaw",
+      description: " "
     },
     "40025": {
-      name: "Cimarron"
+      name: "Cimarron",
+      description: " "
     },
     "40027": {
+      color: "#9a8f07",
       name: "Cleveland",
       description: "5th quintile in nation"
     },
     "40029": {
-      color: "#9a8f07",
-      name: "Coal"
+      name: "Coal",
+      description: " "
     },
     "40031": {
+      color: "#9a8f07",
       name: "Comanche",
       description: "5th quintile in nation"
     },
     "40033": {
-      color: "#9a8f07",
-      name: "Cotton"
+      name: "Cotton",
+      description: " "
     },
     "40035": {
-      name: "Craig"
+      name: "Craig",
+      description: " "
     },
     "40037": {
-      name: "Creek"
+      name: "Creek",
+      description: " "
     },
     "40039": {
-      name: "Custer"
+      name: "Custer",
+      description: " "
     },
     "40041": {
-      name: "Delaware"
+      name: "Delaware",
+      description: " "
     },
     "40043": {
-      name: "Dewey"
+      name: "Dewey",
+      description: " "
     },
     "40045": {
-      name: "Ellis"
+      name: "Ellis",
+      description: " "
     },
     "40047": {
-      name: "Garfield"
+      name: "Garfield",
+      description: " "
     },
     "40049": {
-      name: "Garvin"
+      name: "Garvin",
+      description: " "
     },
     "40051": {
-      name: "Grady"
+      name: "Grady",
+      description: " "
     },
     "40053": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "40055": {
-      name: "Greer"
+      name: "Greer",
+      description: " "
     },
     "40057": {
-      name: "Harmon"
+      name: "Harmon",
+      description: " "
     },
     "40059": {
-      name: "Harper"
+      name: "Harper",
+      description: " "
     },
     "40061": {
-      name: "Haskell"
+      name: "Haskell",
+      description: " "
     },
     "40063": {
-      name: "Hughes"
+      name: "Hughes",
+      description: " "
     },
     "40065": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "40067": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "40069": {
-      name: "Johnston"
+      name: "Johnston",
+      description: " "
     },
     "40071": {
-      name: "Kay"
+      name: "Kay",
+      description: " "
     },
     "40073": {
-      name: "Kingfisher"
+      name: "Kingfisher",
+      description: " "
     },
     "40075": {
-      name: "Kiowa"
+      name: "Kiowa",
+      description: " "
     },
     "40077": {
-      name: "Latimer"
+      name: "Latimer",
+      description: " "
     },
     "40079": {
-      name: "Le Flore"
+      name: "Le Flore",
+      description: " "
     },
     "40081": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "40083": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "40085": {
-      name: "Love"
+      name: "Love",
+      description: " "
     },
     "40087": {
-      name: "Mcclain"
+      name: "Mcclain",
+      description: " "
     },
     "40089": {
-      name: "McCurtain"
+      name: "McCurtain",
+      description: " "
     },
     "40091": {
-      name: "McIntosh"
+      name: "McIntosh",
+      description: " "
     },
     "40093": {
-      name: "Major"
+      name: "Major",
+      description: " "
     },
     "40095": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "40097": {
-      name: "Mayes"
+      name: "Mayes",
+      description: " "
     },
     "40099": {
-      name: "Murray"
+      name: "Murray",
+      description: " "
     },
     "40101": {
-      name: "Muskogee"
+      name: "Muskogee",
+      description: " "
     },
     "40103": {
-      name: "Noble"
+      name: "Noble",
+      description: " "
     },
     "40105": {
-      name: "Nowata"
+      name: "Nowata",
+      description: " "
     },
     "40107": {
-      name: "Okfuskee"
+      name: "Okfuskee",
+      description: " "
     },
     "40109": {
+      color: "#f6e944",
       name: "Oklahoma",
       description: "2nd quintile in nation"
     },
     "40111": {
-      color: "#f6e944",
-      name: "Okmulgee"
+      name: "Okmulgee",
+      description: " "
     },
     "40113": {
-      name: "Osage"
+      name: "Osage",
+      description: " "
     },
     "40115": {
-      name: "Ottawa"
+      name: "Ottawa",
+      description: " "
     },
     "40117": {
-      name: "Pawnee"
+      name: "Pawnee",
+      description: " "
     },
     "40119": {
-      name: "Payne"
+      name: "Payne",
+      description: " "
     },
     "40121": {
-      name: "Pittsburg"
+      name: "Pittsburg",
+      description: " "
     },
     "40123": {
-      name: "Pontotoc"
+      name: "Pontotoc",
+      description: " "
     },
     "40125": {
-      name: "Pottawatomie"
+      name: "Pottawatomie",
+      description: " "
     },
     "40127": {
-      name: "Pushmataha"
+      name: "Pushmataha",
+      description: " "
     },
     "40129": {
-      name: "Roger Mills"
+      name: "Roger Mills",
+      description: " "
     },
     "40131": {
-      name: "Rogers"
+      name: "Rogers",
+      description: " "
     },
     "40133": {
-      name: "Seminole"
+      name: "Seminole",
+      description: " "
     },
     "40135": {
-      name: "Sequoyah"
+      name: "Sequoyah",
+      description: " "
     },
     "40137": {
-      name: "Stephens"
+      name: "Stephens",
+      description: " "
     },
     "40139": {
-      name: "Texas"
+      name: "Texas",
+      description: " "
     },
     "40141": {
-      name: "Tillman"
+      name: "Tillman",
+      description: " "
     },
     "40143": {
+      color: "#f6e944",
       name: "Tulsa",
       description: "2nd quintile in nation"
     },
     "40145": {
-      color: "#f6e944",
-      name: "Wagoner"
+      name: "Wagoner",
+      description: " "
     },
     "40147": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "40149": {
-      name: "Washita"
+      name: "Washita",
+      description: " "
     },
     "40151": {
-      name: "Woods"
+      name: "Woods",
+      description: " "
     },
     "40153": {
-      name: "Woodward"
+      name: "Woodward",
+      description: " "
     },
     "41001": {
-      name: "Baker"
+      name: "Baker",
+      description: " "
     },
     "41003": {
-      name: "Benton"
+      name: "Benton",
+      description: " "
     },
     "41005": {
+      color: "#f9ef74",
       name: "Clackamas",
       description: "1st quintile in nation"
     },
     "41007": {
-      color: "#f9ef74",
-      name: "Clatsop"
+      name: "Clatsop",
+      description: " "
     },
     "41009": {
-      name: "Columbia"
+      name: "Columbia",
+      description: " "
     },
     "41011": {
-      name: "Coos"
+      name: "Coos",
+      description: " "
     },
     "41013": {
-      name: "Crook"
+      name: "Crook",
+      description: " "
     },
     "41015": {
-      name: "Curry"
+      name: "Curry",
+      description: " "
     },
     "41017": {
+      color: "#f9ef74",
       name: "Deschutes",
       description: "1st quintile in nation"
     },
     "41019": {
-      color: "#f9ef74",
+      color: "#cbbc09",
       name: "Douglas",
       description: "4th quintile in nation"
     },
     "41021": {
-      color: "#cbbc09",
-      name: "Gilliam"
+      name: "Gilliam",
+      description: " "
     },
     "41023": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "41025": {
-      name: "Harney"
+      name: "Harney",
+      description: " "
     },
     "41027": {
-      name: "Hood River"
+      name: "Hood River",
+      description: " "
     },
     "41029": {
+      color: "#9a8f07",
       name: "Jackson",
       description: "5th quintile in nation"
     },
     "41031": {
-      color: "#9a8f07",
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "41033": {
-      name: "Josephine"
+      name: "Josephine",
+      description: " "
     },
     "41035": {
-      name: "Klamath"
+      name: "Klamath",
+      description: " "
     },
     "41037": {
-      name: "Lake"
+      name: "Lake",
+      description: " "
     },
     "41039": {
+      color: "#f4e313",
       name: "Lane",
       description: "3rd quintile in nation"
     },
     "41041": {
-      color: "#f4e313",
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "41043": {
+      color: "#f4e313",
       name: "Linn",
       description: "3rd quintile in nation"
     },
     "41045": {
-      color: "#f4e313",
-      name: "Malheur"
+      name: "Malheur",
+      description: " "
     },
     "41047": {
+      color: "#f4e313",
       name: "Marion",
       description: "3rd quintile in nation"
     },
     "41049": {
-      color: "#f4e313",
-      name: "Morrow"
+      name: "Morrow",
+      description: " "
     },
     "41051": {
+      color: "#f6e944",
       name: "Multnomah",
       description: "2nd quintile in nation"
     },
     "41053": {
-      color: "#f6e944",
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "41055": {
-      name: "Sherman"
+      name: "Sherman",
+      description: " "
     },
     "41057": {
-      name: "Tillamook"
+      name: "Tillamook",
+      description: " "
     },
     "41059": {
-      name: "Umatilla"
+      name: "Umatilla",
+      description: " "
     },
     "41061": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "41063": {
-      name: "Wallowa"
+      name: "Wallowa",
+      description: " "
     },
     "41065": {
-      name: "Wasco"
+      name: "Wasco",
+      description: " "
     },
     "41067": {
+      color: "#f9ef74",
       name: "Washington",
       description: "1st quintile in nation"
     },
     "41069": {
-      color: "#f9ef74",
-      name: "Wheeler"
+      name: "Wheeler",
+      description: " "
     },
     "41071": {
+      color: "#cbbc09",
       name: "Yamhill",
       description: "4th quintile in nation"
     },
     "42001": {
-      color: "#cbbc09",
+      color: "#f6e944",
       name: "Adams",
       description: "2nd quintile in nation"
     },
     "42003": {
-      color: "#f6e944",
+      color: "#f4e313",
       name: "Allegheny",
       description: "3rd quintile in nation"
     },
     "42005": {
-      color: "#f4e313",
-      name: "Armstrong"
+      name: "Armstrong",
+      description: " "
     },
     "42007": {
+      color: "#9a8f07",
       name: "Beaver",
       description: "5th quintile in nation"
     },
     "42009": {
-      color: "#9a8f07",
-      name: "Bedford"
+      name: "Bedford",
+      description: " "
     },
     "42011": {
+      color: "#9a8f07",
       name: "Berks",
       description: "5th quintile in nation"
     },
     "42013": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Blair",
       description: "4th quintile in nation"
     },
     "42015": {
-      color: "#cbbc09",
-      name: "Bradford"
+      name: "Bradford",
+      description: " "
     },
     "42017": {
+      color: "#9a8f07",
       name: "Bucks",
       description: "5th quintile in nation"
     },
     "42019": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "Butler",
       description: "3rd quintile in nation"
     },
     "42021": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Cambria",
       description: "5th quintile in nation"
     },
     "42023": {
-      color: "#9a8f07",
-      name: "Cameron"
+      name: "Cameron",
+      description: " "
     },
     "42025": {
-      name: "Carbon"
+      name: "Carbon",
+      description: " "
     },
     "42027": {
+      color: "#f6e944",
       name: "Centre",
       description: "2nd quintile in nation"
     },
     "42029": {
-      color: "#f6e944",
+      color: "#9a8f07",
       name: "Chester",
       description: "5th quintile in nation"
     },
     "42031": {
-      color: "#9a8f07",
-      name: "Clarion"
+      name: "Clarion",
+      description: " "
     },
     "42033": {
-      name: "Clearfield"
+      name: "Clearfield",
+      description: " "
     },
     "42035": {
-      name: "Clinton"
+      name: "Clinton",
+      description: " "
     },
     "42037": {
-      name: "Columbia"
+      name: "Columbia",
+      description: " "
     },
     "42039": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "42041": {
+      color: "#9a8f07",
       name: "Cumberland",
       description: "5th quintile in nation"
     },
     "42043": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Dauphin",
       description: "4th quintile in nation"
     },
     "42045": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Delaware",
       description: "5th quintile in nation"
     },
     "42047": {
-      color: "#9a8f07",
-      name: "Elk"
+      name: "Elk",
+      description: " "
     },
     "42049": {
+      color: "#cbbc09",
       name: "Erie",
       description: "4th quintile in nation"
     },
@@ -6667,77 +8256,87 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "42053": {
-      color: "#cbbc09",
-      name: "Forest"
+      name: "Forest",
+      description: " "
     },
     "42055": {
+      color: "#9a8f07",
       name: "Franklin",
       description: "5th quintile in nation"
     },
     "42057": {
-      color: "#9a8f07",
-      name: "Fulton"
+      name: "Fulton",
+      description: " "
     },
     "42059": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "42061": {
-      name: "Huntingdon"
+      name: "Huntingdon",
+      description: " "
     },
     "42063": {
-      name: "Indiana"
+      name: "Indiana",
+      description: " "
     },
     "42065": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "42067": {
-      name: "Juniata"
+      name: "Juniata",
+      description: " "
     },
     "42069": {
+      color: "#9a8f07",
       name: "Lackawanna",
       description: "5th quintile in nation"
     },
     "42071": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Lancaster",
       description: "4th quintile in nation"
     },
     "42073": {
-      color: "#cbbc09",
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "42075": {
+      color: "#cbbc09",
       name: "Lebanon",
       description: "5th quintile in nation"
     },
     "42077": {
-      color: "#cbbc09",
+      color: "#f4e313",
       name: "Lehigh",
       description: "3rd quintile in nation"
     },
     "42079": {
-      color: "#f4e313",
+      color: "#cbbc09",
       name: "Luzerne",
       description: "4th quintile in nation"
     },
     "42081": {
-      color: "#cbbc09",
+      color: "#f6e944",
       name: "Lycoming",
       description: "2nd quintile in nation"
     },
     "42083": {
-      color: "#f6e944",
-      name: "McKean"
+      name: "McKean",
+      description: " "
     },
     "42085": {
+      color: "#cbbc09",
       name: "Mercer",
       description: "4th quintile in nation"
     },
     "42087": {
-      color: "#cbbc09",
-      name: "Mifflin"
+      name: "Mifflin",
+      description: " "
     },
     "42089": {
+      color: "#9a8f07",
       name: "Monroe",
       description: "5th quintile in nation"
     },
@@ -6747,237 +8346,282 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "42093": {
-      color: "#9a8f07",
-      name: "Montour"
+      name: "Montour",
+      description: " "
     },
     "42095": {
+      color: "#cbbc09",
       name: "Northampton",
       description: "4th quintile in nation"
     },
     "42097": {
-      color: "#cbbc09",
-      name: "Northumberland"
+      name: "Northumberland",
+      description: " "
     },
     "42099": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "42101": {
+      color: "#f4e313",
       name: "Philadelphia",
       description: "3rd quintile in nation"
     },
     "42103": {
-      color: "#f4e313",
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "42105": {
-      name: "Potter"
+      name: "Potter",
+      description: " "
     },
     "42107": {
+      color: "#9a8f07",
       name: "Schuylkill",
       description: "5th quintile in nation"
     },
     "42109": {
-      color: "#9a8f07",
-      name: "Snyder"
+      name: "Snyder",
+      description: " "
     },
     "42111": {
-      name: "Somerset"
+      name: "Somerset",
+      description: " "
     },
     "42113": {
-      name: "Sullivan"
+      name: "Sullivan",
+      description: " "
     },
     "42115": {
-      name: "Susquehanna"
+      name: "Susquehanna",
+      description: " "
     },
     "42117": {
-      name: "Tioga"
+      name: "Tioga",
+      description: " "
     },
     "42119": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "42121": {
-      name: "Venango"
+      name: "Venango",
+      description: " "
     },
     "42123": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "42125": {
+      color: "#f4e313",
       name: "Washington",
       description: "3rd quintile in nation"
     },
     "42127": {
-      color: "#f4e313",
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "42129": {
+      color: "#9a8f07",
       name: "Westmoreland",
       description: "5th quintile in nation"
     },
     "42131": {
-      color: "#9a8f07",
-      name: "Wyoming"
+      name: "Wyoming",
+      description: " "
     },
     "42133": {
+      color: "#9a8f07",
       name: "York",
       description: "5th quintile in nation"
     },
     "44001": {
-      color: "#9a8f07",
-      name: "Bristol"
+      name: "Bristol",
+      description: " "
     },
     "44003": {
+      color: "#f4e313",
       name: "Kent",
       description: "3rd quintile in nation"
     },
     "44005": {
-      color: "#f4e313",
-      name: "Newport"
+      name: "Newport",
+      description: " "
     },
     "44007": {
+      color: "#cbbc09",
       name: "Providence",
       description: "4th quintile in nation"
     },
     "44009": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Washington",
       description: "5th quintile in nation"
     },
     "45001": {
-      color: "#9a8f07",
-      name: "Abbeville"
+      name: "Abbeville",
+      description: " "
     },
     "45003": {
+      color: "#f4e313",
       name: "Aiken",
       description: "3rd quintile in nation"
     },
     "45005": {
-      color: "#f4e313",
-      name: "Allendale"
+      name: "Allendale",
+      description: " "
     },
     "45007": {
+      color: "#f6e944",
       name: "Anderson",
       description: "2nd quintile in nation"
     },
     "45009": {
-      color: "#f6e944",
-      name: "Bamberg"
+      name: "Bamberg",
+      description: " "
     },
     "45011": {
-      name: "Barnwell"
+      name: "Barnwell",
+      description: " "
     },
     "45013": {
+      color: "#cbbc09",
       name: "Beaufort",
       description: "4th quintile in nation"
     },
     "45015": {
-      color: "#cbbc09",
+      color: "#f9ef74",
       name: "Berkeley",
       description: "1st quintile in nation"
     },
     "45017": {
-      color: "#f9ef74",
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "45019": {
+      color: "#f6e944",
       name: "Charleston",
       description: "2nd quintile in nation"
     },
     "45021": {
-      color: "#f6e944",
-      name: "Cherokee"
+      name: "Cherokee",
+      description: " "
     },
     "45023": {
-      name: "Chester"
+      name: "Chester",
+      description: " "
     },
     "45025": {
-      name: "Chesterfield"
+      name: "Chesterfield",
+      description: " "
     },
     "45027": {
-      name: "Clarendon"
+      name: "Clarendon",
+      description: " "
     },
     "45029": {
-      name: "Colleton"
+      name: "Colleton",
+      description: " "
     },
     "45031": {
-      name: "Darlington"
+      name: "Darlington",
+      description: " "
     },
     "45033": {
-      name: "Dillon"
+      name: "Dillon",
+      description: " "
     },
     "45035": {
+      color: "#cbbc09",
       name: "Dorchester",
       description: "4th quintile in nation"
     },
     "45037": {
-      color: "#cbbc09",
-      name: "Edgefield"
+      name: "Edgefield",
+      description: " "
     },
     "45039": {
-      name: "Fairfield"
+      name: "Fairfield",
+      description: " "
     },
     "45041": {
+      color: "#f4e313",
       name: "Florence",
       description: "3rd quintile in nation"
     },
     "45043": {
-      color: "#f4e313",
-      name: "Georgetown"
+      name: "Georgetown",
+      description: " "
     },
     "45045": {
+      color: "#f9ef74",
       name: "Greenville",
       description: "1st quintile in nation"
     },
     "45047": {
-      color: "#f9ef74",
-      name: "Greenwood"
+      name: "Greenwood",
+      description: " "
     },
     "45049": {
-      name: "Hampton"
+      name: "Hampton",
+      description: " "
     },
     "45051": {
+      color: "#f9ef74",
       name: "Horry",
       description: "1st quintile in nation"
     },
     "45053": {
-      color: "#f9ef74",
-      name: "Jasper"
+      name: "Jasper",
+      description: " "
     },
     "45055": {
-      name: "Kershaw"
+      name: "Kershaw",
+      description: " "
     },
     "45057": {
-      name: "Lancaster"
+      name: "Lancaster",
+      description: " "
     },
     "45059": {
-      name: "Laurens"
+      name: "Laurens",
+      description: " "
     },
     "45061": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "45063": {
+      color: "#f6e944",
       name: "Lexington",
       description: "2nd quintile in nation"
     },
     "45065": {
-      color: "#f6e944",
-      name: "McCormick"
+      name: "McCormick",
+      description: " "
     },
     "45067": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "45069": {
-      name: "Marlboro"
+      name: "Marlboro",
+      description: " "
     },
     "45071": {
-      name: "Newberry"
+      name: "Newberry",
+      description: " "
     },
     "45073": {
-      name: "Oconee"
+      name: "Oconee",
+      description: " "
     },
     "45075": {
-      name: "Orangeburg"
+      name: "Orangeburg",
+      description: " "
     },
     "45077": {
+      color: "#cbbc09",
       name: "Pickens",
       description: "4th quintile in nation"
     },
@@ -6987,245 +8631,316 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "45081": {
-      color: "#cbbc09",
-      name: "Saluda"
+      name: "Saluda",
+      description: " "
     },
     "45083": {
+      color: "#f9ef74",
       name: "Spartanburg",
       description: "1st quintile in nation"
     },
     "45085": {
-      color: "#f9ef74",
+      color: "#f6e944",
       name: "Sumter",
       description: "2nd quintile in nation"
     },
     "45087": {
-      color: "#f6e944",
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "45089": {
-      name: "Williamsburg"
+      name: "Williamsburg",
+      description: " "
     },
     "45091": {
+      color: "#f9ef74",
       name: "York",
       description: "1st quintile in nation"
     },
     "46003": {
-      color: "#f9ef74",
-      name: "Aurora"
+      name: "Aurora",
+      description: " "
     },
     "46005": {
-      name: "Beadle"
+      name: "Beadle",
+      description: " "
     },
     "46007": {
-      name: "Bennett"
+      name: "Bennett",
+      description: " "
     },
     "46009": {
-      name: "Bon Homme"
+      name: "Bon Homme",
+      description: " "
     },
     "46011": {
-      name: "Brookings"
+      name: "Brookings",
+      description: " "
     },
     "46013": {
-      name: "Brown"
+      name: "Brown",
+      description: " "
     },
     "46015": {
-      name: "Brule"
+      name: "Brule",
+      description: " "
     },
     "46017": {
-      name: "Buffalo"
+      name: "Buffalo",
+      description: " "
     },
     "46019": {
-      name: "Butte"
+      name: "Butte",
+      description: " "
     },
     "46021": {
-      name: "Campbell"
+      name: "Campbell",
+      description: " "
     },
     "46023": {
-      name: "Charles Mix"
+      name: "Charles Mix",
+      description: " "
     },
     "46025": {
-      name: "Clark"
+      name: "Clark",
+      description: " "
     },
     "46027": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "46029": {
-      name: "Codington"
+      name: "Codington",
+      description: " "
     },
     "46031": {
-      name: "Corson"
+      name: "Corson",
+      description: " "
     },
     "46033": {
-      name: "Custer"
+      name: "Custer",
+      description: " "
     },
     "46035": {
-      name: "Davison"
+      name: "Davison",
+      description: " "
     },
     "46037": {
-      name: "Day"
+      name: "Day",
+      description: " "
     },
     "46039": {
-      name: "Deuel"
+      name: "Deuel",
+      description: " "
     },
     "46041": {
-      name: "Dewey"
+      name: "Dewey",
+      description: " "
     },
     "46043": {
-      name: "Douglas"
+      name: "Douglas",
+      description: " "
     },
     "46045": {
-      name: "Edmunds"
+      name: "Edmunds",
+      description: " "
     },
     "46047": {
-      name: "Fall River"
+      name: "Fall River",
+      description: " "
     },
     "46049": {
-      name: "Faulk"
+      name: "Faulk",
+      description: " "
     },
     "46051": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "46053": {
-      name: "Gregory"
+      name: "Gregory",
+      description: " "
     },
     "46055": {
-      name: "Haakon"
+      name: "Haakon",
+      description: " "
     },
     "46057": {
-      name: "Hamlin"
+      name: "Hamlin",
+      description: " "
     },
     "46059": {
-      name: "Hand"
+      name: "Hand",
+      description: " "
     },
     "46061": {
-      name: "Hanson"
+      name: "Hanson",
+      description: " "
     },
     "46063": {
-      name: "Harding"
+      name: "Harding",
+      description: " "
     },
     "46065": {
-      name: "Hughes"
+      name: "Hughes",
+      description: " "
     },
     "46067": {
-      name: "Hutchinson"
+      name: "Hutchinson",
+      description: " "
     },
     "46069": {
-      name: "Hyde"
+      name: "Hyde",
+      description: " "
     },
     "46071": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "46073": {
-      name: "Jerauld"
+      name: "Jerauld",
+      description: " "
     },
     "46075": {
-      name: "Jones"
+      name: "Jones",
+      description: " "
     },
     "46077": {
-      name: "Kingsbury"
+      name: "Kingsbury",
+      description: " "
     },
     "46079": {
-      name: "Lake"
+      name: "Lake",
+      description: " "
     },
     "46081": {
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "46083": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "46085": {
-      name: "Lyman"
+      name: "Lyman",
+      description: " "
     },
     "46087": {
-      name: "McCook"
+      name: "McCook",
+      description: " "
     },
     "46089": {
-      name: "McPherson"
+      name: "McPherson",
+      description: " "
     },
     "46091": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "46093": {
-      name: "Meade"
+      name: "Meade",
+      description: " "
     },
     "46095": {
-      name: "Mellette"
+      name: "Mellette",
+      description: " "
     },
     "46097": {
-      name: "Miner"
+      name: "Miner",
+      description: " "
     },
     "46099": {
+      color: "#f6e944",
       name: "Minnehaha",
       description: "2nd quintile in nation"
     },
     "46101": {
-      color: "#f6e944",
-      name: "Moody"
+      name: "Moody",
+      description: " "
     },
     "46103": {
-      name: "Pennington"
+      name: "Pennington",
+      description: " "
     },
     "46105": {
-      name: "Perkins"
+      name: "Perkins",
+      description: " "
     },
     "46107": {
+      color: "#9a8f07",
       name: "Potter",
       description: "5th quintile in nation"
     },
     "46109": {
-      color: "#9a8f07",
-      name: "Roberts"
+      name: "Roberts",
+      description: " "
     },
     "46111": {
-      name: "Sanborn"
+      name: "Sanborn",
+      description: " "
     },
     "46113": {
-      name: "Shannon"
+      name: "Shannon",
+      description: " "
     },
     "46115": {
-      name: "Spink"
+      name: "Spink",
+      description: " "
     },
     "46117": {
-      name: "Stanley"
+      name: "Stanley",
+      description: " "
     },
     "46119": {
-      name: "Sully"
+      name: "Sully",
+      description: " "
     },
     "46121": {
-      name: "Todd"
+      name: "Todd",
+      description: " "
     },
     "46123": {
-      name: "Tripp"
+      name: "Tripp",
+      description: " "
     },
     "46125": {
-      name: "Turner"
+      name: "Turner",
+      description: " "
     },
     "46127": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "46129": {
-      name: "Walworth"
+      name: "Walworth",
+      description: " "
     },
     "46135": {
-      name: "Yankton"
+      name: "Yankton",
+      description: " "
     },
     "46137": {
-      name: "Ziebach"
+      name: "Ziebach",
+      description: " "
     },
     "47001": {
-      name: "Anderson"
+      name: "Anderson",
+      description: " "
     },
     "47003": {
-      name: "Bedford"
+      name: "Bedford",
+      description: " "
     },
     "47005": {
-      name: "Benton"
+      name: "Benton",
+      description: " "
     },
     "47007": {
-      name: "Bledsoe"
+      name: "Bledsoe",
+      description: " "
     },
     "47009": {
+      color: "#f6e944",
       name: "Blount",
       description: "2nd quintile in nation"
     },
@@ -7235,286 +8950,364 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "47013": {
-      color: "#f6e944",
-      name: "Campbell"
+      name: "Campbell",
+      description: " "
     },
     "47015": {
-      name: "Cannon"
+      name: "Cannon",
+      description: " "
     },
     "47017": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "47019": {
-      name: "Carter"
+      name: "Carter",
+      description: " "
     },
     "47021": {
-      name: "Cheatham"
+      name: "Cheatham",
+      description: " "
     },
     "47023": {
-      name: "Chester"
+      name: "Chester",
+      description: " "
     },
     "47025": {
-      name: "Claiborne"
+      name: "Claiborne",
+      description: " "
     },
     "47027": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "47029": {
-      name: "Cocke"
+      name: "Cocke",
+      description: " "
     },
     "47031": {
-      name: "Coffee"
+      name: "Coffee",
+      description: " "
     },
     "47033": {
-      name: "Crockett"
+      name: "Crockett",
+      description: " "
     },
     "47035": {
-      name: "Cumberland"
+      name: "Cumberland",
+      description: " "
     },
     "47037": {
+      color: "#f9ef74",
       name: "Davidson",
       description: "1st quintile in nation"
     },
     "47039": {
-      color: "#f9ef74",
-      name: "Decatur"
+      name: "Decatur",
+      description: " "
     },
     "47041": {
-      name: "Dekalb"
+      name: "Dekalb",
+      description: " "
     },
     "47043": {
-      name: "Dickson"
+      name: "Dickson",
+      description: " "
     },
     "47045": {
-      name: "Dyer"
+      name: "Dyer",
+      description: " "
     },
     "47047": {
-      name: "Fayette"
+      name: "Fayette",
+      description: " "
     },
     "47049": {
-      name: "Fentress"
+      name: "Fentress",
+      description: " "
     },
     "47051": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "47053": {
-      name: "Gibson"
+      name: "Gibson",
+      description: " "
     },
     "47055": {
-      name: "Giles"
+      name: "Giles",
+      description: " "
     },
     "47057": {
-      name: "Grainger"
+      name: "Grainger",
+      description: " "
     },
     "47059": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "47061": {
-      name: "Grundy"
+      name: "Grundy",
+      description: " "
     },
     "47063": {
-      name: "Hamblen"
+      name: "Hamblen",
+      description: " "
     },
     "47065": {
+      color: "#f4e313",
       name: "Hamilton",
       description: "3rd quintile in nation"
     },
     "47067": {
-      color: "#f4e313",
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "47069": {
-      name: "Hardeman"
+      name: "Hardeman",
+      description: " "
     },
     "47071": {
-      name: "Hardin"
+      name: "Hardin",
+      description: " "
     },
     "47073": {
-      name: "Hawkins"
+      name: "Hawkins",
+      description: " "
     },
     "47075": {
-      name: "Haywood"
+      name: "Haywood",
+      description: " "
     },
     "47077": {
-      name: "Henderson"
+      name: "Henderson",
+      description: " "
     },
     "47079": {
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "47081": {
-      name: "Hickman"
+      name: "Hickman",
+      description: " "
     },
     "47083": {
-      name: "Houston"
+      name: "Houston",
+      description: " "
     },
     "47085": {
-      name: "Humphreys"
+      name: "Humphreys",
+      description: " "
     },
     "47087": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "47089": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "47091": {
-      name: "Johnson"
+      name: "Johnson",
+      description: " "
     },
     "47093": {
+      color: "#cbbc09",
       name: "Knox",
       description: "4th quintile in nation"
     },
     "47095": {
-      color: "#cbbc09",
-      name: "Lake"
+      name: "Lake",
+      description: " "
     },
     "47097": {
-      name: "Lauderdale"
+      name: "Lauderdale",
+      description: " "
     },
     "47099": {
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "47101": {
-      name: "Lewis"
+      name: "Lewis",
+      description: " "
     },
     "47103": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "47105": {
-      name: "Loudon"
+      name: "Loudon",
+      description: " "
     },
     "47107": {
-      name: "McMinn"
+      name: "McMinn",
+      description: " "
     },
     "47109": {
-      name: "McNairy"
+      name: "McNairy",
+      description: " "
     },
     "47111": {
-      name: "Macon"
+      name: "Macon",
+      description: " "
     },
     "47113": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "47115": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "47117": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "47119": {
-      name: "Maury"
+      name: "Maury",
+      description: " "
     },
     "47121": {
-      name: "Meigs"
+      name: "Meigs",
+      description: " "
     },
     "47123": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "47125": {
+      color: "#f6e944",
       name: "Montgomery",
       description: "2nd quintile in nation"
     },
     "47127": {
-      color: "#f6e944",
-      name: "Moore"
+      name: "Moore",
+      description: " "
     },
     "47129": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "47131": {
-      name: "Obion"
+      name: "Obion",
+      description: " "
     },
     "47133": {
-      name: "Overton"
+      name: "Overton",
+      description: " "
     },
     "47135": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "47137": {
-      name: "Pickett"
+      name: "Pickett",
+      description: " "
     },
     "47139": {
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "47141": {
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "47143": {
-      name: "Rhea"
+      name: "Rhea",
+      description: " "
     },
     "47145": {
-      name: "Roane"
+      name: "Roane",
+      description: " "
     },
     "47147": {
-      name: "Robertson"
+      name: "Robertson",
+      description: " "
     },
     "47149": {
+      color: "#f9ef74",
       name: "Rutherford",
       description: "1st quintile in nation"
     },
     "47151": {
-      color: "#f9ef74",
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "47153": {
-      name: "Sequatchie"
+      name: "Sequatchie",
+      description: " "
     },
     "47155": {
-      name: "Sevier"
+      name: "Sevier",
+      description: " "
     },
     "47157": {
+      color: "#cbbc09",
       name: "Shelby",
       description: "4th quintile in nation"
     },
     "47159": {
-      color: "#cbbc09",
-      name: "Smith"
+      name: "Smith",
+      description: " "
     },
     "47161": {
-      name: "Stewart"
+      name: "Stewart",
+      description: " "
     },
     "47163": {
+      color: "#f4e313",
       name: "Sullivan",
       description: "3rd quintile in nation"
     },
     "47165": {
-      color: "#f4e313",
+      color: "#f9ef74",
       name: "Sumner",
       description: "1st quintile in nation"
     },
     "47167": {
-      color: "#f9ef74",
-      name: "Tipton"
+      name: "Tipton",
+      description: " "
     },
     "47169": {
-      name: "Trousdale"
+      name: "Trousdale",
+      description: " "
     },
     "47171": {
-      name: "Unicoi"
+      name: "Unicoi",
+      description: " "
     },
     "47173": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "47175": {
-      name: "Van Buren"
+      name: "Van Buren",
+      description: " "
     },
     "47177": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "47179": {
+      color: "#cbbc09",
       name: "Washington",
       description: "4th quintile in nation"
     },
     "47181": {
-      color: "#cbbc09",
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "47183": {
-      name: "Weakley"
+      name: "Weakley",
+      description: " "
     },
     "47185": {
-      name: "White"
+      name: "White",
+      description: " "
     },
     "47187": {
+      color: "#f9ef74",
       name: "Williamson",
       description: "1st quintile in nation"
     },
@@ -7524,68 +9317,85 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "48001": {
-      color: "#f9ef74",
-      name: "Anderson"
+      name: "Anderson",
+      description: " "
     },
     "48003": {
-      name: "Andrews"
+      name: "Andrews",
+      description: " "
     },
     "48005": {
-      name: "Angelina"
+      name: "Angelina",
+      description: " "
     },
     "48007": {
-      name: "Aransas"
+      name: "Aransas",
+      description: " "
     },
     "48009": {
-      name: "Archer"
+      name: "Archer",
+      description: " "
     },
     "48011": {
-      name: "Armstrong"
+      name: "Armstrong",
+      description: " "
     },
     "48013": {
-      name: "Atascosa"
+      name: "Atascosa",
+      description: " "
     },
     "48015": {
-      name: "Austin"
+      name: "Austin",
+      description: " "
     },
     "48017": {
-      name: "Bailey"
+      name: "Bailey",
+      description: " "
     },
     "48019": {
-      name: "Bandera"
+      name: "Bandera",
+      description: " "
     },
     "48021": {
-      name: "Bastrop"
+      name: "Bastrop",
+      description: " "
     },
     "48023": {
-      name: "Baylor"
+      name: "Baylor",
+      description: " "
     },
     "48025": {
-      name: "Bee"
+      name: "Bee",
+      description: " "
     },
     "48027": {
+      color: "#f6e944",
       name: "Bell",
       description: "2nd quintile in nation"
     },
     "48029": {
-      color: "#f6e944",
+      color: "#f9ef74",
       name: "Bexar",
       description: "1st quintile in nation"
     },
     "48031": {
-      color: "#f9ef74",
-      name: "Blanco"
+      name: "Blanco",
+      description: " "
     },
     "48033": {
-      name: "Borden"
+      name: "Borden",
+      description: " "
     },
     "48035": {
-      name: "Bosque"
+      name: "Bosque",
+      description: " "
     },
     "48037": {
-      name: "Bowie"
+      name: "Bowie",
+      description: " "
     },
     "48039": {
+      color: "#f9ef74",
       name: "Brazoria",
       description: "1st quintile in nation"
     },
@@ -7595,163 +9405,205 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "48043": {
-      color: "#f9ef74",
-      name: "Brewster"
+      name: "Brewster",
+      description: " "
     },
     "48045": {
-      name: "Briscoe"
+      name: "Briscoe",
+      description: " "
     },
     "48047": {
-      name: "Brooks"
+      name: "Brooks",
+      description: " "
     },
     "48049": {
-      name: "Brown"
+      name: "Brown",
+      description: " "
     },
     "48051": {
-      name: "Burleson"
+      name: "Burleson",
+      description: " "
     },
     "48053": {
-      name: "Burnet"
+      name: "Burnet",
+      description: " "
     },
     "48055": {
-      name: "Caldwell"
+      name: "Caldwell",
+      description: " "
     },
     "48057": {
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "48059": {
-      name: "Callahan"
+      name: "Callahan",
+      description: " "
     },
     "48061": {
+      color: "#f4e313",
       name: "Cameron",
       description: "3rd quintile in nation"
     },
     "48063": {
-      color: "#f4e313",
-      name: "Camp"
+      name: "Camp",
+      description: " "
     },
     "48065": {
-      name: "Carson"
+      name: "Carson",
+      description: " "
     },
     "48067": {
-      name: "Cass"
+      name: "Cass",
+      description: " "
     },
     "48069": {
-      name: "Castro"
+      name: "Castro",
+      description: " "
     },
     "48071": {
-      name: "Chambers"
+      name: "Chambers",
+      description: " "
     },
     "48073": {
-      name: "Cherokee"
+      name: "Cherokee",
+      description: " "
     },
     "48075": {
-      name: "Childress"
+      name: "Childress",
+      description: " "
     },
     "48077": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "48079": {
-      name: "Cochran"
+      name: "Cochran",
+      description: " "
     },
     "48081": {
-      name: "Coke"
+      name: "Coke",
+      description: " "
     },
     "48083": {
-      name: "Coleman"
+      name: "Coleman",
+      description: " "
     },
     "48085": {
+      color: "#f9ef74",
       name: "Collin",
       description: "1st quintile in nation"
     },
     "48087": {
-      color: "#f9ef74",
-      name: "Collingsworth"
+      name: "Collingsworth",
+      description: " "
     },
     "48089": {
-      name: "Colorado"
+      name: "Colorado",
+      description: " "
     },
     "48091": {
+      color: "#f9ef74",
       name: "Comal",
       description: "1st quintile in nation"
     },
     "48093": {
-      color: "#f9ef74",
-      name: "Comanche"
+      name: "Comanche",
+      description: " "
     },
     "48095": {
-      name: "Concho"
+      name: "Concho",
+      description: " "
     },
     "48097": {
-      name: "Cooke"
+      name: "Cooke",
+      description: " "
     },
     "48099": {
-      name: "Coryell"
+      name: "Coryell",
+      description: " "
     },
     "48101": {
-      name: "Cottle"
+      name: "Cottle",
+      description: " "
     },
     "48103": {
-      name: "Crane"
+      name: "Crane",
+      description: " "
     },
     "48105": {
-      name: "Crockett"
+      name: "Crockett",
+      description: " "
     },
     "48107": {
-      name: "Crosby"
+      name: "Crosby",
+      description: " "
     },
     "48109": {
-      name: "Culberson"
+      name: "Culberson",
+      description: " "
     },
     "48111": {
-      name: "Dallam"
+      name: "Dallam",
+      description: " "
     },
     "48113": {
+      color: "#f6e944",
       name: "Dallas",
       description: "2nd quintile in nation"
     },
     "48115": {
-      color: "#f6e944",
-      name: "Dawson"
+      name: "Dawson",
+      description: " "
     },
     "48117": {
-      name: "Deaf Smith"
+      name: "Deaf Smith",
+      description: " "
     },
     "48119": {
-      name: "Delta"
+      name: "Delta",
+      description: " "
     },
     "48121": {
+      color: "#f9ef74",
       name: "Denton",
       description: "1st quintile in nation"
     },
     "48123": {
-      color: "#f9ef74",
-      name: "De Witt"
+      name: "De Witt",
+      description: " "
     },
     "48125": {
-      name: "Dickens"
+      name: "Dickens",
+      description: " "
     },
     "48127": {
-      name: "Dimmit"
+      name: "Dimmit",
+      description: " "
     },
     "48129": {
-      name: "Donley"
+      name: "Donley",
+      description: " "
     },
     "48131": {
-      name: "Duval"
+      name: "Duval",
+      description: " "
     },
     "48133": {
-      name: "Eastland"
+      name: "Eastland",
+      description: " "
     },
     "48135": {
+      color: "#f9ef74",
       name: "Ector",
       description: "1st quintile in nation"
     },
     "48137": {
-      color: "#f9ef74",
-      name: "Edwards"
+      name: "Edwards",
+      description: " "
     },
     "48139": {
+      color: "#f6e944",
       name: "Ellis",
       description: "2nd quintile in nation"
     },
@@ -7761,68 +9613,85 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "48143": {
-      color: "#f6e944",
-      name: "Erath"
+      name: "Erath",
+      description: " "
     },
     "48145": {
-      name: "Falls"
+      name: "Falls",
+      description: " "
     },
     "48147": {
-      name: "Fannin"
+      name: "Fannin",
+      description: " "
     },
     "48149": {
-      name: "Fayette"
+      name: "Fayette",
+      description: " "
     },
     "48151": {
-      name: "Fisher"
+      name: "Fisher",
+      description: " "
     },
     "48153": {
-      name: "Floyd"
+      name: "Floyd",
+      description: " "
     },
     "48155": {
-      name: "Foard"
+      name: "Foard",
+      description: " "
     },
     "48157": {
+      color: "#f9ef74",
       name: "Fort Bend",
       description: "1st quintile in nation"
     },
     "48159": {
-      color: "#f9ef74",
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "48161": {
-      name: "Freestone"
+      name: "Freestone",
+      description: " "
     },
     "48163": {
-      name: "Frio"
+      name: "Frio",
+      description: " "
     },
     "48165": {
-      name: "Gaines"
+      name: "Gaines",
+      description: " "
     },
     "48167": {
+      color: "#f4e313",
       name: "Galveston",
       description: "3rd quintile in nation"
     },
     "48169": {
-      color: "#f4e313",
-      name: "Garza"
+      name: "Garza",
+      description: " "
     },
     "48171": {
-      name: "Gillespie"
+      name: "Gillespie",
+      description: " "
     },
     "48173": {
-      name: "Glasscock"
+      name: "Glasscock",
+      description: " "
     },
     "48175": {
-      name: "Goliad"
+      name: "Goliad",
+      description: " "
     },
     "48177": {
-      name: "Gonzales"
+      name: "Gonzales",
+      description: " "
     },
     "48179": {
-      name: "Gray"
+      name: "Gray",
+      description: " "
     },
     "48181": {
+      color: "#f4e313",
       name: "Grayson",
       description: "3rd quintile in nation"
     },
@@ -7832,419 +9701,530 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "48185": {
-      color: "#f4e313",
-      name: "Grimes"
+      name: "Grimes",
+      description: " "
     },
     "48187": {
+      color: "#f9ef74",
       name: "Guadalupe",
       description: "1st quintile in nation"
     },
     "48189": {
-      color: "#f9ef74",
-      name: "Hale"
+      name: "Hale",
+      description: " "
     },
     "48191": {
-      name: "Hall"
+      name: "Hall",
+      description: " "
     },
     "48193": {
-      name: "Hamilton"
+      name: "Hamilton",
+      description: " "
     },
     "48195": {
-      name: "Hansford"
+      name: "Hansford",
+      description: " "
     },
     "48197": {
-      name: "Hardeman"
+      name: "Hardeman",
+      description: " "
     },
     "48199": {
-      name: "Hardin"
+      name: "Hardin",
+      description: " "
     },
     "48201": {
+      color: "#f9ef74",
       name: "Harris",
       description: "1st quintile in nation"
     },
     "48203": {
-      color: "#f9ef74",
-      name: "Harrison"
+      name: "Harrison",
+      description: " "
     },
     "48205": {
-      name: "Hartley"
+      name: "Hartley",
+      description: " "
     },
     "48207": {
-      name: "Haskell"
+      name: "Haskell",
+      description: " "
     },
     "48209": {
+      color: "#f9ef74",
       name: "Hays",
       description: "1st quintile in nation"
     },
     "48211": {
-      color: "#f9ef74",
-      name: "Hemphill"
+      name: "Hemphill",
+      description: " "
     },
     "48213": {
-      name: "Henderson"
+      name: "Henderson",
+      description: " "
     },
     "48215": {
+      color: "#f6e944",
       name: "Hidalgo",
       description: "2nd quintile in nation"
     },
     "48217": {
-      color: "#f6e944",
-      name: "Hill"
+      name: "Hill",
+      description: " "
     },
     "48219": {
-      name: "Hockley"
+      name: "Hockley",
+      description: " "
     },
     "48221": {
-      name: "Hood"
+      name: "Hood",
+      description: " "
     },
     "48223": {
-      name: "Hopkins"
+      name: "Hopkins",
+      description: " "
     },
     "48225": {
-      name: "Houston"
+      name: "Houston",
+      description: " "
     },
     "48227": {
-      name: "Howard"
+      name: "Howard",
+      description: " "
     },
     "48229": {
-      name: "Hudspeth"
+      name: "Hudspeth",
+      description: " "
     },
     "48231": {
-      name: "Hunt"
+      name: "Hunt",
+      description: " "
     },
     "48233": {
-      name: "Hutchinson"
+      name: "Hutchinson",
+      description: " "
     },
     "48235": {
-      name: "Irion"
+      name: "Irion",
+      description: " "
     },
     "48237": {
-      name: "Jack"
+      name: "Jack",
+      description: " "
     },
     "48239": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "48241": {
-      name: "Jasper"
+      name: "Jasper",
+      description: " "
     },
     "48243": {
-      name: "Jeff Davis"
+      name: "Jeff Davis",
+      description: " "
     },
     "48245": {
+      color: "#9a8f07",
       name: "Jefferson",
       description: "5th quintile in nation"
     },
     "48247": {
-      color: "#9a8f07",
-      name: "Jim Hogg"
+      name: "Jim Hogg",
+      description: " "
     },
     "48249": {
-      name: "Jim Wells"
+      name: "Jim Wells",
+      description: " "
     },
     "48251": {
+      color: "#f6e944",
       name: "Johnson",
       description: "2nd quintile in nation"
     },
     "48253": {
-      color: "#f6e944",
-      name: "Jones"
+      name: "Jones",
+      description: " "
     },
     "48255": {
-      name: "Karnes"
+      name: "Karnes",
+      description: " "
     },
     "48257": {
+      color: "#f6e944",
       name: "Kaufman",
       description: "2nd quintile in nation"
     },
     "48259": {
-      color: "#f6e944",
-      name: "Kendall"
+      name: "Kendall",
+      description: " "
     },
     "48261": {
-      name: "Kenedy"
+      name: "Kenedy",
+      description: " "
     },
     "48263": {
-      name: "Kent"
+      name: "Kent",
+      description: " "
     },
     "48265": {
-      name: "Kerr"
+      name: "Kerr",
+      description: " "
     },
     "48267": {
-      name: "Kimble"
+      name: "Kimble",
+      description: " "
     },
     "48269": {
-      name: "King"
+      name: "King",
+      description: " "
     },
     "48271": {
-      name: "Kinney"
+      name: "Kinney",
+      description: " "
     },
     "48273": {
-      name: "Kleberg"
+      name: "Kleberg",
+      description: " "
     },
     "48275": {
-      name: "Knox"
+      name: "Knox",
+      description: " "
     },
     "48277": {
-      name: "Lamar"
+      name: "Lamar",
+      description: " "
     },
     "48279": {
-      name: "Lamb"
+      name: "Lamb",
+      description: " "
     },
     "48281": {
-      name: "Lampasas"
+      name: "Lampasas",
+      description: " "
     },
     "48283": {
-      name: "La Salle"
+      name: "La Salle",
+      description: " "
     },
     "48285": {
-      name: "Lavaca"
+      name: "Lavaca",
+      description: " "
     },
     "48287": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "48289": {
-      name: "Leon"
+      name: "Leon",
+      description: " "
     },
     "48291": {
-      name: "Liberty"
+      name: "Liberty",
+      description: " "
     },
     "48293": {
-      name: "Limestone"
+      name: "Limestone",
+      description: " "
     },
     "48295": {
-      name: "Lipscomb"
+      name: "Lipscomb",
+      description: " "
     },
     "48297": {
-      name: "Live Oak"
+      name: "Live Oak",
+      description: " "
     },
     "48299": {
-      name: "Llano"
+      name: "Llano",
+      description: " "
     },
     "48301": {
-      name: "Loving"
+      name: "Loving",
+      description: " "
     },
     "48303": {
+      color: "#9a8f07",
       name: "Lubbock"
     },
     "48305": {
-      color: "#9a8f07",
-      name: "Lynn"
+      name: "Lynn",
+      description: " "
     },
     "48307": {
-      name: "McCulloch"
+      name: "McCulloch",
+      description: " "
     },
     "48309": {
+      color: "#cbbc09",
       name: "McLennan",
       description: "4th quintile in nation"
     },
     "48311": {
-      color: "#cbbc09",
-      name: "McMullen"
+      name: "McMullen",
+      description: " "
     },
     "48313": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "48315": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "48317": {
-      name: "Martin"
+      name: "Martin",
+      description: " "
     },
     "48319": {
-      name: "Mason"
+      name: "Mason",
+      description: " "
     },
     "48321": {
-      name: "Matagorda"
+      name: "Matagorda",
+      description: " "
     },
     "48323": {
-      name: "Maverick"
+      name: "Maverick",
+      description: " "
     },
     "48325": {
-      name: "Medina"
+      name: "Medina",
+      description: " "
     },
     "48327": {
-      name: "Menard"
+      name: "Menard",
+      description: " "
     },
     "48329": {
+      color: "#9a8f07",
       name: "Midland",
       description: "5th quintile in nation"
     },
     "48331": {
-      color: "#9a8f07",
-      name: "Milam"
+      name: "Milam",
+      description: " "
     },
     "48333": {
-      name: "Mills"
+      name: "Mills",
+      description: " "
     },
     "48335": {
-      name: "Mitchell"
+      name: "Mitchell",
+      description: " "
     },
     "48337": {
-      name: "Montague"
+      name: "Montague",
+      description: " "
     },
     "48339": {
+      color: "#f9ef74",
       name: "Montgomery",
       description: "1st quintile in nation"
     },
     "48341": {
-      color: "#f9ef74",
-      name: "Moore"
+      name: "Moore",
+      description: " "
     },
     "48343": {
-      name: "Morris"
+      name: "Morris",
+      description: " "
     },
     "48345": {
-      name: "Motley"
+      name: "Motley",
+      description: " "
     },
     "48347": {
-      name: "Nacogdoches"
+      name: "Nacogdoches",
+      description: " "
     },
     "48349": {
-      name: "Navarro"
+      name: "Navarro",
+      description: " "
     },
     "48351": {
-      name: "Newton"
+      name: "Newton",
+      description: " "
     },
     "48353": {
-      name: "Nolan"
+      name: "Nolan",
+      description: " "
     },
     "48355": {
+      color: "#f6e944",
       name: "Nueces",
       description: "2nd quintile in nation"
     },
     "48357": {
-      color: "#f6e944",
-      name: "Ochiltree"
+      name: "Ochiltree",
+      description: " "
     },
     "48359": {
-      name: "Oldham"
+      name: "Oldham",
+      description: " "
     },
     "48361": {
-      name: "Orange"
+      name: "Orange",
+      description: " "
     },
     "48363": {
-      name: "Palo Pinto"
+      name: "Palo Pinto",
+      description: " "
     },
     "48365": {
-      name: "Panola"
+      name: "Panola",
+      description: " "
     },
     "48367": {
+      color: "#f9ef74",
       name: "Parker",
       description: "1st quintile in nation"
     },
     "48369": {
-      color: "#f9ef74",
-      name: "Parmer"
+      name: "Parmer",
+      description: " "
     },
     "48371": {
-      name: "Pecos"
+      name: "Pecos",
+      description: " "
     },
     "48373": {
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "48375": {
+      color: "#f4e313",
       name: "Potter",
       description: "3rd quintile in nation"
     },
     "48377": {
-      color: "#f4e313",
-      name: "Presidio"
+      name: "Presidio",
+      description: " "
     },
     "48379": {
-      name: "Rains"
+      name: "Rains",
+      description: " "
     },
     "48381": {
+      color: "#f4e313",
       name: "Randall",
       description: "3rd quintile in nation"
     },
     "48383": {
-      color: "#f4e313",
-      name: "Reagan"
+      name: "Reagan",
+      description: " "
     },
     "48385": {
-      name: "Real"
+      name: "Real",
+      description: " "
     },
     "48387": {
-      name: "Red River"
+      name: "Red River",
+      description: " "
     },
     "48389": {
-      name: "Reeves"
+      name: "Reeves",
+      description: " "
     },
     "48391": {
-      name: "Refugio"
+      name: "Refugio",
+      description: " "
     },
     "48393": {
-      name: "Roberts"
+      name: "Roberts",
+      description: " "
     },
     "48395": {
-      name: "Robertson"
+      name: "Robertson",
+      description: " "
     },
     "48397": {
-      name: "Rockwall"
+      name: "Rockwall",
+      description: " "
     },
     "48399": {
-      name: "Runnels"
+      name: "Runnels",
+      description: " "
     },
     "48401": {
-      name: "Rusk"
+      name: "Rusk",
+      description: " "
     },
     "48403": {
-      name: "Sabine"
+      name: "Sabine",
+      description: " "
     },
     "48405": {
-      name: "San Augustine"
+      name: "San Augustine",
+      description: " "
     },
     "48407": {
-      name: "San Jacinto"
+      name: "San Jacinto",
+      description: " "
     },
     "48409": {
-      name: "San Patricio"
+      name: "San Patricio",
+      description: " "
     },
     "48411": {
-      name: "San Saba"
+      name: "San Saba",
+      description: " "
     },
     "48413": {
-      name: "Schleicher"
+      name: "Schleicher",
+      description: " "
     },
     "48415": {
-      name: "Scurry"
+      name: "Scurry",
+      description: " "
     },
     "48417": {
-      name: "Shackelford"
+      name: "Shackelford",
+      description: " "
     },
     "48419": {
-      name: "Shelby"
+      name: "Shelby",
+      description: " "
     },
     "48421": {
-      name: "Sherman"
+      name: "Sherman",
+      description: " "
     },
     "48423": {
+      color: "#9a8f07",
       name: "Smith",
       description: "5th quintile in nation"
     },
     "48425": {
-      color: "#9a8f07",
-      name: "Somervell"
+      name: "Somervell",
+      description: " "
     },
     "48427": {
-      name: "Starr"
+      name: "Starr",
+      description: " "
     },
     "48429": {
-      name: "Stephens"
+      name: "Stephens",
+      description: " "
     },
     "48431": {
-      name: "Sterling"
+      name: "Sterling",
+      description: " "
     },
     "48433": {
-      name: "Stonewall"
+      name: "Stonewall",
+      description: " "
     },
     "48435": {
-      name: "Sutton"
+      name: "Sutton",
+      description: " "
     },
     "48437": {
-      name: "Swisher"
+      name: "Swisher",
+      description: " "
     },
     "48439": {
+      color: "#f6e944",
       name: "Tarrant",
       description: "2nd quintile in nation"
     },
@@ -8254,19 +10234,23 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "48443": {
-      color: "#f6e944",
-      name: "Terrell"
+      name: "Terrell",
+      description: " "
     },
     "48445": {
-      name: "Terry"
+      name: "Terry",
+      description: " "
     },
     "48447": {
-      name: "Throckmorton"
+      name: "Throckmorton",
+      description: " "
     },
     "48449": {
-      name: "Titus"
+      name: "Titus",
+      description: " "
     },
     "48451": {
+      color: "#f9ef74",
       name: "Tom Green",
       description: "1st quintile in nation"
     },
@@ -8276,505 +10260,641 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "48455": {
-      color: "#f9ef74",
-      name: "Trinity"
+      name: "Trinity",
+      description: " "
     },
     "48457": {
-      name: "Tyler"
+      name: "Tyler",
+      description: " "
     },
     "48459": {
-      name: "Upshur"
+      name: "Upshur",
+      description: " "
     },
     "48461": {
-      name: "Upton"
+      name: "Upton",
+      description: " "
     },
     "48463": {
-      name: "Uvalde"
+      name: "Uvalde",
+      description: " "
     },
     "48465": {
-      name: "Val Verde"
+      name: "Val Verde",
+      description: " "
     },
     "48467": {
-      name: "Van Zandt"
+      name: "Van Zandt",
+      description: " "
     },
     "48469": {
-      name: "Victoria"
+      name: "Victoria",
+      description: " "
     },
     "48471": {
-      name: "Walker"
+      name: "Walker",
+      description: " "
     },
     "48473": {
-      name: "Waller"
+      name: "Waller",
+      description: " "
     },
     "48475": {
-      name: "Ward"
+      name: "Ward",
+      description: " "
     },
     "48477": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "48479": {
+      color: "#f6e944",
       name: "Webb",
       description: "2nd quintile in nation"
     },
     "48481": {
-      color: "#f6e944",
-      name: "Wharton"
+      name: "Wharton",
+      description: " "
     },
     "48483": {
-      name: "Wheeler"
+      name: "Wheeler",
+      description: " "
     },
     "48485": {
+      color: "#cbbc09",
       name: "Wichita",
       description: "4th quintile in nation"
     },
     "48487": {
-      color: "#cbbc09",
-      name: "Wilbarger"
+      name: "Wilbarger",
+      description: " "
     },
     "48489": {
-      name: "Willacy"
+      name: "Willacy",
+      description: " "
     },
     "48491": {
+      color: "#f9ef74",
       name: "Williamson",
       description: "1st quintile in nation"
     },
     "48493": {
-      color: "#f9ef74",
-      name: "Wilson"
+      name: "Wilson",
+      description: " "
     },
     "48495": {
-      name: "Winkler"
+      name: "Winkler",
+      description: " "
     },
     "48497": {
-      name: "Wise"
+      name: "Wise",
+      description: " "
     },
     "48499": {
-      name: "Wood"
+      name: "Wood",
+      description: " "
     },
     "48501": {
-      name: "Yoakum"
+      name: "Yoakum",
+      description: " "
     },
     "48503": {
-      name: "Young"
+      name: "Young",
+      description: " "
     },
     "48505": {
-      name: "Zapata"
+      name: "Zapata",
+      description: " "
     },
     "48507": {
-      name: "Zavala"
+      name: "Zavala",
+      description: " "
     },
     "49001": {
-      name: "Beaver"
+      name: "Beaver",
+      description: " "
     },
     "49003": {
-      name: "Box Elder"
+      name: "Box Elder",
+      description: " "
     },
     "49005": {
+      color: "#f4e313",
       name: "Cache",
       description: "3rd quintile in nation"
     },
     "49007": {
-      color: "#f4e313",
-      name: "Carbon"
+      name: "Carbon",
+      description: " "
     },
     "49009": {
-      name: "Daggett"
+      name: "Daggett",
+      description: " "
     },
     "49011": {
+      color: "#9a8f07",
       name: "Davis",
       description: "5th quintile in nation"
     },
     "49013": {
-      color: "#9a8f07",
-      name: "Duchesne"
+      name: "Duchesne",
+      description: " "
     },
     "49015": {
-      name: "Emery"
+      name: "Emery",
+      description: " "
     },
     "49017": {
-      name: "Garfield"
+      name: "Garfield",
+      description: " "
     },
     "49019": {
-      name: "Grand"
+      name: "Grand",
+      description: " "
     },
     "49021": {
-      name: "Iron"
+      name: "Iron",
+      description: " "
     },
     "49023": {
-      name: "Juab"
+      name: "Juab",
+      description: " "
     },
     "49025": {
-      name: "Kane"
+      name: "Kane",
+      description: " "
     },
     "49027": {
-      name: "Millard"
+      name: "Millard",
+      description: " "
     },
     "49029": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "49031": {
-      name: "Piute"
+      name: "Piute",
+      description: " "
     },
     "49033": {
-      name: "Rich"
+      name: "Rich",
+      description: " "
     },
     "49035": {
+      color: "#cbbc09",
       name: "Salt Lake",
       description: "4th quintile in nation"
     },
     "49037": {
-      color: "#cbbc09",
-      name: "San Juan"
+      name: "San Juan",
+      description: " "
     },
     "49039": {
-      name: "Sanpete"
+      name: "Sanpete",
+      description: " "
     },
     "49041": {
-      name: "Sevier"
+      name: "Sevier",
+      description: " "
     },
     "49043": {
-      name: "Summit"
+      name: "Summit",
+      description: " "
     },
     "49045": {
-      name: "Tooele"
+      name: "Tooele",
+      description: " "
     },
     "49047": {
-      name: "Uintah"
+      name: "Uintah",
+      description: " "
     },
     "49049": {
+      color: "#f9ef74",
       name: "Utah",
       description: "1st quintile in nation"
     },
     "49051": {
-      color: "#f9ef74",
-      name: "Wasatch"
+      name: "Wasatch",
+      description: " "
     },
     "49053": {
+      color: "#f9ef74",
       name: "Washington",
       description: "1st quintile in nation"
     },
     "49055": {
-      color: "#f9ef74",
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "49057": {
+      color: "#f4e313",
       name: "Weber",
       description: "3rd quintile in nation"
     },
     "50001": {
-      color: "#f4e313",
-      name: "Addison"
+      name: "Addison",
+      description: " "
     },
     "50003": {
-      name: "Bennington"
+      name: "Bennington",
+      description: " "
     },
     "50005": {
-      name: "Caledonia"
+      name: "Caledonia",
+      description: " "
     },
     "50007": {
+      color: "#f4e313",
       name: "Chittenden",
       description: "3rd quintile in nation"
     },
     "50009": {
-      color: "#f4e313",
-      name: "Essex"
+      name: "Essex",
+      description: " "
     },
     "50011": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "50013": {
-      name: "Grand Isle"
+      name: "Grand Isle",
+      description: " "
     },
     "50015": {
-      name: "Lamoille"
+      name: "Lamoille",
+      description: " "
     },
     "50017": {
-      name: "Orange"
+      name: "Orange",
+      description: " "
     },
     "50019": {
-      name: "Orleans"
+      name: "Orleans",
+      description: " "
     },
     "50021": {
-      name: "Rutland"
+      name: "Rutland",
+      description: " "
     },
     "50023": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "50025": {
-      name: "Windham"
+      name: "Windham",
+      description: " "
     },
     "50027": {
-      name: "Windsor"
+      name: "Windsor",
+      description: " "
     },
     "51001": {
-      name: "Accomack"
+      name: "Accomack",
+      description: " "
     },
     "51003": {
+      color: "#f4e313",
       name: "Albemarle",
       description: "3rd quintile in nation"
     },
     "51005": {
-      color: "#f4e313",
-      name: "Alleghany"
+      name: "Alleghany",
+      description: " "
     },
     "51007": {
-      name: "Amelia"
+      name: "Amelia",
+      description: " "
     },
     "51009": {
-      name: "Amherst"
+      name: "Amherst",
+      description: " "
     },
     "51011": {
-      name: "Appomattox"
+      name: "Appomattox",
+      description: " "
     },
     "51013": {
+      color: "#f4e313",
       name: "Arlington",
       description: "3rd quintile in nation"
     },
     "51015": {
-      color: "#f4e313",
-      name: "Augusta"
+      name: "Augusta",
+      description: " "
     },
     "51017": {
-      name: "Bath"
+      name: "Bath",
+      description: " "
     },
     "51019": {
-      name: "Bedford"
+      name: "Bedford",
+      description: " "
     },
     "51021": {
-      name: "Bland"
+      name: "Bland",
+      description: " "
     },
     "51023": {
-      name: "Botetourt"
+      name: "Botetourt",
+      description: " "
     },
     "51025": {
-      name: "Brunswick"
+      name: "Brunswick",
+      description: " "
     },
     "51027": {
-      name: "Buchanan"
+      name: "Buchanan",
+      description: " "
     },
     "51029": {
-      name: "Buckingham"
+      name: "Buckingham",
+      description: " "
     },
     "51031": {
-      name: "Campbell"
+      name: "Campbell",
+      description: " "
     },
     "51033": {
-      name: "Caroline"
+      name: "Caroline",
+      description: " "
     },
     "51035": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "51036": {
-      name: "Charles City"
+      name: "Charles City",
+      description: " "
     },
     "51037": {
-      name: "Charlotte"
+      name: "Charlotte",
+      description: " "
     },
     "51041": {
+      color: "#f6e944",
       name: "Chesterfield",
       description: "2nd quintile in nation"
     },
     "51043": {
-      color: "#f6e944",
-      name: "Clarke"
+      name: "Clarke",
+      description: " "
     },
     "51045": {
-      name: "Craig"
+      name: "Craig",
+      description: " "
     },
     "51047": {
-      name: "Culpeper"
+      name: "Culpeper",
+      description: " "
     },
     "51049": {
-      name: "Cumberland"
+      name: "Cumberland",
+      description: " "
     },
     "51051": {
-      name: "Dickenson"
+      name: "Dickenson",
+      description: " "
     },
     "51053": {
-      name: "Dinwiddie"
+      name: "Dinwiddie",
+      description: " "
     },
     "51057": {
-      name: "Essex"
+      name: "Essex",
+      description: " "
     },
     "51059": {
+      color: "#f6e944",
       name: "Fairfax",
       description: "2nd quintile in nation"
     },
     "51061": {
-      color: "#f6e944",
-      name: "Fauquier"
+      name: "Fauquier",
+      description: " "
     },
     "51063": {
-      name: "Floyd"
+      name: "Floyd",
+      description: " "
     },
     "51065": {
-      name: "Fluvanna"
+      name: "Fluvanna",
+      description: " "
     },
     "51067": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "51069": {
-      name: "Frederick"
+      name: "Frederick",
+      description: " "
     },
     "51071": {
-      name: "Giles"
+      name: "Giles",
+      description: " "
     },
     "51073": {
-      name: "Gloucester"
+      name: "Gloucester",
+      description: " "
     },
     "51075": {
-      name: "Goochland"
+      name: "Goochland",
+      description: " "
     },
     "51077": {
-      name: "Grayson"
+      name: "Grayson",
+      description: " "
     },
     "51079": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "51081": {
-      name: "Greensville"
+      name: "Greensville",
+      description: " "
     },
     "51083": {
-      name: "Halifax"
+      name: "Halifax",
+      description: " "
     },
     "51085": {
+      color: "#cbbc09",
       name: "Hanover",
       description: "4th quintile in nation"
     },
     "51087": {
-      color: "#cbbc09",
+      color: "#f6e944",
       name: "Henrico",
       description: "2nd quintile in nation"
     },
     "51089": {
-      color: "#f6e944",
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "51091": {
-      name: "Highland"
+      name: "Highland",
+      description: " "
     },
     "51093": {
-      name: "Isle of Wight"
+      name: "Isle of Wight",
+      description: " "
     },
     "51095": {
-      name: "James City"
+      name: "James City",
+      description: " "
     },
     "51097": {
-      name: "King and Queen"
+      name: "King and Queen",
+      description: " "
     },
     "51099": {
-      name: "King George"
+      name: "King George",
+      description: " "
     },
     "51101": {
-      name: "King William"
+      name: "King William",
+      description: " "
     },
     "51103": {
-      name: "Lancaster"
+      name: "Lancaster",
+      description: " "
     },
     "51105": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "51107": {
+      color: "#f9ef74",
       name: "Loudoun",
       description: "1st quintile in nation"
     },
     "51109": {
-      color: "#f9ef74",
-      name: "Louisa"
+      name: "Louisa",
+      description: " "
     },
     "51111": {
-      name: "Lunenburg"
+      name: "Lunenburg",
+      description: " "
     },
     "51113": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "51115": {
-      name: "Mathews"
+      name: "Mathews",
+      description: " "
     },
     "51117": {
-      name: "Mecklenburg"
+      name: "Mecklenburg",
+      description: " "
     },
     "51119": {
-      name: "Middlesex"
+      name: "Middlesex",
+      description: " "
     },
     "51121": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "51125": {
-      name: "Nelson"
+      name: "Nelson",
+      description: " "
     },
     "51127": {
-      name: "New Kent"
+      name: "New Kent",
+      description: " "
     },
     "51131": {
-      name: "Northampton"
+      name: "Northampton",
+      description: " "
     },
     "51133": {
-      name: "Northumberland"
+      name: "Northumberland",
+      description: " "
     },
     "51135": {
-      name: "Nottoway"
+      name: "Nottoway",
+      description: " "
     },
     "51137": {
-      name: "Orange"
+      name: "Orange",
+      description: " "
     },
     "51139": {
-      name: "Page"
+      name: "Page",
+      description: " "
     },
     "51141": {
-      name: "Patrick"
+      name: "Patrick",
+      description: " "
     },
     "51143": {
-      name: "Pittsylvania"
+      name: "Pittsylvania",
+      description: " "
     },
     "51145": {
-      name: "Powhatan"
+      name: "Powhatan",
+      description: " "
     },
     "51147": {
-      name: "Prince Edward"
+      name: "Prince Edward",
+      description: " "
     },
     "51149": {
-      name: "Prince George"
+      name: "Prince George",
+      description: " "
     },
     "51153": {
+      color: "#f9ef74",
       name: "Prince William",
       description: "1st quintile in nation"
     },
     "51155": {
-      color: "#f9ef74",
-      name: "Pulaski"
+      name: "Pulaski",
+      description: " "
     },
     "51157": {
-      name: "Rappahannock"
+      name: "Rappahannock",
+      description: " "
     },
     "51159": {
-      name: "Richmond"
+      name: "Richmond",
+      description: " "
     },
     "51161": {
-      name: "Roanoke"
+      name: "Roanoke",
+      description: " "
     },
     "51163": {
-      name: "Rockbridge"
+      name: "Rockbridge",
+      description: " "
     },
     "51165": {
-      name: "Rockingham"
+      name: "Rockingham",
+      description: " "
     },
     "51167": {
-      name: "Russell"
+      name: "Russell",
+      description: " "
     },
     "51169": {
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "51171": {
-      name: "Shenandoah"
+      name: "Shenandoah",
+      description: " "
     },
     "51173": {
-      name: "Smyth"
+      name: "Smyth",
+      description: " "
     },
     "51175": {
-      name: "Southampton"
+      name: "Southampton",
+      description: " "
     },
     "51177": {
+      color: "#f6e944",
       name: "Spotsylvania",
       description: "2nd quintile in nation"
     },
@@ -8784,49 +10904,61 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "51181": {
-      color: "#f6e944",
-      name: "Surry"
+      name: "Surry",
+      description: " "
     },
     "51183": {
-      name: "Sussex"
+      name: "Sussex",
+      description: " "
     },
     "51185": {
-      name: "Tazewell"
+      name: "Tazewell",
+      description: " "
     },
     "51187": {
-      name: "Warren"
+      name: "Warren",
+      description: " "
     },
     "51191": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "51193": {
-      name: "Westmoreland"
+      name: "Westmoreland",
+      description: " "
     },
     "51195": {
-      name: "Wise"
+      name: "Wise",
+      description: " "
     },
     "51197": {
-      name: "Wythe"
+      name: "Wythe",
+      description: " "
     },
     "51199": {
-      name: "York"
+      name: "York",
+      description: " "
     },
     "51510": {
+      color: "#f9ef74",
       name: "Alexandria City",
       description: "1st quintile in nation"
     },
     "51515": {
-      color: "#f9ef74",
-      name: "Bedford City"
+      name: "Bedford City",
+      description: " "
     },
     "51520": {
-      name: "Bristol City"
+      name: "Bristol City",
+      description: " "
     },
     "51530": {
-      name: "Buena Vista City"
+      name: "Buena Vista City",
+      description: " "
     },
     "51540": {
-      name: "Charlottesville City"
+      name: "Charlottesville City",
+      description: " "
     },
     "51550": {
       color: "#9a8f07",
@@ -8834,31 +10966,40 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "51570": {
-      name: "Colonial Heights City"
+      name: "Colonial Heights City",
+      description: " "
     },
     "51580": {
-      name: "Covington City"
+      name: "Covington City",
+      description: " "
     },
     "51590": {
-      name: "Danville City"
+      name: "Danville City",
+      description: " "
     },
     "51595": {
-      name: "Emporia City"
+      name: "Emporia City",
+      description: " "
     },
     "51600": {
-      name: "Fairfax City"
+      name: "Fairfax City",
+      description: " "
     },
     "51610": {
-      name: "Falls Church City"
+      name: "Falls Church City",
+      description: " "
     },
     "51620": {
-      name: "Franklin City"
+      name: "Franklin City",
+      description: " "
     },
     "51630": {
-      name: "Fredericksburg City"
+      name: "Fredericksburg City",
+      description: " "
     },
     "51640": {
-      name: "Galax City"
+      name: "Galax City",
+      description: " "
     },
     "51650": {
       color: "#9a8f07",
@@ -8866,25 +11007,32 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "51660": {
-      name: "Harrisonburg City"
+      name: "Harrisonburg City",
+      description: " "
     },
     "51670": {
-      name: "Hopewell City"
+      name: "Hopewell City",
+      description: " "
     },
     "51678": {
-      name: "Lexington City"
+      name: "Lexington City",
+      description: " "
     },
     "51680": {
-      name: "Lynchburg City"
+      name: "Lynchburg City",
+      description: " "
     },
     "51683": {
-      name: "Manassas City"
+      name: "Manassas City",
+      description: " "
     },
     "51685": {
-      name: "Manassas Park City"
+      name: "Manassas Park City",
+      description: " "
     },
     "51690": {
-      name: "Martinsville City"
+      name: "Martinsville City",
+      description: " "
     },
     "51700": {
       color: "#9a8f07",
@@ -8897,19 +11045,24 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "51720": {
-      name: "Norton City"
+      name: "Norton City",
+      description: " "
     },
     "51730": {
-      name: "Petersburg City"
+      name: "Petersburg City",
+      description: " "
     },
     "51735": {
-      name: "Poquoson City"
+      name: "Poquoson City",
+      description: " "
     },
     "51740": {
-      name: "Portsmouth City"
+      name: "Portsmouth City",
+      description: " "
     },
     "51750": {
-      name: "Radford"
+      name: "Radford",
+      description: " "
     },
     "51760": {
       color: "#f9ef74",
@@ -8917,16 +11070,20 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "51770": {
-      name: "Roanoke City"
+      name: "Roanoke City",
+      description: " "
     },
     "51775": {
-      name: "Salem City"
+      name: "Salem City",
+      description: " "
     },
     "51790": {
-      name: "Staunton City"
+      name: "Staunton City",
+      description: " "
     },
     "51800": {
-      name: "Suffolk City"
+      name: "Suffolk City",
+      description: " "
     },
     "51810": {
       color: "#cbbc09",
@@ -8934,19 +11091,24 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "51820": {
-      name: "Waynesboro City"
+      name: "Waynesboro City",
+      description: " "
     },
     "51830": {
-      name: "Williamsburg City"
+      name: "Williamsburg City",
+      description: " "
     },
     "51840": {
-      name: "Winchester City"
+      name: "Winchester City",
+      description: " "
     },
     "53001": {
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "53003": {
-      name: "Asotin"
+      name: "Asotin",
+      description: " "
     },
     "53005": {
       color: "#f4e313",
@@ -8954,10 +11116,12 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "53007": {
-      name: "Chelan"
+      name: "Chelan",
+      description: " "
     },
     "53009": {
-      name: "Clallam"
+      name: "Clallam",
+      description: " "
     },
     "53011": {
       color: "#f9ef74",
@@ -8965,7 +11129,8 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "53013": {
-      name: "Columbia"
+      name: "Columbia",
+      description: " "
     },
     "53015": {
       color: "#9a8f07",
@@ -8973,28 +11138,36 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "53017": {
-      name: "Douglas"
+      name: "Douglas",
+      description: " "
     },
     "53019": {
-      name: "Ferry"
+      name: "Ferry",
+      description: " "
     },
     "53021": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "53023": {
-      name: "Garfield"
+      name: "Garfield",
+      description: " "
     },
     "53025": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "53027": {
-      name: "Grays Harbor"
+      name: "Grays Harbor",
+      description: " "
     },
     "53029": {
-      name: "Island"
+      name: "Island",
+      description: " "
     },
     "53031": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "53033": {
       color: "#f9ef74",
@@ -9007,28 +11180,36 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "53037": {
-      name: "Kittitas"
+      name: "Kittitas",
+      description: " "
     },
     "53039": {
-      name: "Klickitat"
+      name: "Klickitat",
+      description: " "
     },
     "53041": {
-      name: "Lewis"
+      name: "Lewis",
+      description: " "
     },
     "53043": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "53045": {
-      name: "Mason"
+      name: "Mason",
+      description: " "
     },
     "53047": {
-      name: "Okanogan"
+      name: "Okanogan",
+      description: " "
     },
     "53049": {
-      name: "Pacific"
+      name: "Pacific",
+      description: " "
     },
     "53051": {
-      name: "Pend Oreille"
+      name: "Pend Oreille",
+      description: " "
     },
     "53053": {
       color: "#f4e313",
@@ -9036,7 +11217,8 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "53055": {
-      name: "San Juan"
+      name: "San Juan",
+      description: " "
     },
     "53057": {
       color: "#9a8f07",
@@ -9044,7 +11226,8 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "53059": {
-      name: "Skamania"
+      name: "Skamania",
+      description: " "
     },
     "53061": {
       color: "#f6e944",
@@ -9057,7 +11240,8 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "53065": {
-      name: "Stevens"
+      name: "Stevens",
+      description: " "
     },
     "53067": {
       color: "#cbbc09",
@@ -9065,10 +11249,12 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "53069": {
-      name: "Wahkiakum"
+      name: "Wahkiakum",
+      description: " "
     },
     "53071": {
-      name: "Walla Walla"
+      name: "Walla Walla",
+      description: " "
     },
     "53073": {
       color: "#f4e313",
@@ -9076,7 +11262,8 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "53075": {
-      name: "Whitman"
+      name: "Whitman",
+      description: " "
     },
     "53077": {
       color: "#f6e944",
@@ -9084,7 +11271,8 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "54001": {
-      name: "Barbour"
+      name: "Barbour",
+      description: " "
     },
     "54003": {
       color: "#f4e313",
@@ -9092,55 +11280,72 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "54005": {
-      name: "Boone"
+      name: "Boone",
+      description: " "
     },
     "54007": {
-      name: "Braxton"
+      name: "Braxton",
+      description: " "
     },
     "54009": {
-      name: "Brooke"
+      name: "Brooke",
+      description: " "
     },
     "54011": {
-      name: "Cabell"
+      name: "Cabell",
+      description: " "
     },
     "54013": {
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "54015": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "54017": {
-      name: "Doddridge"
+      name: "Doddridge",
+      description: " "
     },
     "54019": {
-      name: "Fayette"
+      name: "Fayette",
+      description: " "
     },
     "54021": {
-      name: "Gilmer"
+      name: "Gilmer",
+      description: " "
     },
     "54023": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "54025": {
-      name: "Greenbrier"
+      name: "Greenbrier",
+      description: " "
     },
     "54027": {
-      name: "Hampshire"
+      name: "Hampshire",
+      description: " "
     },
     "54029": {
-      name: "Hancock"
+      name: "Hancock",
+      description: " "
     },
     "54031": {
-      name: "Hardy"
+      name: "Hardy",
+      description: " "
     },
     "54033": {
-      name: "Harrison"
+      name: "Harrison",
+      description: " "
     },
     "54035": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "54037": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "54039": {
       color: "#9a8f07",
@@ -9148,34 +11353,44 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "54041": {
-      name: "Lewis"
+      name: "Lewis",
+      description: " "
     },
     "54043": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "54045": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "54047": {
-      name: "McDowell"
+      name: "McDowell",
+      description: " "
     },
     "54049": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "54051": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "54053": {
-      name: "Mason"
+      name: "Mason",
+      description: " "
     },
     "54055": {
-      name: "Mercer"
+      name: "Mercer",
+      description: " "
     },
     "54057": {
-      name: "Mineral"
+      name: "Mineral",
+      description: " "
     },
     "54059": {
-      name: "Mingo"
+      name: "Mingo",
+      description: " "
     },
     "54061": {
       color: "#f6e944",
@@ -9183,88 +11398,116 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "54063": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "54065": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "54067": {
-      name: "Nicholas"
+      name: "Nicholas",
+      description: " "
     },
     "54069": {
-      name: "Ohio"
+      name: "Ohio",
+      description: " "
     },
     "54071": {
-      name: "Pendleton"
+      name: "Pendleton",
+      description: " "
     },
     "54073": {
-      name: "Pleasants"
+      name: "Pleasants",
+      description: " "
     },
     "54075": {
-      name: "Pocahontas"
+      name: "Pocahontas",
+      description: " "
     },
     "54077": {
-      name: "Preston"
+      name: "Preston",
+      description: " "
     },
     "54079": {
-      name: "Putnam"
+      name: "Putnam",
+      description: " "
     },
     "54081": {
-      name: "Raleigh"
+      name: "Raleigh",
+      description: " "
     },
     "54083": {
-      name: "Randolph"
+      name: "Randolph",
+      description: " "
     },
     "54085": {
-      name: "Ritchie"
+      name: "Ritchie",
+      description: " "
     },
     "54087": {
-      name: "Roane"
+      name: "Roane",
+      description: " "
     },
     "54089": {
-      name: "Summers"
+      name: "Summers",
+      description: " "
     },
     "54091": {
-      name: "Taylor"
+      name: "Taylor",
+      description: " "
     },
     "54093": {
-      name: "Tucker"
+      name: "Tucker",
+      description: " "
     },
     "54095": {
-      name: "Tyler"
+      name: "Tyler",
+      description: " "
     },
     "54097": {
-      name: "Upshur"
+      name: "Upshur",
+      description: " "
     },
     "54099": {
-      name: "Wayne"
+      name: "Wayne",
+      description: " "
     },
     "54101": {
-      name: "Webster"
+      name: "Webster",
+      description: " "
     },
     "54103": {
-      name: "Wetzel"
+      name: "Wetzel",
+      description: " "
     },
     "54105": {
-      name: "Wirt"
+      name: "Wirt",
+      description: " "
     },
     "54107": {
-      name: "Wood"
+      name: "Wood",
+      description: " "
     },
     "54109": {
-      name: "Wyoming"
+      name: "Wyoming",
+      description: " "
     },
     "55001": {
-      name: "Adams"
+      name: "Adams",
+      description: " "
     },
     "55003": {
-      name: "Ashland"
+      name: "Ashland",
+      description: " "
     },
     "55005": {
-      name: "Barron"
+      name: "Barron",
+      description: " "
     },
     "55007": {
-      name: "Bayfield"
+      name: "Bayfield",
+      description: " "
     },
     "55009": {
       color: "#f6e944",
@@ -9272,25 +11515,32 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "55011": {
-      name: "Buffalo"
+      name: "Buffalo",
+      description: " "
     },
     "55013": {
-      name: "Burnett"
+      name: "Burnett",
+      description: " "
     },
     "55015": {
-      name: "Calumet"
+      name: "Calumet",
+      description: " "
     },
     "55017": {
-      name: "Chippewa"
+      name: "Chippewa",
+      description: " "
     },
     "55019": {
-      name: "Clark"
+      name: "Clark",
+      description: " "
     },
     "55021": {
-      name: "Columbia"
+      name: "Columbia",
+      description: " "
     },
     "55023": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "55025": {
       color: "#f9ef74",
@@ -9298,16 +11548,20 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "55027": {
-      name: "Dodge"
+      name: "Dodge",
+      description: " "
     },
     "55029": {
-      name: "Door"
+      name: "Door",
+      description: " "
     },
     "55031": {
-      name: "Douglas"
+      name: "Douglas",
+      description: " "
     },
     "55033": {
-      name: "Dunn"
+      name: "Dunn",
+      description: " "
     },
     "55035": {
       color: "#cbbc09",
@@ -9315,7 +11569,8 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "55037": {
-      name: "Florence"
+      name: "Florence",
+      description: " "
     },
     "55039": {
       color: "#f6e944",
@@ -9323,31 +11578,40 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "55041": {
-      name: "Forest"
+      name: "Forest",
+      description: " "
     },
     "55043": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     },
     "55045": {
-      name: "Green"
+      name: "Green",
+      description: " "
     },
     "55047": {
-      name: "Green Lake"
+      name: "Green Lake",
+      description: " "
     },
     "55049": {
-      name: "Iowa"
+      name: "Iowa",
+      description: " "
     },
     "55051": {
-      name: "Iron"
+      name: "Iron",
+      description: " "
     },
     "55053": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "55055": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "55057": {
-      name: "Juneau"
+      name: "Juneau",
+      description: " "
     },
     "55059": {
       color: "#cbbc09",
@@ -9355,7 +11619,8 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "55061": {
-      name: "Kewaunee"
+      name: "Kewaunee",
+      description: " "
     },
     "55063": {
       color: "#9a8f07",
@@ -9363,16 +11628,20 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "55065": {
-      name: "Lafayette"
+      name: "Lafayette",
+      description: " "
     },
     "55067": {
-      name: "Langlade"
+      name: "Langlade",
+      description: " "
     },
     "55069": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "55071": {
-      name: "Manitowoc"
+      name: "Manitowoc",
+      description: " "
     },
     "55073": {
       color: "#f9ef74",
@@ -9380,13 +11649,16 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "55075": {
-      name: "Marinette"
+      name: "Marinette",
+      description: " "
     },
     "55077": {
-      name: "Marquette"
+      name: "Marquette",
+      description: " "
     },
     "55078": {
-      name: "Menominee"
+      name: "Menominee",
+      description: " "
     },
     "55079": {
       color: "#f4e313",
@@ -9394,13 +11666,16 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "55081": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "55083": {
-      name: "Oconto"
+      name: "Oconto",
+      description: " "
     },
     "55085": {
-      name: "Oneida"
+      name: "Oneida",
+      description: " "
     },
     "55087": {
       color: "#f4e313",
@@ -9408,22 +11683,28 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "55089": {
-      name: "Ozaukee"
+      name: "Ozaukee",
+      description: " "
     },
     "55091": {
-      name: "Pepin"
+      name: "Pepin",
+      description: " "
     },
     "55093": {
-      name: "Pierce"
+      name: "Pierce",
+      description: " "
     },
     "55095": {
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "55097": {
-      name: "Portage"
+      name: "Portage",
+      description: " "
     },
     "55099": {
-      name: "Price"
+      name: "Price",
+      description: " "
     },
     "55101": {
       color: "#f4e313",
@@ -9431,7 +11712,8 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "55103": {
-      name: "Richland"
+      name: "Richland",
+      description: " "
     },
     "55105": {
       color: "#f6e944",
@@ -9439,19 +11721,24 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "55107": {
-      name: "Rusk"
+      name: "Rusk",
+      description: " "
     },
     "55109": {
-      name: "St Croix"
+      name: "St Croix",
+      description: " "
     },
     "55111": {
-      name: "Sauk"
+      name: "Sauk",
+      description: " "
     },
     "55113": {
-      name: "Sawyer"
+      name: "Sawyer",
+      description: " "
     },
     "55115": {
-      name: "Shawano"
+      name: "Shawano",
+      description: " "
     },
     "55117": {
       color: "#f6e944",
@@ -9459,16 +11746,20 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "55119": {
-      name: "Taylor"
+      name: "Taylor",
+      description: " "
     },
     "55121": {
-      name: "Trempealeau"
+      name: "Trempealeau",
+      description: " "
     },
     "55123": {
-      name: "Vernon"
+      name: "Vernon",
+      description: " "
     },
     "55125": {
-      name: "Vilas"
+      name: "Vilas",
+      description: " "
     },
     "55127": {
       color: "#9a8f07",
@@ -9476,7 +11767,8 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "55129": {
-      name: "Washburn"
+      name: "Washburn",
+      description: " "
     },
     "55131": {
       color: "#f9ef74",
@@ -9489,10 +11781,12 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "55135": {
-      name: "Waupaca"
+      name: "Waupaca",
+      description: " "
     },
     "55137": {
-      name: "Waushara"
+      name: "Waushara",
+      description: " "
     },
     "55139": {
       color: "#f6e944",
@@ -9500,84 +11794,108 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "55141": {
-      name: "Wood"
+      name: "Wood",
+      description: " "
     },
     "56001": {
-      name: "Albany"
+      name: "Albany",
+      description: " "
     },
     "56003": {
-      name: "Big Horn"
+      name: "Big Horn",
+      description: " "
     },
     "56005": {
-      name: "Campbell"
+      name: "Campbell",
+      description: " "
     },
     "56007": {
-      name: "Carbon"
+      name: "Carbon",
+      description: " "
     },
     "56009": {
-      name: "Converse"
+      name: "Converse",
+      description: " "
     },
     "56011": {
-      name: "Crook"
+      name: "Crook",
+      description: " "
     },
     "56013": {
-      name: "Fremont"
+      name: "Fremont",
+      description: " "
     },
     "56015": {
-      name: "Goshen"
+      name: "Goshen",
+      description: " "
     },
     "56017": {
-      name: "Hot Springs"
+      name: "Hot Springs",
+      description: " "
     },
     "56019": {
-      name: "Johnson"
+      name: "Johnson",
+      description: " "
     },
     "56021": {
-      name: "Laramie"
+      name: "Laramie",
+      description: " "
     },
     "56023": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "56025": {
-      name: "Natrona"
+      name: "Natrona",
+      description: " "
     },
     "56027": {
-      name: "Niobrara"
+      name: "Niobrara",
+      description: " "
     },
     "56029": {
-      name: "Park"
+      name: "Park",
+      description: " "
     },
     "56031": {
-      name: "Platte"
+      name: "Platte",
+      description: " "
     },
     "56033": {
-      name: "Sheridan"
+      name: "Sheridan",
+      description: " "
     },
     "56035": {
-      name: "Sublette"
+      name: "Sublette",
+      description: " "
     },
     "56037": {
-      name: "Sweetwater"
+      name: "Sweetwater",
+      description: " "
     },
     "56039": {
-      name: "Teton"
+      name: "Teton",
+      description: " "
     },
     "56041": {
-      name: "Uinta"
+      name: "Uinta",
+      description: " "
     },
     "56043": {
-      name: "Washakie"
+      name: "Washakie",
+      description: " "
     },
     "56045": {
-      name: "Weston"
+      name: "Weston",
+      description: " "
     },
     "04009": {
-      color: "#f6e944",
-      name: "Graham"
+      name: "Graham",
+      description: " "
     },
     "06115": {
-      color: "#cbbc09",
-      name: "Yuba"
+      name: "Yuba",
+      description: " "
     },
     "06111": {
       color: "#cbbc09",
@@ -9585,20 +11903,25 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "06113": {
+      color: "#f9ef74",
       name: "Yolo",
       description: "1st quintile in nation"
     },
     "01087": {
-      name: "Macon"
+      name: "Macon",
+      description: " "
     },
     "02100": {
-      name: "Haines"
+      name: "Haines",
+      description: " "
     },
     "08115": {
-      name: "Sedgwick"
+      name: "Sedgwick",
+      description: " "
     },
     "01085": {
-      name: "Lowndes"
+      name: "Lowndes",
+      description: " "
     },
     "01081": {
       color: "#f9ef74",
@@ -9606,10 +11929,11 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "01121": {
-      name: "Talladega"
+      name: "Talladega",
+      description: " "
     },
     "06029": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Kern",
       description: "4th quintile in nation"
     },
@@ -9619,75 +11943,91 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "06025": {
+      color: "#9a8f07",
       name: "Imperial",
       description: "5th quintile in nation"
     },
     "06027": {
-      color: "#9a8f07",
-      name: "Inyo"
+      name: "Inyo",
+      description: " "
     },
     "08055": {
-      name: "Huerfano"
+      name: "Huerfano",
+      description: " "
     },
     "05099": {
-      name: "Nevada"
+      name: "Nevada",
+      description: " "
     },
     "05135": {
-      color: "#9a8f07",
-      name: "Sharp"
+      name: "Sharp",
+      description: " "
     },
     "05133": {
-      name: "Sevier"
+      name: "Sevier",
+      description: " "
     },
     "05131": {
+      color: "#9a8f07",
       name: "Sebastian",
       description: "5th quintile in nation"
     },
     "06033": {
-      color: "#cbbc09",
-      name: "Lake"
+      name: "Lake",
+      description: " "
     },
     "05003": {
-      color: "#cbbc09",
-      name: "Ashley"
+      name: "Ashley",
+      description: " "
     },
     "05001": {
-      color: "#f6e944",
-      name: "Arkansas"
+      name: "Arkansas",
+      description: " "
     },
     "05007": {
+      color: "#f9ef74",
       name: "Benton",
       description: "1st quintile in nation"
     },
     "05005": {
-      name: "Baxter"
+      name: "Baxter",
+      description: " "
     },
     "05009": {
-      name: "Boone"
+      name: "Boone",
+      description: " "
     },
     "01025": {
-      name: "Clarke"
+      name: "Clarke",
+      description: " "
     },
     "01027": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "01021": {
-      name: "Chilton"
+      name: "Chilton",
+      description: " "
     },
     "01023": {
-      name: "Choctaw"
+      name: "Choctaw",
+      description: " "
     },
     "01029": {
-      name: "Cleburne"
+      name: "Cleburne",
+      description: " "
     },
     "01111": {
-      name: "Randolph"
+      name: "Randolph",
+      description: " "
     },
     "01113": {
-      name: "Russell"
+      name: "Russell",
+      description: " "
     },
     "01115": {
-      name: "St Clair"
+      name: "St Clair",
+      description: " "
     },
     "01117": {
       color: "#f9ef74",
@@ -9695,90 +12035,112 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "01045": {
-      name: "Dale"
+      name: "Dale",
+      description: " "
     },
     "08059": {
+      color: "#f9ef74",
       name: "Jefferson",
       description: "1st quintile in nation"
     },
     "05093": {
-      name: "Mississippi"
+      name: "Mississippi",
+      description: " "
     },
     "05115": {
-      name: "Pope"
+      name: "Pope",
+      description: " "
     },
     "05117": {
-      name: "Prairie"
+      name: "Prairie",
+      description: " "
     },
     "05111": {
-      name: "Poinsett"
+      name: "Poinsett",
+      description: " "
     },
     "05113": {
-      name: "Polk"
+      name: "Polk",
+      description: " "
     },
     "02130": {
-      name: "Ketchikan Gateway"
+      name: "Ketchikan Gateway",
+      description: " "
     },
     "06107": {
+      color: "#cbbc09",
       name: "Tulare",
       description: "4th quintile in nation"
     },
     "06105": {
-      name: "Trinity"
+      name: "Trinity",
+      description: " "
     },
     "06103": {
-      color: "#f6e944",
-      name: "Tehama"
+      name: "Tehama",
+      description: " "
     },
     "06101": {
-      color: "#f6e944",
-      name: "Sutter"
+      name: "Sutter",
+      description: " "
     },
     "06021": {
-      color: "#cbbc09",
-      name: "Glenn"
+      name: "Glenn",
+      description: " "
     },
     "06039": {
+      color: "#9a8f07",
       name: "Madera",
       description: "5th quintile in nation"
     },
     "05109": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "05103": {
-      name: "Ouachita"
+      name: "Ouachita",
+      description: " "
     },
     "05101": {
-      name: "Newton"
+      name: "Newton",
+      description: " "
     },
     "05107": {
-      name: "Phillips"
+      name: "Phillips",
+      description: " "
     },
     "05105": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "05039": {
-      name: "Dallas"
+      name: "Dallas",
+      description: " "
     },
     "05037": {
-      name: "Cross"
+      name: "Cross",
+      description: " "
     },
     "05035": {
-      color: "#f9ef74",
-      name: "Crittenden"
+      name: "Crittenden",
+      description: " "
     },
     "05033": {
-      name: "Crawford"
+      name: "Crawford",
+      description: " "
     },
     "05031": {
+      color: "#f9ef74",
       name: "Craighead",
       description: "1st quintile in nation"
     },
     "01051": {
-      name: "Elmore"
+      name: "Elmore",
+      description: " "
     },
     "01053": {
-      name: "Escambia"
+      name: "Escambia",
+      description: " "
     },
     "01055": {
       color: "#cbbc09",
@@ -9786,95 +12148,117 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "01057": {
-      name: "Fayette"
+      name: "Fayette",
+      description: " "
     },
     "01059": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "06023": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Humboldt",
       description: "5th quintile in nation"
     },
     "08069": {
+      color: "#f9ef74",
       name: "Larimer",
       description: "1st quintile in nation"
     },
     "08067": {
-      name: "La Plata"
+      name: "La Plata",
+      description: " "
     },
     "08065": {
-      name: "Lake"
+      name: "Lake",
+      description: " "
     },
     "08063": {
-      color: "#f9ef74",
-      name: "Kit Carson"
+      name: "Kit Carson",
+      description: " "
     },
     "08061": {
-      name: "Kiowa"
+      name: "Kiowa",
+      description: " "
     },
     "08085": {
-      name: "Montrose"
+      name: "Montrose",
+      description: " "
     },
     "08087": {
-      name: "Morgan"
+      name: "Morgan",
+      description: " "
     },
     "08081": {
-      color: "#f6e944",
-      name: "Moffat"
+      name: "Moffat",
+      description: " "
     },
     "08083": {
-      name: "Montezuma"
+      name: "Montezuma",
+      description: " "
     },
     "08089": {
-      name: "Otero"
+      name: "Otero",
+      description: " "
     },
     "08031": {
+      color: "#f9ef74",
       name: "Denver",
       description: "1st quintile in nation"
     },
     "08003": {
-      name: "Alamosa"
+      name: "Alamosa",
+      description: " "
     },
     "02122": {
-      name: "Kenai Peninsula"
+      name: "Kenai Peninsula",
+      description: " "
     },
     "04011": {
-      name: "Greenlee"
+      name: "Greenlee",
+      description: " "
     },
     "05139": {
-      name: "Union"
+      name: "Union",
+      description: " "
     },
     "08057": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "06007": {
+      color: "#9a8f07",
       name: "Butte",
       description: "5th quintile in nation"
     },
     "06005": {
-      color: "#f9ef74",
-      name: "Amador"
+      name: "Amador",
+      description: " "
     },
     "06003": {
-      name: "Alpine"
+      name: "Alpine",
+      description: " "
     },
     "06001": {
+      color: "#f9ef74",
       name: "Alameda",
       description: "1st quintile in nation"
     },
     "06009": {
-      name: "Calaveras"
+      name: "Calaveras",
+      description: " "
     },
     "02016": {
-      name: "Aleutians West"
+      name: "Aleutians West",
+      description: " "
     },
     "02013": {
-      name: "Aleutians East"
+      name: "Aleutians East",
+      description: " "
     },
     "06093": {
-      color: "#cbbc09",
-      name: "Siskiyou"
+      name: "Siskiyou",
+      description: " "
     },
     "06059": {
       color: "#cbbc09",
@@ -9882,139 +12266,170 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "06095": {
+      color: "#f4e313",
       name: "Solano",
       description: "3rd quintile in nation"
     },
     "02240": {
-      name: "Southeast Fairbanks"
+      name: "Southeast Fairbanks",
+      description: " "
     },
     "05029": {
-      name: "Conway"
+      name: "Conway",
+      description: " "
     },
     "05021": {
-      name: "Clay"
+      name: "Clay",
+      description: " "
     },
     "05023": {
-      name: "Cleburne"
+      name: "Cleburne",
+      description: " "
     },
     "05025": {
-      name: "Cleveland"
+      name: "Cleveland",
+      description: " "
     },
     "05027": {
-      name: "Columbia"
+      name: "Columbia",
+      description: " "
     },
     "06097": {
+      color: "#f6e944",
       name: "Sonoma",
       description: "2nd quintile in nation"
     },
     "01049": {
-      name: "De Kalb"
+      name: "De Kalb",
+      description: " "
     },
     "05119": {
+      color: "#9a8f07",
       name: "Pulaski",
       description: "5th quintile in nation"
     },
     "06057": {
-      color: "#f4e313",
-      name: "Nevada"
+      name: "Nevada",
+      description: " "
     },
     "08091": {
-      name: "Ouray"
+      name: "Ouray",
+      description: " "
     },
     "08079": {
-      name: "Mineral"
+      name: "Mineral",
+      description: " "
     },
     "08071": {
-      name: "Las Animas"
+      name: "Las Animas",
+      description: " "
     },
     "08073": {
-      color: "#f9ef74",
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "08075": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "08077": {
+      color: "#f6e944",
       name: "Mesa",
       description: "2nd quintile in nation"
     },
     "08097": {
-      name: "Pitkin"
+      name: "Pitkin",
+      description: " "
     },
     "08095": {
-      name: "Phillips"
+      name: "Phillips",
+      description: " "
     },
     "08093": {
-      name: "Park"
+      name: "Park",
+      description: " "
     },
     "08099": {
-      name: "Prowers"
+      name: "Prowers",
+      description: " "
     },
     "06011": {
-      color: "#9a8f07",
-      name: "Colusa"
+      name: "Colusa",
+      description: " "
     },
     "06013": {
+      color: "#f6e944",
       name: "Contra Costa",
       description: "2nd quintile in nation"
     },
     "06015": {
-      name: "Del Norte"
+      name: "Del Norte",
+      description: " "
     },
     "06017": {
-      color: "#f6e944",
+      color: "#cbbc09",
       name: "El Dorado",
       description: "4th quintile in nation"
     },
     "06019": {
+      color: "#f4e313",
       name: "Fresno",
       description: "3rd quintile in nation"
     },
     "02068": {
-      name: "Denali"
+      name: "Denali",
+      description: " "
     },
     "06043": {
-      color: "#9a8f07",
-      name: "Mariposa"
+      name: "Mariposa",
+      description: " "
     },
     "02060": {
-      name: "Bristol Bay"
+      name: "Bristol Bay",
+      description: " "
     },
     "06087": {
-      color: "#f4e313",
+      color: "#f6e944",
       name: "Santa Cruz",
       description: "2nd quintile in nation"
     },
     "06047": {
+      color: "#f4e313",
       name: "Merced",
       description: "3rd quintile in nation"
     },
     "06083": {
-      color: "#f6e944",
+      color: "#f4e313",
       name: "Santa Barbara",
       description: "3rd quintile in nation"
     },
     "08113": {
-      name: "San Miguel"
+      name: "San Miguel",
+      description: " "
     },
     "01077": {
-      name: "Lauderdale"
+      name: "Lauderdale",
+      description: " "
     },
     "06045": {
-      color: "#f4e313",
-      name: "Mendocino"
+      name: "Mendocino",
+      description: " "
     },
     "01075": {
-      name: "Lamar"
+      name: "Lamar",
+      description: " "
     },
     "01067": {
-      name: "Henry"
+      name: "Henry",
+      description: " "
     },
     "01071": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "01095": {
-      name: "Marshall"
+      name: "Marshall",
+      description: " "
     },
     "01097": {
       color: "#f4e313",
@@ -10022,50 +12437,62 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "01091": {
-      name: "Marengo"
+      name: "Marengo",
+      description: " "
     },
     "01093": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "01119": {
-      name: "Sumter"
+      name: "Sumter",
+      description: " "
     },
     "01099": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "06081": {
-      color: "#f4e313",
+      color: "#cbbc09",
       name: "San Mateo",
       description: "4th quintile in nation"
     },
     "02070": {
-      name: "Dillingham"
+      name: "Dillingham",
+      description: " "
     },
     "06077": {
-      color: "#f6e944",
+      color: "#f4e313",
       name: "San Joaquin",
       description: "3rd quintile in nation"
     },
     "02261": {
-      name: "Valdez Cordova"
+      name: "Valdez Cordova",
+      description: " "
     },
     "01061": {
-      name: "Geneva"
+      name: "Geneva",
+      description: " "
     },
     "01063": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "01065": {
-      name: "Hale"
+      name: "Hale",
+      description: " "
     },
     "08053": {
-      name: "Hinsdale"
+      name: "Hinsdale",
+      description: " "
     },
     "08051": {
-      name: "Gunnison"
+      name: "Gunnison",
+      description: " "
     },
     "01131": {
-      name: "Wilcox"
+      name: "Wilcox",
+      description: " "
     },
     "01089": {
       color: "#f4e313",
@@ -10073,7 +12500,8 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "02282": {
-      name: "Yakutat"
+      name: "Yakutat",
+      description: " "
     },
     "02020": {
       color: "#f4e313",
@@ -10081,13 +12509,16 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "01129": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "04012": {
-      name: "La Paz"
+      name: "La Paz",
+      description: " "
     },
     "01007": {
-      name: "Bibb"
+      name: "Bibb",
+      description: " "
     },
     "01003": {
       color: "#f9ef74",
@@ -10095,80 +12526,100 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "02270": {
-      name: "Wade Hampton"
+      name: "Wade Hampton",
+      description: " "
     },
     "02185": {
-      name: "North Slope"
+      name: "North Slope",
+      description: " "
     },
     "05091": {
-      name: "Miller"
+      name: "Miller",
+      description: " "
     },
     "05095": {
-      name: "Monroe"
+      name: "Monroe",
+      description: " "
     },
     "05097": {
-      name: "Montgomery"
+      name: "Montgomery",
+      description: " "
     },
     "05145": {
-      name: "White"
+      name: "White",
+      description: " "
     },
     "05143": {
+      color: "#f9ef74",
       name: "Washington",
       description: "1st quintile in nation"
     },
     "05141": {
-      name: "Van Buren"
+      name: "Van Buren",
+      description: " "
     },
     "01123": {
-      name: "Tallapoosa"
+      name: "Tallapoosa",
+      description: " "
     },
     "01127": {
-      name: "Walker"
+      name: "Walker",
+      description: " "
     },
     "05049": {
-      color: "#f4e313",
-      name: "Fulton"
+      name: "Fulton",
+      description: " "
     },
     "05047": {
-      name: "Franklin"
+      name: "Franklin",
+      description: " "
     },
     "02050": {
-      name: "Bethel"
+      name: "Bethel",
+      description: " "
     },
     "06109": {
-      name: "Tuolumne"
+      name: "Tuolumne",
+      description: " "
     },
     "02201": {
-      name: "Prince Wales Ketchikan"
+      name: "Prince Wales Ketchikan",
+      description: " "
     },
     "05089": {
-      name: "Marion"
+      name: "Marion",
+      description: " "
     },
     "06085": {
-      color: "#cbbc09",
+      color: "#f9ef74",
       name: "Santa Clara",
       description: "1st quintile in nation"
     },
     "01079": {
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "01133": {
-      name: "Winston"
+      name: "Winston",
+      description: " "
     },
     "06031": {
+      color: "#cbbc09",
       name: "Kings",
       description: "4th quintile in nation"
     },
     "06037": {
+      color: "#9a8f07",
       name: "Los Angeles",
       description: "5th quintile in nation"
     },
     "06035": {
-      color: "#cbbc09",
-      name: "Lassen"
+      name: "Lassen",
+      description: " "
     },
     "01043": {
-      name: "Cullman"
+      name: "Cullman",
+      description: " "
     },
     "09015": {
       color: "#9a8f07",
@@ -10176,7 +12627,7 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "09011": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "New London",
       description: "5th quintile in nation"
     },
@@ -10186,20 +12637,24 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "08019": {
-      name: "Clear Creek"
+      name: "Clear Creek",
+      description: " "
     },
     "08017": {
-      name: "Cheyenne"
+      name: "Cheyenne",
+      description: " "
     },
     "08015": {
-      color: "#f6e944",
-      name: "Chaffee"
+      name: "Chaffee",
+      description: " "
     },
     "02180": {
-      name: "Nome"
+      name: "Nome",
+      description: " "
     },
     "02188": {
-      name: "Northwest Arctic"
+      name: "Northwest Arctic",
+      description: " "
     },
     "01073": {
       color: "#cbbc09",
@@ -10207,79 +12662,99 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "08119": {
-      name: "Teller"
+      name: "Teller",
+      description: " "
     },
     "05137": {
-      name: "Stone"
+      name: "Stone",
+      description: " "
     },
     "02220": {
-      name: "Sitka"
+      name: "Sitka",
+      description: " "
     },
     "05149": {
-      name: "Yell"
+      name: "Yell",
+      description: " "
     },
     "05147": {
-      color: "#f9ef74",
-      name: "Woodruff"
+      name: "Woodruff",
+      description: " "
     },
     "01041": {
-      name: "Crenshaw"
+      name: "Crenshaw",
+      description: " "
     },
     "02110": {
-      name: "Juneau"
+      name: "Juneau",
+      description: " "
     },
     "08117": {
-      name: "Summit"
+      name: "Summit",
+      description: " "
     },
     "01047": {
-      name: "Dallas"
+      name: "Dallas",
+      description: " "
     },
     "04003": {
+      color: "#9a8f07",
       name: "Cochise",
       description: "5th quintile in nation"
     },
     "04005": {
+      color: "#f6e944",
       name: "Coconino",
       description: "2nd quintile in nation"
     },
     "04007": {
-      color: "#9a8f07",
-      name: "Gila"
+      name: "Gila",
+      description: " "
     },
     "08111": {
-      name: "San Juan"
+      name: "San Juan",
+      description: " "
     },
     "01083": {
-      name: "Limestone"
+      name: "Limestone",
+      description: " "
     },
     "02150": {
-      name: "Kodiak Island"
+      name: "Kodiak Island",
+      description: " "
     },
     "05125": {
+      color: "#f9ef74",
       name: "Saline",
       description: "1st quintile in nation"
     },
     "02232": {
-      name: "Skagway Hoonah Angoon"
+      name: "Skagway Hoonah Angoon",
+      description: " "
     },
     "05055": {
-      name: "Greene"
+      name: "Greene",
+      description: " "
     },
     "05057": {
-      name: "Hempstead"
+      name: "Hempstead",
+      description: " "
     },
     "05051": {
-      name: "Garland"
+      name: "Garland",
+      description: " "
     },
     "05123": {
-      color: "#9a8f07",
-      name: "St Francis"
+      name: "St Francis",
+      description: " "
     },
     "05059": {
-      name: "Hot Spring"
+      name: "Hot Spring",
+      description: " "
     },
     "08125": {
-      name: "Yuma"
+      name: "Yuma",
+      description: " "
     },
     "08005": {
       color: "#f9ef74",
@@ -10287,7 +12762,8 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "08007": {
-      name: "Archuleta"
+      name: "Archuleta",
+      description: " "
     },
     "08001": {
       color: "#f9ef74",
@@ -10295,54 +12771,61 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "04019": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Pima",
       description: "4th quintile in nation"
     },
     "04013": {
+      color: "#f4e313",
       name: "Maricopa",
       description: "3rd quintile in nation"
     },
     "04017": {
-      color: "#f4e313",
+      color: "#9a8f07",
       name: "Navajo",
       description: "5th quintile in nation"
     },
     "04015": {
+      color: "#9a8f07",
       name: "Mohave",
       description: "5th quintile in nation"
     },
     "08009": {
-      color: "#f9ef74",
-      name: "Baca"
+      name: "Baca",
+      description: " "
     },
     "06091": {
-      color: "#f6e944",
-      name: "Sierra"
+      name: "Sierra",
+      description: " "
     },
     "08121": {
-      name: "Washington"
+      name: "Washington",
+      description: " "
     },
     "02090": {
-      name: "Fairbanks North Star"
+      name: "Fairbanks North Star",
+      description: " "
     },
     "06089": {
-      color: "#f9ef74",
+      color: "#cbbc09",
       name: "Shasta",
       description: "4th quintile in nation"
     },
     "04001": {
-      name: "Apache"
+      name: "Apache",
+      description: " "
     },
     "05129": {
-      color: "#f9ef74",
-      name: "Searcy"
+      name: "Searcy",
+      description: " "
     },
     "05127": {
-      name: "Scott"
+      name: "Scott",
+      description: " "
     },
     "05121": {
-      name: "Randolph"
+      name: "Randolph",
+      description: " "
     },
     "06065": {
       color: "#f4e313",
@@ -10350,95 +12833,110 @@ var simplemaps_countymap_mapdata={
       description: "3rd quintile in nation"
     },
     "06067": {
+      color: "#f4e313",
       name: "Sacramento",
       description: "3rd quintile in nation"
     },
     "06061": {
+      color: "#f4e313",
       name: "Placer",
       description: "3rd quintile in nation"
     },
     "06063": {
-      color: "#cbbc09",
-      name: "Plumas"
+      name: "Plumas",
+      description: " "
     },
     "06069": {
-      color: "#f4e313",
-      name: "San Benito"
+      name: "San Benito",
+      description: " "
     },
     "05045": {
+      color: "#f4e313",
       name: "Faulkner",
       description: "3rd quintile in nation"
     },
     "05043": {
-      name: "Drew"
+      name: "Drew",
+      description: " "
     },
     "05041": {
-      name: "Desha"
+      name: "Desha",
+      description: " "
     },
     "05081": {
-      name: "Little River"
+      name: "Little River",
+      description: " "
     },
     "08105": {
-      color: "#cbbc09",
-      name: "Rio Grande"
+      name: "Rio Grande",
+      description: " "
     },
     "05087": {
-      name: "Madison"
+      name: "Madison",
+      description: " "
     },
     "05085": {
-      name: "Lonoke"
+      name: "Lonoke",
+      description: " "
     },
     "08101": {
+      color: "#cbbc09",
       name: "Pueblo",
       description: "4th quintile in nation"
     },
     "08109": {
-      name: "Saguache"
+      name: "Saguache",
+      description: " "
     },
     "04027": {
+      color: "#cbbc09",
       name: "Yuma",
       description: "4th quintile in nation"
     },
     "04025": {
-      color: "#cbbc09",
+      color: "#f6e944",
       name: "Yavapai",
       description: "2nd quintile in nation"
     },
     "04023": {
-      color: "#cbbc09",
-      name: "Santa Cruz"
+      name: "Santa Cruz",
+      description: " "
     },
     "04021": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Pinal",
       description: "4th quintile in nation"
     },
     "08014": {
-      name: "Broomfield"
+      name: "Broomfield",
+      description: " "
     },
     "08013": {
+      color: "#f6e944",
       name: "Boulder",
       description: "2nd quintile in nation"
     },
     "08011": {
-      name: "Bent"
+      name: "Bent",
+      description: " "
     },
     "06099": {
-      color: "#f4e313",
+      color: "#f6e944",
       name: "Stanislaus",
       description: "2nd quintile in nation"
     },
     "06075": {
-      color: "#cbbc09",
+      color: "#f6e944",
       name: "San Francisco",
       description: "2nd quintile in nation"
     },
     "06073": {
+      color: "#f6e944",
       name: "San Diego",
       description: "2nd quintile in nation"
     },
     "06071": {
-      color: "#f4e313",
+      color: "#cbbc09",
       name: "San Bernardino",
       description: "4th quintile in nation"
     },
@@ -10448,22 +12946,27 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "05079": {
-      name: "Lincoln"
+      name: "Lincoln",
+      description: " "
     },
     "05073": {
-      name: "Lafayette"
+      name: "Lafayette",
+      description: " "
     },
     "05071": {
-      name: "Johnson"
+      name: "Johnson",
+      description: " "
     },
     "05077": {
-      name: "Lee"
+      name: "Lee",
+      description: " "
     },
     "05075": {
-      name: "Lawrence"
+      name: "Lawrence",
+      description: " "
     },
     "06041": {
-      color: "#9a8f07",
+      color: "#f4e313",
       name: "Marin",
       description: "3rd quintile in nation"
     },
@@ -10473,34 +12976,42 @@ var simplemaps_countymap_mapdata={
       description: "2nd quintile in nation"
     },
     "01017": {
-      name: "Chambers"
+      name: "Chambers",
+      description: " "
     },
     "01011": {
-      name: "Bullock"
+      name: "Bullock",
+      description: " "
     },
     "08029": {
-      name: "Delta"
+      name: "Delta",
+      description: " "
     },
     "09003": {
+      color: "#9a8f07",
       name: "Hartford",
       description: "5th quintile in nation"
     },
     "09001": {
-      color: "#f9ef74",
+      color: "#cbbc09",
       name: "Fairfield",
       description: "4th quintile in nation"
     },
     "08023": {
-      name: "Costilla"
+      name: "Costilla",
+      description: " "
     },
     "08021": {
-      name: "Conejos"
+      name: "Conejos",
+      description: " "
     },
     "08027": {
-      name: "Custer"
+      name: "Custer",
+      description: " "
     },
     "08025": {
-      name: "Crowley"
+      name: "Crowley",
+      description: " "
     },
     "09009": {
       color: "#9a8f07",
@@ -10508,13 +13019,16 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "05061": {
-      name: "Howard"
+      name: "Howard",
+      description: " "
     },
     "02164": {
-      name: "Lake and Peninsula"
+      name: "Lake and Peninsula",
+      description: " "
     },
     "06049": {
-      name: "Modoc"
+      name: "Modoc",
+      description: " "
     },
     "01069": {
       color: "#cbbc09",
@@ -10522,28 +13036,36 @@ var simplemaps_countymap_mapdata={
       description: "4th quintile in nation"
     },
     "05065": {
-      name: "Izard"
+      name: "Izard",
+      description: " "
     },
     "05067": {
-      name: "Jackson"
+      name: "Jackson",
+      description: " "
     },
     "05063": {
-      name: "Independence"
+      name: "Independence",
+      description: " "
     },
     "05069": {
-      name: "Jefferson"
+      name: "Jefferson",
+      description: " "
     },
     "02170": {
-      name: "Matanuska Susitna"
+      name: "Matanuska Susitna",
+      description: " "
     },
     "01005": {
-      name: "Barbour"
+      name: "Barbour",
+      description: " "
     },
     "01001": {
-      name: "Autauga"
+      name: "Autauga",
+      description: " "
     },
     "08107": {
-      name: "Routt"
+      name: "Routt",
+      description: " "
     },
     "08035": {
       color: "#f9ef74",
@@ -10551,95 +13073,117 @@ var simplemaps_countymap_mapdata={
       description: "1st quintile in nation"
     },
     "08037": {
-      name: "Eagle"
+      name: "Eagle",
+      description: " "
     },
     "08033": {
-      name: "Dolores"
+      name: "Dolores",
+      description: " "
     },
     "08039": {
-      color: "#f9ef74",
-      name: "Elbert"
+      name: "Elbert",
+      description: " "
     },
     "08103": {
-      name: "Rio Blanco"
+      name: "Rio Blanco",
+      description: " "
     },
     "02280": {
-      name: "Wrangell Petersburg"
+      name: "Wrangell Petersburg",
+      description: " "
     },
     "06055": {
+      color: "#cbbc09",
       name: "Napa",
       description: "4th quintile in nation"
     },
     "06051": {
-      color: "#f4e313",
-      name: "Mono"
+      name: "Mono",
+      description: " "
     },
     "06053": {
+      color: "#f4e313",
       name: "Monterey",
       description: "3rd quintile in nation"
     },
     "01019": {
-      name: "Cherokee"
+      name: "Cherokee",
+      description: " "
     },
     "01009": {
-      name: "Blount"
+      name: "Blount",
+      description: " "
     },
     "01013": {
-      name: "Butler"
+      name: "Butler",
+      description: " "
     },
     "08123": {
+      color: "#f9ef74",
       name: "Weld",
       description: "1st quintile in nation"
     },
     "05011": {
-      color: "#f9ef74",
-      name: "Bradley"
+      name: "Bradley",
+      description: " "
     },
     "05013": {
-      name: "Calhoun"
+      name: "Calhoun",
+      description: " "
     },
     "05015": {
-      name: "Carroll"
+      name: "Carroll",
+      description: " "
     },
     "05017": {
-      name: "Chicot"
+      name: "Chicot",
+      description: " "
     },
     "05019": {
-      name: "Clark"
+      name: "Clark",
+      description: " "
     },
     "02290": {
-      name: "Yukon Koyukuk"
+      name: "Yukon Koyukuk",
+      description: " "
     },
     "01039": {
-      name: "Covington"
+      name: "Covington",
+      description: " "
     },
     "01033": {
-      name: "Colbert"
+      name: "Colbert",
+      description: " "
     },
     "01031": {
-      name: "Coffee"
+      name: "Coffee",
+      description: " "
     },
     "01037": {
-      name: "Coosa"
+      name: "Coosa",
+      description: " "
     },
     "01035": {
-      name: "Conecuh"
+      name: "Conecuh",
+      description: " "
     },
     "09007": {
-      color: "#9a8f07",
+      color: "#cbbc09",
       name: "Middlesex",
       description: "4th quintile in nation"
     },
     "09005": {
-      color: "#cbbc09",
+      color: "#9a8f07",
       name: "Litchfield",
       description: "5th quintile in nation"
     },
     "01107": {
-      name: "Pickens"
+      name: "Pickens",
+      description: " "
     },
     "01105": {
-      name: "Perry"
+      name: "Perry",
+      description: " "
     },
     "01103": {
       color: "#cbbc09",
@@ -10652,30 +13196,37 @@ var simplemaps_countymap_mapdata={
       description: "5th quintile in nation"
     },
     "01109": {
-      name: "Pike"
+      name: "Pike",
+      description: " "
     },
     "05083": {
-      name: "Logan"
+      name: "Logan",
+      description: " "
     },
     "08041": {
+      color: "#f9ef74",
       name: "El Paso",
       description: "1st quintile in nation"
     },
     "08043": {
-      name: "Fremont"
+      name: "Fremont",
+      description: " "
     },
     "08045": {
-      color: "#f9ef74",
-      name: "Garfield"
+      name: "Garfield",
+      description: " "
     },
     "08047": {
-      name: "Gilpin"
+      name: "Gilpin",
+      description: " "
     },
     "08049": {
-      name: "Grand"
+      name: "Grand",
+      description: " "
     },
     "05053": {
-      name: "Grant"
+      name: "Grant",
+      description: " "
     }
   },
   locations: {},
