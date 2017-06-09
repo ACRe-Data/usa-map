@@ -11,7 +11,7 @@ var simplemaps_countymap_mapdata={
     state_description: "State description",
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
-    state_url: "http://simplemaps.com",
+    state_url: "http://www.acredata.com/County-Rankings-by-State_c2.htm",
     border_size: 1.5,
     all_states_inactive: "no",
     all_states_zoomable: "no",
